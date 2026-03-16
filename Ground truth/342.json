@@ -1,0 +1,149 @@
+[
+  {
+    "record_id": "342",
+    "Cantiere": "Cantiere di restauro: AQ - L'Aquila - Museo Nazionale d'Abruzzo - Dipinto ad affresco - Pietà, Storico artistico",
+    "zone/subject_raw": "",
+    "Date": "15 ottobre 1993 - 15 dicembre 1993",
+    "Author": "SIRA S.N.C.",
+    "supporto": "Murale affrescato",
+    "zone": [],
+    "materials_used": [],
+    "technique_used": [
+      "Pulitura meccanica"
+    ],
+    "environmental_issue": [],
+    "working_issue": [],
+    "observations": [
+      "Rimozione della pittura murale dal supporto ligneo di sostegno e sistemazione su piano rigido; indebolimento della trama della tela sul retro mediante abrasione meccanica controllata."
+    ]
+  },
+  {
+    "record_id": "342",
+    "Cantiere": "Cantiere di restauro: AQ - L'Aquila - Museo Nazionale d'Abruzzo - Dipinto ad affresco - Pietà, Storico artistico",
+    "zone/subject_raw": "",
+    "Date": "15 ottobre 1993 - 15 dicembre 1993",
+    "Author": "SIRA S.N.C.",
+    "supporto": "Cartaceo",
+    "zone": [],
+    "materials_used": [
+      "Resine acriliche (Primal, Plexisol, microemulsioni acriliche)"
+    ],
+    "technique_used": [
+      "Riadesione / fissaggio pellicola pittorica"
+    ],
+    "environmental_issue": [],
+    "working_issue": [],
+    "observations": [
+      "Incollaggio su nuovo supporto in Aerolam of Board con doppio strato di resina acrilica; messa sotto vuoto per una settimana e periodo di riposo per evaporazione dell'umidità residua."
+    ]
+  },
+  {
+    "record_id": "342",
+    "Cantiere": "Cantiere di restauro: AQ - L'Aquila - Museo Nazionale d'Abruzzo - Dipinto ad affresco - Pietà, Storico artistico",
+    "zone/subject_raw": "",
+    "Date": "15 ottobre 1993 - 15 dicembre 1993",
+    "Author": "SIRA S.N.C.",
+    "supporto": "Murale affrescato",
+    "zone": [
+      "Decorazioni dipinte"
+    ],
+    "materials_used": [
+      "Sali e tamponi (carbonati, bicarbonati, sali inorganici, soluzioni sature)"
+    ],
+    "technique_used": [
+      "Pulitura con impacchi o gel"
+    ],
+    "environmental_issue": [],
+    "working_issue": [],
+    "observations": [
+      "Pulitura leggera con impacchi di bicarbonato di ammonio e Desogen sulla superficie dipinta."
+    ]
+  },
+  {
+    "record_id": "342",
+    "Cantiere": "Cantiere di restauro: AQ - L'Aquila - Museo Nazionale d'Abruzzo - Dipinto ad affresco - Pietà, Storico artistico",
+    "zone/subject_raw": "",
+    "Date": "15 ottobre 1993 - 15 dicembre 1993",
+    "Author": "SIRA S.N.C.",
+    "supporto": "",
+    "zone": [],
+    "materials_used": [],
+    "technique_used": [
+      "Rimozione di depositi, scialbature o vernici"
+    ],
+    "environmental_issue": [],
+    "working_issue": [
+      "Incompatibilità o non idoneità dei materiali"
+    ],
+    "observations": [
+      "Rimozione meccanica di piccole stuccature non idonee con bisturi e strumenti di precisione."
+    ]
+  },
+  {
+    "record_id": "342",
+    "Cantiere": "Cantiere di restauro: AQ - L'Aquila - Museo Nazionale d'Abruzzo - Dipinto ad affresco - Pietà, Storico artistico",
+    "zone/subject_raw": "",
+    "Date": "15 ottobre 1993 - 15 dicembre 1993",
+    "Author": "SIRA S.N.C.",
+    "supporto": "Murale affrescato",
+    "zone": [
+      "Decorazioni dipinte"
+    ],
+    "materials_used": [
+      "Gesso e stucchi gessosi",
+      "Colle animali (coniglio, bue, colletta)"
+    ],
+    "technique_used": [
+      "Stuccatura / integrazione con malte"
+    ],
+    "environmental_issue": [],
+    "working_issue": [
+      "Lacune/perdite di materiale"
+    ],
+    "observations": [
+      "Stuccatura delle piccole lacune con gesso di Bologna e colla di coniglio per il ripristino della continuità materica."
+    ]
+  },
+  {
+    "record_id": "342",
+    "Cantiere": "Cantiere di restauro: AQ - L'Aquila - Museo Nazionale d'Abruzzo - Dipinto ad affresco - Pietà, Storico artistico",
+    "zone/subject_raw": "",
+    "Date": "15 ottobre 1993 - 15 dicembre 1993",
+    "Author": "SIRA S.N.C.",
+    "supporto": "Murale affrescato",
+    "zone": [],
+    "materials_used": [
+      "Colori (acquerelli, tempere, smalti)"
+    ],
+    "technique_used": [
+      "Integrazione pittorica / reintegrazione cromatica"
+    ],
+    "environmental_issue": [],
+    "working_issue": [],
+    "observations": [
+      "Reintegrazione pittorica con acquerelli Windsor & Newton su zone abrase e lacune."
+    ]
+  },
+  {
+    "record_id": "342",
+    "Cantiere": "Cantiere di restauro: AQ - L'Aquila - Museo Nazionale d'Abruzzo - Dipinto ad affresco - Pietà, Storico artistico",
+    "zone/subject_raw": "",
+    "Date": "15 ottobre 1993 - 15 dicembre 1993",
+    "Author": "SIRA S.N.C.",
+    "supporto": "Murale affrescato",
+    "zone": [
+      "Decorazioni dipinte"
+    ],
+    "materials_used": [
+      "Resine acriliche (Primal, Plexisol, microemulsioni acriliche)"
+    ],
+    "technique_used": [
+      "Protezione finale / verniciatura"
+    ],
+    "environmental_issue": [],
+    "working_issue": [],
+    "observations": [
+      "Applicazione di un protettivo finale trasparente a base di resina acrilica Paraloid B72 al 2% spruzzata sul dipinto affresco."
+    ]
+  }
+]

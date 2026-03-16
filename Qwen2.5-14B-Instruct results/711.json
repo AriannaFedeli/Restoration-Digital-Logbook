@@ -1,0 +1,115 @@
+[
+  {
+    "record_id": "711",
+    "Cantiere": "Cantiere di restauro: AQ-L'Aquila-Coppito Chiesa S. Pietro Apostolo- affreschi, Storico artistico",
+    "zone/subject_raw": "",
+    "Date": "1 dicembre 1987 - 24 dicembre 1987",
+    "Author": "Pietro Dalla Nave",
+    "supporto": "",
+    "zone": [],
+    "materials_used": [],
+    "technique_used": [
+      "Pulitura meccanica"
+    ],
+    "environmental_issue": [],
+    "working_issue": [
+      "Lacune/perdite di materiale"
+    ],
+    "observations": [
+      "Operazione mirata alla rimozione di stuccature in gesso e cemento, conservando parti delicate per preservare la superficie pittorica."
+    ]
+  },
+  {
+    "record_id": "711",
+    "Cantiere": "Cantiere di restauro: AQ-L'Aquila-Coppito Chiesa S. Pietro Apostolo- affreschi, Storico artistico",
+    "zone/subject_raw": "",
+    "Date": "1 dicembre 1987 - 24 dicembre 1987",
+    "Author": "Pietro Dalla Nave",
+    "supporto": "",
+    "zone": [],
+    "materials_used": [
+      "Resine acriliche (Primal, Plexisol, microemulsioni acriliche)"
+    ],
+    "technique_used": [
+      "Consolidamento per iniezione / impregnazione"
+    ],
+    "environmental_issue": [
+      "presenza di acqua che causa solubilizzazione dei solfati"
+    ],
+    "working_issue": [
+      "Adesione/coesione insufficiente"
+    ],
+    "observations": [
+      "Risanamento dei difetti di adesione dell’arriccio e dell’intonaco mediante iniezioni di resina acrilica."
+    ]
+  },
+  {
+    "record_id": "711",
+    "Cantiere": "Cantiere di restauro: AQ-L'Aquila-Coppito Chiesa S. Pietro Apostolo- affreschi, Storico artistico",
+    "zone/subject_raw": "",
+    "Date": "1 dicembre 1987 - 24 dicembre 1987",
+    "Author": "Pietro Dalla Nave",
+    "supporto": "Murario",
+    "zone": [
+      "Murature"
+    ],
+    "materials_used": [],
+    "technique_used": [
+      "Riadesione / fissaggio pellicola pittorica"
+    ],
+    "environmental_issue": [],
+    "working_issue": [
+      "Instabilità strutturale/degli assemblaggi"
+    ],
+    "observations": [
+      "Riadesione dei frammenti di intonaco instabili precedentemente trattenuti solo da stuccature di gesso lungo i bordi."
+    ]
+  },
+  {
+    "record_id": "711",
+    "Cantiere": "Cantiere di restauro: AQ-L'Aquila-Coppito Chiesa S. Pietro Apostolo- affreschi, Storico artistico",
+    "zone/subject_raw": "",
+    "Date": "1 dicembre 1987 - 24 dicembre 1987",
+    "Author": "Pietro Dalla Nave",
+    "supporto": "",
+    "zone": [],
+    "materials_used": [
+      "Calce idraulica / NHL",
+      "Inerti e sabbie"
+    ],
+    "technique_used": [
+      "Interventi su intonaci (intonacatura / reintonacatura)"
+    ],
+    "environmental_issue": [],
+    "working_issue": [
+      "Lacune/perdite di materiale",
+      "Fessure/fenditure/fratture/rotture"
+    ],
+    "observations": [
+      "Risarcimento delle lacune profonde e delle fessurazioni con malta composta da calce idraulica e sabbia calcarea locale stesa in sottolivello."
+    ]
+  },
+  {
+    "record_id": "711",
+    "Cantiere": "Cantiere di restauro: AQ-L'Aquila-Coppito Chiesa S. Pietro Apostolo- affreschi, Storico artistico",
+    "zone/subject_raw": "",
+    "Date": "1 dicembre 1987 - 24 dicembre 1987",
+    "Author": "Pietro Dalla Nave",
+    "supporto": "",
+    "zone": [
+      "Decorazioni dipinte"
+    ],
+    "materials_used": [
+      "Calce idraulica / NHL",
+      "Inerti e sabbie"
+    ],
+    "technique_used": [
+      "Stuccatura / integrazione con malte"
+    ],
+    "environmental_issue": [],
+    "working_issue": [],
+    "observations": [
+      "Intervento focalizzato sulla riparazione di lacune minori."
+    ]
+  }
+]

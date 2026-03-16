@@ -1,0 +1,398 @@
+[
+  {
+    "record_id": "1600",
+    "Cantiere": "Cantiere di restauro: Lucca - Chiesa di S. Caterina - Lavori di consolidamento e restauro, Architettonico",
+    "zone/subject_raw": "Manto di copertura",
+    "Date": "- 19 ottobre 2011",
+    "Author": "Laura Panzani",
+    "supporto": "Architettonico",
+    "zone": [
+      "Coperture"
+    ],
+    "materials_used": [
+      "Laterizio/cotto/mattoni"
+    ],
+    "technique_used": [],
+    "environmental_issue": [],
+    "working_issue": [],
+    "observations": [
+      "Rimozione del manto di copertura in coppi di cotto."
+    ]
+  },
+  {
+    "record_id": "1600",
+    "Cantiere": "Cantiere di restauro: Lucca - Chiesa di S. Caterina - Lavori di consolidamento e restauro, Architettonico",
+    "zone/subject_raw": "Manto di copertura",
+    "Date": "- 19 ottobre 2011",
+    "Author": "Laura Panzani",
+    "supporto": "Architettonico",
+    "zone": [
+      "Coperture"
+    ],
+    "materials_used": [
+      "Fibre e compositi (fibra di vetro, carbonio, vetroresina)",
+      "Malte cementizie"
+    ],
+    "technique_used": [
+      "Interventi strutturali locali (cuci-scuci, cerchiatura, ancoraggi)"
+    ],
+    "environmental_issue": [],
+    "working_issue": [],
+    "observations": [
+      "Installato diaframma rigido con rete in fibra di vetro e malta idraulica sull'estradosso delle pianelle in cotto."
+    ]
+  },
+  {
+    "record_id": "1600",
+    "Cantiere": "Cantiere di restauro: Lucca - Chiesa di S. Caterina - Lavori di consolidamento e restauro, Architettonico",
+    "zone/subject_raw": "Manto di copertura",
+    "Date": "- 19 ottobre 2011",
+    "Author": "Laura Panzani",
+    "supporto": "Architettonico",
+    "zone": [
+      "Coperture"
+    ],
+    "materials_used": [
+      "Fibre e compositi (fibra di vetro, carbonio, vetroresina)",
+      "Reti e armature (rete elettrosaldata, reti in fibra, Mapegrid)"
+    ],
+    "technique_used": [
+      "Interventi strutturali locali (cuci-scuci, cerchiatura, ancoraggi)"
+    ],
+    "environmental_issue": [],
+    "working_issue": [],
+    "observations": [
+      "È stato effettuato il collegamento della rete di rinforzo al manto di copertura mediante fiocchi in fibra di carbonio."
+    ]
+  },
+  {
+    "record_id": "1600",
+    "Cantiere": "Cantiere di restauro: Lucca - Chiesa di S. Caterina - Lavori di consolidamento e restauro, Architettonico",
+    "zone/subject_raw": "Manto di copertura",
+    "Date": "- 19 ottobre 2011",
+    "Author": "Laura Panzani",
+    "supporto": "Architettonico",
+    "zone": [
+      "Coperture"
+    ],
+    "materials_used": [
+      "Materiali per coperture (coppi, tegole, scossaline, membrane)"
+    ],
+    "technique_used": [],
+    "environmental_issue": [],
+    "working_issue": [],
+    "observations": [
+      "Riposizionamento finale dei coppi sulla copertura.",
+      "Fissaggio effettuato con ganci ferma-coppo."
+    ]
+  },
+  {
+    "record_id": "1600",
+    "Cantiere": "Cantiere di restauro: Lucca - Chiesa di S. Caterina - Lavori di consolidamento e restauro, Architettonico",
+    "zone/subject_raw": "Capriata C1",
+    "Date": "- 19 ottobre 2011",
+    "Author": "Laura Panzani",
+    "supporto": "Architettonico",
+    "zone": [
+      "Colonne/Capitelli/Trabeazioni"
+    ],
+    "materials_used": [],
+    "technique_used": [
+      "Interventi strutturali locali (cuci-scuci, cerchiatura, ancoraggi)"
+    ],
+    "environmental_issue": [],
+    "working_issue": [],
+    "observations": [
+      "Rinforzo globale della capriata lignea C1 per contrastare l'inflessione della catena dovuta a carichi puntuali."
+    ]
+  },
+  {
+    "record_id": "1600",
+    "Cantiere": "Cantiere di restauro: Lucca - Chiesa di S. Caterina - Lavori di consolidamento e restauro, Architettonico",
+    "zone/subject_raw": "Capriata C1",
+    "Date": "- 19 ottobre 2011",
+    "Author": "Laura Panzani",
+    "supporto": "Architettonico",
+    "zone": [],
+    "materials_used": [
+      "Legno (massello, assito, multistrato, compensati)"
+    ],
+    "technique_used": [
+      "Interventi strutturali locali (cuci-scuci, cerchiatura, ancoraggi)"
+    ],
+    "environmental_issue": [],
+    "working_issue": [],
+    "observations": [
+      "Inseriti nuovi vincoli intermedi costituiti da puntelli lignei inclinati verso l’esterno."
+    ]
+  },
+  {
+    "record_id": "1600",
+    "Cantiere": "Cantiere di restauro: Lucca - Chiesa di S. Caterina - Lavori di consolidamento e restauro, Architettonico",
+    "zone/subject_raw": "Capriata C1",
+    "Date": "- 19 ottobre 2011",
+    "Author": "Laura Panzani",
+    "supporto": "Architettonico",
+    "zone": [],
+    "materials_used": [],
+    "technique_used": [],
+    "environmental_issue": [],
+    "working_issue": [],
+    "observations": [
+      "Installazione di un trefolo in acciaio zincato post-tesato ad anello."
+    ]
+  },
+  {
+    "record_id": "1600",
+    "Cantiere": "Cantiere di restauro: Lucca - Chiesa di S. Caterina - Lavori di consolidamento e restauro, Architettonico",
+    "zone/subject_raw": "Capriata C2",
+    "Date": "- 19 ottobre 2011",
+    "Author": "Laura Panzani",
+    "supporto": "Architettonico",
+    "zone": [],
+    "materials_used": [],
+    "technique_used": [
+      "Interventi strutturali locali (cuci-scuci, cerchiatura, ancoraggi)"
+    ],
+    "environmental_issue": [],
+    "working_issue": [],
+    "observations": [
+      "Intervento di trasferimento dei carichi e ricostruzione parziale della controcatena per mantenere in opera le strutture originali."
+    ]
+  },
+  {
+    "record_id": "1600",
+    "Cantiere": "Cantiere di restauro: Lucca - Chiesa di S. Caterina - Lavori di consolidamento e restauro, Architettonico",
+    "zone/subject_raw": "Orditura primaria e secondaria",
+    "Date": "- 19 ottobre 2011",
+    "Author": "Laura Panzani",
+    "supporto": "Architettonico",
+    "zone": [],
+    "materials_used": [
+      "Legno (massello, assito, multistrato, compensati)"
+    ],
+    "technique_used": [
+      "Interventi strutturali locali (cuci-scuci, cerchiatura, ancoraggi)"
+    ],
+    "environmental_issue": [],
+    "working_issue": [],
+    "observations": [
+      "Sostituzione di travi degradate con elementi in legno della stessa specie e dimensione."
+    ]
+  },
+  {
+    "record_id": "1600",
+    "Cantiere": "Cantiere di restauro: Lucca - Chiesa di S. Caterina - Lavori di consolidamento e restauro, Architettonico",
+    "zone/subject_raw": "Pilastro in muratura",
+    "Date": "- 19 ottobre 2011",
+    "Author": "Laura Panzani",
+    "supporto": "Architettonico",
+    "zone": [
+      "Colonne/Capitelli/Trabeazioni"
+    ],
+    "materials_used": [
+      "Calce idraulica / NHL",
+      "Malte a base calce (premiscelate o tradizionali)",
+      "Laterizio/cotto/mattoni"
+    ],
+    "technique_used": [
+      "Stuccatura / integrazione con malte"
+    ],
+    "environmental_issue": [],
+    "working_issue": [],
+    "observations": [
+      "Rincocciatura eseguita su pilastro poligonale con frammenti di mattoni e malta di calce idraulica."
+    ]
+  },
+  {
+    "record_id": "1600",
+    "Cantiere": "Cantiere di restauro: Lucca - Chiesa di S. Caterina - Lavori di consolidamento e restauro, Architettonico",
+    "zone/subject_raw": "Pilastro in muratura",
+    "Date": "- 19 ottobre 2011",
+    "Author": "Laura Panzani",
+    "supporto": "Architettonico",
+    "zone": [
+      "Murature",
+      "Colonne/Capitelli/Trabeazioni"
+    ],
+    "materials_used": [
+      "Metalli ferrosi (ferro, acciaio, zincato)",
+      "Fibre e compositi (fibra di vetro, carbonio, vetroresina)",
+      "Resine epossidiche (Araldite, Sikadur, Epox)"
+    ],
+    "technique_used": [
+      "Interventi strutturali locali (cuci-scuci, cerchiatura, ancoraggi)"
+    ],
+    "environmental_issue": [],
+    "working_issue": [],
+    "observations": [
+      "È stata effettuata una cerchiatura del pilastro in muratura con rete in acciaio inox, fiocchi in fibra di carbonio e resina epossidica."
+    ]
+  },
+  {
+    "record_id": "1600",
+    "Cantiere": "Cantiere di restauro: Lucca - Chiesa di S. Caterina - Lavori di consolidamento e restauro, Architettonico",
+    "zone/subject_raw": "Murature perimetrali sottotetto",
+    "Date": "- 19 ottobre 2011",
+    "Author": "Laura Panzani",
+    "supporto": "Architettonico",
+    "zone": [
+      "Murature"
+    ],
+    "materials_used": [
+      "Malte da iniezione/micronizzate"
+    ],
+    "technique_used": [
+      "Consolidamento per iniezione / impregnazione"
+    ],
+    "environmental_issue": [],
+    "working_issue": [],
+    "observations": [
+      "Consolidamento della muratura perimetrale con iniezioni per ripristinare la monoliticità."
+    ]
+  },
+  {
+    "record_id": "1600",
+    "Cantiere": "Cantiere di restauro: Lucca - Chiesa di S. Caterina - Lavori di consolidamento e restauro, Architettonico",
+    "zone/subject_raw": "Presidio antisismico passivo - Cupola",
+    "Date": "- 19 ottobre 2011",
+    "Author": "Laura Panzani",
+    "supporto": "Architettonico",
+    "zone": [
+      "Cupola"
+    ],
+    "materials_used": [],
+    "technique_used": [],
+    "environmental_issue": [],
+    "working_issue": [],
+    "observations": [
+      "Tecnica dell’Arco Armato applicata per il confinamento della cupola."
+    ]
+  },
+  {
+    "record_id": "1600",
+    "Cantiere": "Cantiere di restauro: Lucca - Chiesa di S. Caterina - Lavori di consolidamento e restauro, Architettonico",
+    "zone/subject_raw": "Presidio antisismico passivo - Cupola",
+    "Date": "- 19 ottobre 2011",
+    "Author": "Laura Panzani",
+    "supporto": "Architettonico",
+    "zone": [
+      "Cupola",
+      "Murature"
+    ],
+    "materials_used": [
+      "Metalli ferrosi (ferro, acciaio, zincato)"
+    ],
+    "technique_used": [],
+    "environmental_issue": [],
+    "working_issue": [],
+    "observations": [
+      "Posa di cavi in acciaio zincato ancorati alla muratura verticale della cupola."
+    ]
+  },
+  {
+    "record_id": "1600",
+    "Cantiere": "Cantiere di restauro: Lucca - Chiesa di S. Caterina - Lavori di consolidamento e restauro, Architettonico",
+    "zone/subject_raw": "Presidio antisismico passivo - Cupola",
+    "Date": "- 19 ottobre 2011",
+    "Author": "Laura Panzani",
+    "supporto": "Architettonico",
+    "zone": [
+      "Cupola"
+    ],
+    "materials_used": [],
+    "technique_used": [
+      "Interventi strutturali locali (cuci-scuci, cerchiatura, ancoraggi)"
+    ],
+    "environmental_issue": [],
+    "working_issue": [],
+    "observations": [
+      "Tensionamento dei cavi mediante tenditori per intervento antisismico nella cupola."
+    ]
+  },
+  {
+    "record_id": "1600",
+    "Cantiere": "Cantiere di restauro: Lucca - Chiesa di S. Caterina - Lavori di consolidamento e restauro, Architettonico",
+    "zone/subject_raw": "Solaio sottotetto",
+    "Date": "- 19 ottobre 2011",
+    "Author": "Laura Panzani",
+    "supporto": "Architettonico",
+    "zone": [
+      "Pavimenti/Solai"
+    ],
+    "materials_used": [],
+    "technique_used": [],
+    "environmental_issue": [],
+    "working_issue": [],
+    "observations": [
+      "Sostituzione completa del solaio del sottotetto."
+    ]
+  },
+  {
+    "record_id": "1600",
+    "Cantiere": "Cantiere di restauro: Lucca - Chiesa di S. Caterina - Lavori di consolidamento e restauro, Architettonico",
+    "zone/subject_raw": "Solaio sottotetto",
+    "Date": "- 19 ottobre 2011",
+    "Author": "Laura Panzani",
+    "supporto": "Architettonico",
+    "zone": [
+      "Pavimenti/Solai"
+    ],
+    "materials_used": [
+      "Laterizio/cotto/mattoni",
+      "Legno (massello, assito, multistrato, compensati)"
+    ],
+    "technique_used": [
+      "Pulitura meccanica",
+      "Rimozione di depositi, scialbature o vernici"
+    ],
+    "environmental_issue": [],
+    "working_issue": [],
+    "observations": [
+      "Rimozione e pulitura meccanica del pavimento in cotto montante.",
+      "Successivo riposizionamento del pavimento su nuovo assito."
+    ]
+  },
+  {
+    "record_id": "1600",
+    "Cantiere": "Cantiere di restauro: Lucca - Chiesa di S. Caterina - Lavori di consolidamento e restauro, Architettonico",
+    "zone/subject_raw": "Solaio sottotetto",
+    "Date": "- 19 ottobre 2011",
+    "Author": "Laura Panzani",
+    "supporto": "Architettonico",
+    "zone": [
+      "Pavimenti/Solai"
+    ],
+    "materials_used": [
+      "Legno (massello, assito, multistrato, compensati)"
+    ],
+    "technique_used": [
+      "Interventi strutturali locali (cuci-scuci, cerchiatura, ancoraggi)"
+    ],
+    "environmental_issue": [],
+    "working_issue": [],
+    "observations": [
+      "Sostituita l'orditura primaria con travi in legno di castagno (12x16 cm) nel solaio sottotetto."
+    ]
+  },
+  {
+    "record_id": "1600",
+    "Cantiere": "Cantiere di restauro: Lucca - Chiesa di S. Caterina - Lavori di consolidamento e restauro, Architettonico",
+    "zone/subject_raw": "Solaio sottotetto",
+    "Date": "- 19 ottobre 2011",
+    "Author": "Laura Panzani",
+    "supporto": "Architettonico",
+    "zone": [
+      "Pavimenti/Solai"
+    ],
+    "materials_used": [
+      "Legno (massello, assito, multistrato, compensati)"
+    ],
+    "technique_used": [],
+    "environmental_issue": [],
+    "working_issue": [],
+    "observations": [
+      "Posa di triplice strato di assito ligneo incrociato collegato alle travi e al profilo angolare perimetrale."
+    ]
+  }
+]

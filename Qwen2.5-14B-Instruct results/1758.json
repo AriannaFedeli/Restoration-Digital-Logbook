@@ -1,0 +1,315 @@
+[
+  {
+    "record_id": "1747",
+    "Cantiere": "Cantiere di restauro: I stralcio - Messa di sicurezza dei locali di proprietà della Provincia dati in comodato ad Alma, Architettonico",
+    "zone/subject_raw": "",
+    "Date": "2013-04-01 00:00:00",
+    "Author": "Buia Nereo S.r.l.",
+    "supporto": "Architettonico",
+    "zone": [
+      "Murature",
+      "Volte"
+    ],
+    "materials_used": [
+      "Malte strutturali/alte prestazioni"
+    ],
+    "technique_used": [
+      "Interventi strutturali locali (cuci-scuci, cerchiatura, ancoraggi)"
+    ],
+    "environmental_issue": [],
+    "working_issue": [
+      "Instabilità strutturale/degli assemblaggi",
+      "Difficoltà operative e accessibilità (quota, posizionamento, intervento diretto)"
+    ],
+    "observations": [
+      "Si prevede di intervenire smontando e rimontando i corsi di muratura per implementare la resistenza alla pressoflessione."
+    ]
+  },
+  {
+    "record_id": "1747",
+    "Cantiere": "Cantiere di restauro: I stralcio - Messa di sicurezza dei locali di proprietà della Provincia dati in comodato ad Alma, Architettonico",
+    "zone/subject_raw": "",
+    "Date": "2013-04-01 00:00:00",
+    "Author": "Buia Nereo S.r.l.",
+    "supporto": "Architettonico",
+    "zone": [
+      "Colonne/Capitelli/Trabeazioni"
+    ],
+    "materials_used": [],
+    "technique_used": [
+      "Interventi strutturali locali (cuci-scuci, cerchiatura, ancoraggi)"
+    ],
+    "environmental_issue": [],
+    "working_issue": [],
+    "observations": [
+      "Si prevede l'integrazione dei sistemi di ancoraggio esistenti, il consolidamento e la connessione alla struttura del basamento comune all'obelisco."
+    ]
+  },
+  {
+    "record_id": "1747",
+    "Cantiere": "Cantiere di restauro: I stralcio - Messa di sicurezza dei locali di proprietà della Provincia dati in comodato ad Alma, Architettonico",
+    "zone/subject_raw": "",
+    "Date": "2013-04-01 00:00:00",
+    "Author": "Buia Nereo S.r.l.",
+    "supporto": "Architettonico",
+    "zone": [],
+    "materials_used": [],
+    "technique_used": [],
+    "environmental_issue": [],
+    "working_issue": [],
+    "observations": [
+      "Il testo menziona operazioni di contraffortamento e ancoraggio, ma non fornisce dettagli sufficienti per identificare zone specifiche, materiali utilizzati, tecniche applicate o problemi ambientali o lavorativi."
+    ]
+  },
+  {
+    "record_id": "1747",
+    "Cantiere": "Cantiere di restauro: I stralcio - Messa di sicurezza dei locali di proprietà della Provincia dati in comodato ad Alma, Architettonico",
+    "zone/subject_raw": "",
+    "Date": "2013-04-01 00:00:00",
+    "Author": "Buia Nereo S.r.l.",
+    "supporto": "Architettonico",
+    "zone": [
+      "Murature"
+    ],
+    "materials_used": [
+      "Malte cementizie"
+    ],
+    "technique_used": [
+      "Indagini diagnostiche e analisi preliminari"
+    ],
+    "environmental_issue": [],
+    "working_issue": [],
+    "observations": [
+      "Indagini stratigrafiche condotte per valutare le malte esistenti di rivestimento."
+    ]
+  },
+  {
+    "record_id": "1747",
+    "Cantiere": "Cantiere di restauro: I stralcio - Messa di sicurezza dei locali di proprietà della Provincia dati in comodato ad Alma, Architettonico",
+    "zone/subject_raw": "",
+    "Date": "2013-04-01 00:00:00",
+    "Author": "Buia Nereo S.r.l.",
+    "supporto": "Murario",
+    "zone": [
+      "Murature"
+    ],
+    "materials_used": [],
+    "technique_used": [
+      "Pulitura meccanica"
+    ],
+    "environmental_issue": [],
+    "working_issue": [
+      "Pulitura difficile o non controllabile"
+    ],
+    "observations": [
+      "La rimozione di una porzione limitata di finitura superficiale ha rivelato una muratura in laterizio."
+    ]
+  },
+  {
+    "record_id": "1747",
+    "Cantiere": "Cantiere di restauro: I stralcio - Messa di sicurezza dei locali di proprietà della Provincia dati in comodato ad Alma, Architettonico",
+    "zone/subject_raw": "",
+    "Date": "2013-04-01 00:00:00",
+    "Author": "Buia Nereo S.r.l.",
+    "supporto": "Architettonico",
+    "zone": [],
+    "materials_used": [
+      "Calce idraulica / NHL",
+      "Cocciopesto/pozzolana e leganti storici"
+    ],
+    "technique_used": [],
+    "environmental_issue": [],
+    "working_issue": [],
+    "observations": [
+      "Formulazione di malte di calce idraulica per sostituire l'intonaco cementizio rimosso."
+    ]
+  },
+  {
+    "record_id": "1747",
+    "Cantiere": "Cantiere di restauro: I stralcio - Messa di sicurezza dei locali di proprietà della Provincia dati in comodato ad Alma, Architettonico",
+    "zone/subject_raw": "",
+    "Date": "2013-04-01 00:00:00",
+    "Author": "Buia Nereo S.r.l.",
+    "supporto": "Architettonico",
+    "zone": [
+      "Murature"
+    ],
+    "materials_used": [
+      "Malte cementizie",
+      "Malte a base calce (premiscelate o tradizionali)"
+    ],
+    "technique_used": [
+      "Pulitura meccanica",
+      "Rimozione di depositi, scialbature o vernici"
+    ],
+    "environmental_issue": [],
+    "working_issue": [
+      "Distacco/disancoraggio",
+      "Deformazioni/dislocazioni/sconnessioni"
+    ],
+    "observations": [
+      "Operazioni di smontaggio e rimontaggio dei laterizi con attenzione alla pulitura e rimozione di malte cementizie."
+    ]
+  },
+  {
+    "record_id": "1747",
+    "Cantiere": "Cantiere di restauro: I stralcio - Messa di sicurezza dei locali di proprietà della Provincia dati in comodato ad Alma, Architettonico",
+    "zone/subject_raw": "",
+    "Date": "2013-04-01 00:00:00",
+    "Author": "Buia Nereo S.r.l.",
+    "supporto": "Murario",
+    "zone": [
+      "Murature"
+    ],
+    "materials_used": [
+      "Malte cementizie",
+      "Cocciopesto/pozzolana e leganti storici"
+    ],
+    "technique_used": [
+      "Pulitura meccanica",
+      "Consolidamento per iniezione / impregnazione",
+      "Stuccatura / integrazione con malte"
+    ],
+    "environmental_issue": [],
+    "working_issue": [],
+    "observations": [
+      "Pulitura effettuata con spazzole morbide.",
+      "Consolidamento effettuato con estere dell'acido silicico.",
+      "Stuccatura realizzata con malta di calce idraulica e cocciopesto."
+    ]
+  },
+  {
+    "record_id": "1747",
+    "Cantiere": "Cantiere di restauro: I stralcio - Messa di sicurezza dei locali di proprietà della Provincia dati in comodato ad Alma, Architettonico",
+    "zone/subject_raw": "",
+    "Date": "2013-04-01 00:00:00",
+    "Author": "Buia Nereo S.r.l.",
+    "supporto": "Architettonico",
+    "zone": [],
+    "materials_used": [
+      "Fibre e compositi (fibra di vetro, carbonio, vetroresina)"
+    ],
+    "technique_used": [
+      "Consolidamento superficiale"
+    ],
+    "environmental_issue": [],
+    "working_issue": [],
+    "observations": [
+      "Si utilizzano fibre al carbonio per il consolidamento/miglioramento sismico."
+    ]
+  },
+  {
+    "record_id": "1747",
+    "Cantiere": "Cantiere di restauro: I stralcio - Messa di sicurezza dei locali di proprietà della Provincia dati in comodato ad Alma, Architettonico",
+    "zone/subject_raw": "",
+    "Date": "2013-04-01 00:00:00",
+    "Author": "Buia Nereo S.r.l.",
+    "supporto": "Architettonico",
+    "zone": [],
+    "materials_used": [
+      "Malte cementizie",
+      "Malte da iniezione/micronizzate"
+    ],
+    "technique_used": [
+      "Interventi su intonaci (intonacatura / reintonacatura)",
+      "Ritocco / velatura / patinatura"
+    ],
+    "environmental_issue": [],
+    "working_issue": [],
+    "observations": [
+      "Ripristino dell'intonaco con malta di calce idraulica e applicazione di velature finali."
+    ]
+  },
+  {
+    "record_id": "1747",
+    "Cantiere": "Cantiere di restauro: I stralcio - Messa di sicurezza dei locali di proprietà della Provincia dati in comodato ad Alma, Architettonico",
+    "zone/subject_raw": "",
+    "Date": "2013-04-01 00:00:00",
+    "Author": "Buia Nereo S.r.l.",
+    "supporto": "Murario",
+    "zone": [
+      "Murature"
+    ],
+    "materials_used": [
+      "Fibre e compositi (fibra di vetro, carbonio, vetroresina)"
+    ],
+    "technique_used": [
+      "Interventi strutturali locali (cuci-scuci, cerchiatura, ancoraggi)"
+    ],
+    "environmental_issue": [],
+    "working_issue": [],
+    "observations": [
+      "L'intervento prevede l'inserimento di un tutore intradosso solidarizzato alla struttura muraria tramite fibre composite al carbonio."
+    ]
+  },
+  {
+    "record_id": "1747",
+    "Cantiere": "Cantiere di restauro: I stralcio - Messa di sicurezza dei locali di proprietà della Provincia dati in comodato ad Alma, Architettonico",
+    "zone/subject_raw": "",
+    "Date": "2013-04-01 00:00:00",
+    "Author": "Buia Nereo S.r.l.",
+    "supporto": "Architettonico",
+    "zone": [
+      "Pavimenti/Solai"
+    ],
+    "materials_used": [],
+    "technique_used": [
+      "Consolidamento per iniezione / impregnazione",
+      "Interventi strutturali locali (cuci-scuci, cerchiatura, ancoraggi)"
+    ],
+    "environmental_issue": [],
+    "working_issue": [],
+    "observations": [
+      "Gli interventi mirano al consolidamento e al ripristino dei solai in legno."
+    ]
+  },
+  {
+    "record_id": "1747",
+    "Cantiere": "Cantiere di restauro: I stralcio - Messa di sicurezza dei locali di proprietà della Provincia dati in comodato ad Alma, Architettonico",
+    "zone/subject_raw": "",
+    "Date": "2013-04-01 00:00:00",
+    "Author": "Buia Nereo S.r.l.",
+    "supporto": "Architettonico",
+    "zone": [
+      "Murature"
+    ],
+    "materials_used": [],
+    "technique_used": [
+      "Rimozione di depositi, scialbature o vernici",
+      "Consolidamento per iniezione / impregnazione"
+    ],
+    "environmental_issue": [],
+    "working_issue": [
+      "Distacco/disancoraggio",
+      "Fessure/fenditure/fratture/rotture"
+    ],
+    "observations": [
+      "Si prevede il ripristino del quadro fessurativo per tutti i locali del secondo piano."
+    ]
+  },
+  {
+    "record_id": "1747",
+    "Cantiere": "Cantiere di restauro: I stralcio - Messa di sicurezza dei locali di proprietà della Provincia dati in comodato ad Alma, Architettonico",
+    "zone/subject_raw": "",
+    "Date": "2013-04-01 00:00:00",
+    "Author": "Buia Nereo S.r.l.",
+    "supporto": "Architettonico",
+    "zone": [
+      "Coperture"
+    ],
+    "materials_used": [
+      "Elementi di rinforzo (barre filettate, microbarre, piastre, profili)"
+    ],
+    "technique_used": [
+      "Interventi strutturali locali (cuci-scuci, cerchiatura, ancoraggi)"
+    ],
+    "environmental_issue": [],
+    "working_issue": [
+      "Instabilità strutturale/degli assemblaggi",
+      "Rischi in movimentazione/sollevamento"
+    ],
+    "observations": [
+      "Si prevede l'inserimento di fascie di collegamento e cuciture con barre filettate in corrispondenza delle discontinuità evidenziate dal recente movimento tellurico."
+    ]
+  }
+]

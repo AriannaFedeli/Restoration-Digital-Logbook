@@ -1,0 +1,495 @@
+[
+  {
+    "record_id": "1159.0",
+    "Cantiere": "Cantiere di restauro: Parma - Chiesa Parrocchiale di San Michele Arcangelo - Restauro dipinti murali, Architettonico",
+    "zone/subject_raw": "Dipinti murali",
+    "Date": "2004 - 2008",
+    "Author": "Stefania Prosa - Paola Zucchi",
+    "supporto": "Architettonico",
+    "zone": [
+      "Decorazioni dipinte"
+    ],
+    "materials_used": [
+      "Acqua (generica)"
+    ],
+    "technique_used": [
+      "Pulitura ad umido / lavaggio"
+    ],
+    "environmental_issue": [],
+    "working_issue": [],
+    "observations": [
+      "Pulitura ad umido della pellicola pittorica con vapori d'acqua."
+    ]
+  },
+  {
+    "record_id": "1159.0",
+    "Cantiere": "Cantiere di restauro: Parma - Chiesa Parrocchiale di San Michele Arcangelo - Restauro dipinti murali, Architettonico",
+    "zone/subject_raw": "Dipinti murali",
+    "Date": "2004 - 2008",
+    "Author": "Stefania Prosa - Paola Zucchi",
+    "supporto": "Architettonico",
+    "zone": [],
+    "materials_used": [
+      "Cellulosa e polpe (arbocell, polpa di carta/cellulosa)",
+      "Solventi organici polari (acetone, etilacetato, MEK, DMF, DMSO)"
+    ],
+    "technique_used": [
+      "Pulitura con impacchi o gel"
+    ],
+    "environmental_issue": [],
+    "working_issue": [],
+    "observations": [
+      "Sono state usate compresse di polpa di cellulosa o cotone idrofilo impregnate di alcool etilico denaturato o acetone per gonfiare e rimuovere il film di resina sintetica."
+    ]
+  },
+  {
+    "record_id": "1159.0",
+    "Cantiere": "Cantiere di restauro: Parma - Chiesa Parrocchiale di San Michele Arcangelo - Restauro dipinti murali, Architettonico",
+    "zone/subject_raw": "Dipinti murali",
+    "Date": "2004 - 2008",
+    "Author": "Stefania Prosa - Paola Zucchi",
+    "supporto": "Architettonico",
+    "zone": [
+      "Decorazioni dipinte"
+    ],
+    "materials_used": [
+      "Acqua deionizzata/demineralizzata/distillata",
+      "Sali e tamponi (carbonati, bicarbonati, sali inorganici, soluzioni sature)",
+      "Carta e carte tecniche (giapponese, velina, riso, assorbente)"
+    ],
+    "technique_used": [
+      "Pulitura con impacchi o gel"
+    ],
+    "environmental_issue": [],
+    "working_issue": [],
+    "observations": [
+      "Applicazione di impacco con carta giapponese e soluzione di carbonato di ammonio in acqua distillata."
+    ]
+  },
+  {
+    "record_id": "1159.0",
+    "Cantiere": "Cantiere di restauro: Parma - Chiesa Parrocchiale di San Michele Arcangelo - Restauro dipinti murali, Architettonico",
+    "zone/subject_raw": "Dipinti murali",
+    "Date": "2004 - 2008",
+    "Author": "Stefania Prosa - Paola Zucchi",
+    "supporto": "Architettonico",
+    "zone": [
+      "Decorazioni dipinte"
+    ],
+    "materials_used": [
+      "Acqua (generica)",
+      "Solventi organici polari (acetone, etilacetato, MEK, DMF, DMSO)"
+    ],
+    "technique_used": [
+      "Pulitura ad umido / lavaggio",
+      "Pulitura chimica"
+    ],
+    "environmental_issue": [],
+    "working_issue": [],
+    "observations": [
+      "Risciacquo con vapor acqueo seguito da pulitura con solvente organico (alcool etilico o acetone) per rimuovere residui di resina sintetica e ridipinture."
+    ]
+  },
+  {
+    "record_id": "1159.0",
+    "Cantiere": "Cantiere di restauro: Parma - Chiesa Parrocchiale di San Michele Arcangelo - Restauro dipinti murali, Architettonico",
+    "zone/subject_raw": "Dipinti murali",
+    "Date": "2004 - 2008",
+    "Author": "Stefania Prosa - Paola Zucchi",
+    "supporto": "Architettonico",
+    "zone": [
+      "Decorazioni dipinte"
+    ],
+    "materials_used": [],
+    "technique_used": [
+      "Pulitura meccanica",
+      "Rimozione di depositi, scialbature o vernici"
+    ],
+    "environmental_issue": [],
+    "working_issue": [],
+    "observations": [
+      "Rimozione meccanica dei residui della vecchia scialbatura di calce."
+    ]
+  },
+  {
+    "record_id": "1159.0",
+    "Cantiere": "Cantiere di restauro: Parma - Chiesa Parrocchiale di San Michele Arcangelo - Restauro dipinti murali, Architettonico",
+    "zone/subject_raw": "Dipinti murali",
+    "Date": "2004 - 2008",
+    "Author": "Stefania Prosa - Paola Zucchi",
+    "supporto": "Architettonico",
+    "zone": [
+      "Decorazioni dipinte"
+    ],
+    "materials_used": [
+      "Calce (grassello, calce dolce, calce storica)"
+    ],
+    "technique_used": [
+      "Pulitura meccanica"
+    ],
+    "environmental_issue": [],
+    "working_issue": [],
+    "observations": [
+      "Rimozione meccanica della calce e delle tinteggiature con frese al tungsteno, trapani odontotecnici, martellina e bisturi."
+    ]
+  },
+  {
+    "record_id": "1159.0",
+    "Cantiere": "Cantiere di restauro: Parma - Chiesa Parrocchiale di San Michele Arcangelo - Restauro dipinti murali, Architettonico",
+    "zone/subject_raw": "Dipinti murali",
+    "Date": "2004 - 2008",
+    "Author": "Stefania Prosa - Paola Zucchi",
+    "supporto": "Architettonico",
+    "zone": [
+      "Decorazioni dipinte"
+    ],
+    "materials_used": [],
+    "technique_used": [
+      "Preconsolidamento"
+    ],
+    "environmental_issue": [],
+    "working_issue": [],
+    "observations": [
+      "Applicazione preliminare di impacco con resine a scambio ionico (tipo cationico) per 10-30 minuti su aree più resistenti."
+    ]
+  },
+  {
+    "record_id": "1159.0",
+    "Cantiere": "Cantiere di restauro: Parma - Chiesa Parrocchiale di San Michele Arcangelo - Restauro dipinti murali, Architettonico",
+    "zone/subject_raw": "Dipinti murali",
+    "Date": "2004 - 2008",
+    "Author": "Stefania Prosa - Paola Zucchi",
+    "supporto": "Architettonico",
+    "zone": [
+      "Decorazioni dipinte"
+    ],
+    "materials_used": [],
+    "technique_used": [
+      "Pulitura meccanica"
+    ],
+    "environmental_issue": [],
+    "working_issue": [],
+    "observations": [
+      "Rimozione meccanica di malte, stuccature e zoccolature cementizie mediante scalzatura dall’alto verso il basso."
+    ]
+  },
+  {
+    "record_id": "1159.0",
+    "Cantiere": "Cantiere di restauro: Parma - Chiesa Parrocchiale di San Michele Arcangelo - Restauro dipinti murali, Architettonico",
+    "zone/subject_raw": "Dipinti murali",
+    "Date": "2004 - 2008",
+    "Author": "Stefania Prosa - Paola Zucchi",
+    "supporto": "Architettonico",
+    "zone": [
+      "Murature"
+    ],
+    "materials_used": [],
+    "technique_used": [
+      "Consolidamento superficiale"
+    ],
+    "environmental_issue": [],
+    "working_issue": [
+      "Distacco/disancoraggio"
+    ],
+    "observations": [
+      "Consolidamento di emergenza realizzato per contrastare i distacchi gravi degli intonaci originali."
+    ]
+  },
+  {
+    "record_id": "1159.0",
+    "Cantiere": "Cantiere di restauro: Parma - Chiesa Parrocchiale di San Michele Arcangelo - Restauro dipinti murali, Architettonico",
+    "zone/subject_raw": "Dipinti murali",
+    "Date": "2004 - 2008",
+    "Author": "Stefania Prosa - Paola Zucchi",
+    "supporto": "Architettonico",
+    "zone": [
+      "Decorazioni dipinte"
+    ],
+    "materials_used": [
+      "Acqua (generica)"
+    ],
+    "technique_used": [
+      "Pulitura ad umido / lavaggio",
+      "Rimozione di depositi, scialbature o vernici"
+    ],
+    "environmental_issue": [],
+    "working_issue": [],
+    "observations": [
+      "Pulitura con vapor acqueo effettuata sui dipinti murali.",
+      "Descialbo dei frammenti rinvenuti sotto le malte incongrue."
+    ]
+  },
+  {
+    "record_id": "1159.0",
+    "Cantiere": "Cantiere di restauro: Parma - Chiesa Parrocchiale di San Michele Arcangelo - Restauro dipinti murali, Architettonico",
+    "zone/subject_raw": "Dipinti murali",
+    "Date": "2004 - 2008",
+    "Author": "Stefania Prosa - Paola Zucchi",
+    "supporto": "Architettonico",
+    "zone": [
+      "Decorazioni dipinte"
+    ],
+    "materials_used": [
+      "Malte a base calce (premiscelate o tradizionali)"
+    ],
+    "technique_used": [
+      "Consolidamento per iniezione / impregnazione"
+    ],
+    "environmental_issue": [],
+    "working_issue": [
+      "Adesione/coesione insufficiente"
+    ],
+    "observations": [
+      "Consolidamento per iniezione di malte idrauliche premiscelate per difetti di adesione."
+    ]
+  },
+  {
+    "record_id": "1159.0",
+    "Cantiere": "Cantiere di restauro: Parma - Chiesa Parrocchiale di San Michele Arcangelo - Restauro dipinti murali, Architettonico",
+    "zone/subject_raw": "Dipinti murali",
+    "Date": "2004 - 2008",
+    "Author": "Stefania Prosa - Paola Zucchi",
+    "supporto": "Architettonico",
+    "zone": [],
+    "materials_used": [
+      "Resine acriliche (Primal, Plexisol, microemulsioni acriliche)",
+      "Soluzioni idroalcoliche"
+    ],
+    "technique_used": [
+      "Preconsolidamento"
+    ],
+    "environmental_issue": [],
+    "working_issue": [
+      "Adesione/coesione insufficiente"
+    ],
+    "observations": [
+      "È stato impiegato Acril 33 in emulsione idroalcolica per mitigare i difetti di adesione tra intonaci quattrocentesco e cinquecentesco."
+    ]
+  },
+  {
+    "record_id": "1159.0",
+    "Cantiere": "Cantiere di restauro: Parma - Chiesa Parrocchiale di San Michele Arcangelo - Restauro dipinti murali, Architettonico",
+    "zone/subject_raw": "Dipinti murali",
+    "Date": "2004 - 2008",
+    "Author": "Stefania Prosa - Paola Zucchi",
+    "supporto": "Architettonico",
+    "zone": [
+      "Decorazioni dipinte"
+    ],
+    "materials_used": [
+      "Calce (grassello, calce dolce, calce storica)",
+      "Inerti e sabbie",
+      "Cariche minerali (carbonato di calcio, polveri di pietra/marmo/travertino)"
+    ],
+    "technique_used": [
+      "Stuccatura / integrazione con malte"
+    ],
+    "environmental_issue": [],
+    "working_issue": [
+      "Lacune/perdite di materiale"
+    ],
+    "observations": [
+      "Stuccatura delle lacune di piccola e media entità con malta a base di calce, sabbia finissima e polvere di marmo."
+    ]
+  },
+  {
+    "record_id": "1159.0",
+    "Cantiere": "Cantiere di restauro: Parma - Chiesa Parrocchiale di San Michele Arcangelo - Restauro dipinti murali, Architettonico",
+    "zone/subject_raw": "Dipinti murali",
+    "Date": "2004 - 2008",
+    "Author": "Stefania Prosa - Paola Zucchi",
+    "supporto": "Architettonico",
+    "zone": [],
+    "materials_used": [
+      "Calce idraulica / NHL",
+      "Cocciopesto/pozzolana e leganti storici",
+      "Inerti e sabbie"
+    ],
+    "technique_used": [
+      "Stuccatura / integrazione con malte"
+    ],
+    "environmental_issue": [],
+    "working_issue": [],
+    "observations": [
+      "Applicazione di una malta idraulica a base di calce idraulica, pozzolana e sabbia per colmare lacune profonde."
+    ]
+  },
+  {
+    "record_id": "1159.0",
+    "Cantiere": "Cantiere di restauro: Parma - Chiesa Parrocchiale di San Michele Arcangelo - Restauro dipinti murali, Architettonico",
+    "zone/subject_raw": "Dipinti murali",
+    "Date": "2004 - 2008",
+    "Author": "Stefania Prosa - Paola Zucchi",
+    "supporto": "Architettonico",
+    "zone": [
+      "Decorazioni dipinte"
+    ],
+    "materials_used": [
+      "Acqua (generica)",
+      "Pigmenti e terre coloranti"
+    ],
+    "technique_used": [
+      "Integrazione pittorica / reintegrazione cromatica"
+    ],
+    "environmental_issue": [],
+    "working_issue": [],
+    "observations": [
+      "Reintegrazione pittorica di abrasioni e cadute con acquerelli Winsor & Newton mediante velature di abbassamento di tono."
+    ]
+  },
+  {
+    "record_id": "1159.0",
+    "Cantiere": "Cantiere di restauro: Parma - Chiesa Parrocchiale di San Michele Arcangelo - Restauro dipinti murali, Architettonico",
+    "zone/subject_raw": "Dipinti murali",
+    "Date": "2004 - 2008",
+    "Author": "Stefania Prosa - Paola Zucchi",
+    "supporto": "Architettonico",
+    "zone": [
+      "Decorazioni dipinte"
+    ],
+    "materials_used": [
+      "Colori (acquerelli, tempere, smalti)"
+    ],
+    "technique_used": [
+      "Stuccatura / integrazione con malte",
+      "Integrazione pittorica / reintegrazione cromatica"
+    ],
+    "environmental_issue": [],
+    "working_issue": [],
+    "observations": [
+      "Reintegrazione delle stuccature a tono con acquerelli Winsor & Newton.",
+      "Applicazione di colori ad acquerello per la reintegrazione cromatica delle superfici dipinte."
+    ]
+  },
+  {
+    "record_id": "1159.0",
+    "Cantiere": "Cantiere di restauro: Parma - Chiesa Parrocchiale di San Michele Arcangelo - Restauro dipinti murali, Architettonico",
+    "zone/subject_raw": "Dipinti murali",
+    "Date": "2004 - 2008",
+    "Author": "Stefania Prosa - Paola Zucchi",
+    "supporto": "Architettonico",
+    "zone": [],
+    "materials_used": [
+      "Stucchi (a base calce/resina/cellulosici)"
+    ],
+    "technique_used": [
+      "Stuccatura / integrazione con malte",
+      "Integrazione pittorica / reintegrazione cromatica"
+    ],
+    "environmental_issue": [],
+    "working_issue": [],
+    "observations": [
+      "Reintegrazione delle stuccature con ricostruzione cromatica o abbassamento di tono per migliorare la leggibilità."
+    ]
+  },
+  {
+    "record_id": "1159.0",
+    "Cantiere": "Cantiere di restauro: Parma - Chiesa Parrocchiale di San Michele Arcangelo - Restauro dipinti murali, Architettonico",
+    "zone/subject_raw": "Dipinti murali",
+    "Date": "2004 - 2008",
+    "Author": "Stefania Prosa - Paola Zucchi",
+    "supporto": "Architettonico",
+    "zone": [
+      "Murature"
+    ],
+    "materials_used": [
+      "Calce (grassello, calce dolce, calce storica)",
+      "Inerti e sabbie",
+      "Cariche minerali (carbonato di calcio, polveri di pietra/marmo/travertino)"
+    ],
+    "technique_used": [
+      "Stuccatura / integrazione con malte"
+    ],
+    "environmental_issue": [],
+    "working_issue": [],
+    "observations": [
+      "Ricostruzione dell'intonaco mancante con malta a base di grassello, sabbia fine e polveri di marmo."
+    ]
+  },
+  {
+    "record_id": "1159.0",
+    "Cantiere": "Cantiere di restauro: Parma - Chiesa Parrocchiale di San Michele Arcangelo - Restauro dipinti murali, Architettonico",
+    "zone/subject_raw": "Dipinti murali",
+    "Date": "2004 - 2008",
+    "Author": "Stefania Prosa - Paola Zucchi",
+    "supporto": "Architettonico",
+    "zone": [],
+    "materials_used": [
+      "Malte a base calce (premiscelate o tradizionali)"
+    ],
+    "technique_used": [
+      "Sigillature e stilatura giunti"
+    ],
+    "environmental_issue": [],
+    "working_issue": [],
+    "observations": [
+      "Applicazione preventiva di malta idraulica premiscelata per sigillare i giunti e prevenire macchiature dell'intonaco."
+    ]
+  },
+  {
+    "record_id": "1159.0",
+    "Cantiere": "Cantiere di restauro: Parma - Chiesa Parrocchiale di San Michele Arcangelo - Restauro dipinti murali, Architettonico",
+    "zone/subject_raw": "Dipinti murali",
+    "Date": "2004 - 2008",
+    "Author": "Stefania Prosa - Paola Zucchi",
+    "supporto": "Architettonico",
+    "zone": [
+      "Murature"
+    ],
+    "materials_used": [
+      "Reti e armature (rete elettrosaldata, reti in fibra, Mapegrid)"
+    ],
+    "technique_used": [
+      "Interventi strutturali locali (cuci-scuci, cerchiatura, ancoraggi)"
+    ],
+    "environmental_issue": [],
+    "working_issue": [],
+    "observations": [
+      "Rinforzo delle giunzioni delle tamponature mediante rete sintetica."
+    ]
+  },
+  {
+    "record_id": "1159.0",
+    "Cantiere": "Cantiere di restauro: Parma - Chiesa Parrocchiale di San Michele Arcangelo - Restauro dipinti murali, Architettonico",
+    "zone/subject_raw": "Volta terza campata",
+    "Date": "2004 - 2008",
+    "Author": "Stefania Prosa - Paola Zucchi",
+    "supporto": "Architettonico",
+    "zone": [
+      "Volte"
+    ],
+    "materials_used": [
+      "Resine epossidiche (Araldite, Sikadur, Epox)",
+      "Laterizio/cotto/mattoni"
+    ],
+    "technique_used": [
+      "Consolidamento per iniezione / impregnazione"
+    ],
+    "environmental_issue": [],
+    "working_issue": [],
+    "observations": [
+      "Sono state eseguite iniezioni di resina epossidica per consolidamento della struttura e il riposizionamento dei conci in cotto."
+    ]
+  },
+  {
+    "record_id": "1159.0",
+    "Cantiere": "Cantiere di restauro: Parma - Chiesa Parrocchiale di San Michele Arcangelo - Restauro dipinti murali, Architettonico",
+    "zone/subject_raw": "Cappella e presbiterio",
+    "Date": "2004 - 2008",
+    "Author": "Stefania Prosa - Paola Zucchi",
+    "supporto": "Architettonico",
+    "zone": [
+      "Cappelle",
+      "Presbiterio"
+    ],
+    "materials_used": [],
+    "technique_used": [
+      "Interventi strutturali locali (cuci-scuci, cerchiatura, ancoraggi)"
+    ],
+    "environmental_issue": [],
+    "working_issue": [],
+    "observations": [
+      "Apertura delle nicchie nella cappella e sulla parete del presbiterio."
+    ]
+  }
+]

@@ -1,0 +1,335 @@
+[
+  {
+    "record_id": "325",
+    "Cantiere": "Cantiere di restauro: Pisa - Compendio di San Silvestro - Scalone monumentale, Architettonico",
+    "zone/subject_raw": "Dipinto murale",
+    "Date": "giugno 2011 - settembre 2011",
+    "Author": "Piacenti Spa",
+    "supporto": "Architettonico",
+    "zone": [
+      "Impianti"
+    ],
+    "materials_used": [],
+    "technique_used": [],
+    "environmental_issue": [],
+    "working_issue": [],
+    "observations": [
+      "Rimozione di impianti elettrici intrusi e non più utilizzati."
+    ]
+  },
+  {
+    "record_id": "325",
+    "Cantiere": "Cantiere di restauro: Pisa - Compendio di San Silvestro - Scalone monumentale, Architettonico",
+    "zone/subject_raw": "Dipinto murale",
+    "Date": "giugno 2011 - settembre 2011",
+    "Author": "Piacenti Spa",
+    "supporto": "Architettonico",
+    "zone": [
+      "Decorazioni dipinte"
+    ],
+    "materials_used": [],
+    "technique_used": [
+      "Pulitura meccanica",
+      "Rimozione di depositi, scialbature o vernici"
+    ],
+    "environmental_issue": [],
+    "working_issue": [],
+    "observations": [
+      "Pulitura a secco e rimozione di depositi superficiali incoerenti (polveri, ragnatele)."
+    ]
+  },
+  {
+    "record_id": "325",
+    "Cantiere": "Cantiere di restauro: Pisa - Compendio di San Silvestro - Scalone monumentale, Architettonico",
+    "zone/subject_raw": "Dipinto murale",
+    "Date": "giugno 2011 - settembre 2011",
+    "Author": "Piacenti Spa",
+    "supporto": "Architettonico",
+    "zone": [
+      "Decorazioni dipinte"
+    ],
+    "materials_used": [
+      "Carta e carte tecniche (giapponese, velina, riso, assorbente)"
+    ],
+    "technique_used": [],
+    "environmental_issue": [],
+    "working_issue": [],
+    "observations": [
+      "Velinatura temporanea applicata per proteggere la pellicola pittorica decoesa."
+    ]
+  },
+  {
+    "record_id": "325",
+    "Cantiere": "Cantiere di restauro: Pisa - Compendio di San Silvestro - Scalone monumentale, Architettonico",
+    "zone/subject_raw": "Dipinto murale",
+    "Date": "giugno 2011 - settembre 2011",
+    "Author": "Piacenti Spa",
+    "supporto": "Architettonico",
+    "zone": [],
+    "materials_used": [],
+    "technique_used": [
+      "Consolidamento superficiale"
+    ],
+    "environmental_issue": [],
+    "working_issue": [],
+    "observations": [
+      "Consolidamento superficiale della pellicola pittorica.",
+      "Ristabilimento della coesione degli strati preparatori."
+    ]
+  },
+  {
+    "record_id": "325",
+    "Cantiere": "Cantiere di restauro: Pisa - Compendio di San Silvestro - Scalone monumentale, Architettonico",
+    "zone/subject_raw": "Dipinto murale",
+    "Date": "giugno 2011 - settembre 2011",
+    "Author": "Piacenti Spa",
+    "supporto": "Architettonico",
+    "zone": [],
+    "materials_used": [],
+    "technique_used": [
+      "Rimozione di depositi, scialbature o vernici"
+    ],
+    "environmental_issue": [],
+    "working_issue": [],
+    "observations": [
+      "Rimozione di rattoppi, scialbi e stuccature non idonee."
+    ]
+  },
+  {
+    "record_id": "325",
+    "Cantiere": "Cantiere di restauro: Pisa - Compendio di San Silvestro - Scalone monumentale, Architettonico",
+    "zone/subject_raw": "Dipinto murale",
+    "Date": "giugno 2011 - settembre 2011",
+    "Author": "Piacenti Spa",
+    "supporto": "Architettonico",
+    "zone": [
+      "Murature"
+    ],
+    "materials_used": [
+      "Stucchi (a base calce/resina/cellulosici)"
+    ],
+    "technique_used": [
+      "Stuccatura / integrazione con malte"
+    ],
+    "environmental_issue": [],
+    "working_issue": [
+      "Fessure/fenditure/fratture/rotture"
+    ],
+    "observations": [
+      "Intervento di stuccatura delle fessurazioni e ricostruzione delle lacune dell'intonaco."
+    ]
+  },
+  {
+    "record_id": "325",
+    "Cantiere": "Cantiere di restauro: Pisa - Compendio di San Silvestro - Scalone monumentale, Architettonico",
+    "zone/subject_raw": "Dipinto murale",
+    "Date": "giugno 2011 - settembre 2011",
+    "Author": "Piacenti Spa",
+    "supporto": "Architettonico",
+    "zone": [
+      "Decorazioni dipinte"
+    ],
+    "materials_used": [],
+    "technique_used": [
+      "Integrazione pittorica / reintegrazione cromatica"
+    ],
+    "environmental_issue": [],
+    "working_issue": [
+      "Lacune/perdite di materiale"
+    ],
+    "observations": [
+      "Reintegrazione pittorica mimetica eseguita per colmare le lacune del dipinto murale."
+    ]
+  },
+  {
+    "record_id": "325",
+    "Cantiere": "Cantiere di restauro: Pisa - Compendio di San Silvestro - Scalone monumentale, Architettonico",
+    "zone/subject_raw": "Copertura in canniccio",
+    "Date": "giugno 2011 - settembre 2011",
+    "Author": "Piacenti Spa",
+    "supporto": "Architettonico",
+    "zone": [
+      "Coperture"
+    ],
+    "materials_used": [],
+    "technique_used": [
+      "Rimozione di depositi, scialbature o vernici",
+      "Stuccatura / integrazione con malte"
+    ],
+    "environmental_issue": [],
+    "working_issue": [],
+    "observations": [
+      "Rimozione dell'intonaco ammalorato e rifacimento delle parti degradate."
+    ]
+  },
+  {
+    "record_id": "325",
+    "Cantiere": "Cantiere di restauro: Pisa - Compendio di San Silvestro - Scalone monumentale, Architettonico",
+    "zone/subject_raw": "Copertura in canniccio",
+    "Date": "giugno 2011 - settembre 2011",
+    "Author": "Piacenti Spa",
+    "supporto": "Architettonico",
+    "zone": [
+      "Coperture"
+    ],
+    "materials_used": [
+      "Legno (massello, assito, multistrato, compensati)"
+    ],
+    "technique_used": [
+      "Consolidamento superficiale",
+      "Protezione finale / verniciatura"
+    ],
+    "environmental_issue": [],
+    "working_issue": [],
+    "observations": [
+      "Sostituzione parziale degli elementi lignei marci",
+      "Consolidamento dei restanti elementi di legno",
+      "Applicazione di un trattamento protettivo finale"
+    ]
+  },
+  {
+    "record_id": "325",
+    "Cantiere": "Cantiere di restauro: Pisa - Compendio di San Silvestro - Scalone monumentale, Architettonico",
+    "zone/subject_raw": "Scalone in pietra",
+    "Date": "giugno 2011 - settembre 2011",
+    "Author": "Piacenti Spa",
+    "supporto": "Architettonico",
+    "zone": [
+      "Elementi lapidei/Sculture lapidee"
+    ],
+    "materials_used": [
+      "Resine epossidiche (Araldite, Sikadur, Epox)"
+    ],
+    "technique_used": [
+      "Preconsolidamento"
+    ],
+    "environmental_issue": [],
+    "working_issue": [],
+    "observations": [
+      "È stato effettuato un pre-consolidamento delle superfici lapidee mediante impregnazione di resine epossidiche."
+    ]
+  },
+  {
+    "record_id": "325",
+    "Cantiere": "Cantiere di restauro: Pisa - Compendio di San Silvestro - Scalone monumentale, Architettonico",
+    "zone/subject_raw": "Scalone in pietra",
+    "Date": "giugno 2011 - settembre 2011",
+    "Author": "Piacenti Spa",
+    "supporto": "Architettonico",
+    "zone": [
+      "Elementi lapidei/Sculture lapidee"
+    ],
+    "materials_used": [
+      "Resine epossidiche (Araldite, Sikadur, Epox)"
+    ],
+    "technique_used": [
+      "Preconsolidamento"
+    ],
+    "environmental_issue": [],
+    "working_issue": [],
+    "observations": [
+      "Pre-consolidamento delle superfici lapidee mediante impregnazione di resine epossidiche."
+    ]
+  },
+  {
+    "record_id": "325",
+    "Cantiere": "Cantiere di restauro: Pisa - Compendio di San Silvestro - Scalone monumentale, Architettonico",
+    "zone/subject_raw": "Scalone in pietra",
+    "Date": "giugno 2011 - settembre 2011",
+    "Author": "Piacenti Spa",
+    "supporto": "Architettonico",
+    "zone": [],
+    "materials_used": [
+      "Sali e tamponi (carbonati, bicarbonati, sali inorganici, soluzioni sature)"
+    ],
+    "technique_used": [
+      "Pulitura con impacchi o gel"
+    ],
+    "environmental_issue": [],
+    "working_issue": [],
+    "observations": [
+      "Pulitura con impacchi di carbonato d’ammonio a concentrazione variabile."
+    ]
+  },
+  {
+    "record_id": "325",
+    "Cantiere": "Cantiere di restauro: Pisa - Compendio di San Silvestro - Scalone monumentale, Architettonico",
+    "zone/subject_raw": "Infisso",
+    "Date": "giugno 2011 - settembre 2011",
+    "Author": "Piacenti Spa",
+    "supporto": "Architettonico",
+    "zone": [
+      "Portali/Ingressi"
+    ],
+    "materials_used": [
+      "Legno (massello, assito, multistrato, compensati)"
+    ],
+    "technique_used": [],
+    "environmental_issue": [],
+    "working_issue": [],
+    "observations": [
+      "Sostituzione dell'infisso esistente con nuovo infisso a taglio termico rivestito in legno massello."
+    ]
+  },
+  {
+    "record_id": "325",
+    "Cantiere": "Cantiere di restauro: Pisa - Compendio di San Silvestro - Scalone monumentale, Architettonico",
+    "zone/subject_raw": "Infisso",
+    "Date": "giugno 2011 - settembre 2011",
+    "Author": "Piacenti Spa",
+    "supporto": "Architettonico",
+    "zone": [],
+    "materials_used": [
+      "Cemento/calcestruzzo/cementite"
+    ],
+    "technique_used": [],
+    "environmental_issue": [],
+    "working_issue": [],
+    "observations": [
+      "Le balaustre in cemento sono state messe in sicurezza con revisione statica."
+    ]
+  },
+  {
+    "record_id": "325",
+    "Cantiere": "Cantiere di restauro: Pisa - Compendio di San Silvestro - Scalone monumentale, Architettonico",
+    "zone/subject_raw": "Pavimento",
+    "Date": "giugno 2011 - settembre 2011",
+    "Author": "Piacenti Spa",
+    "supporto": "Architettonico",
+    "zone": [
+      "Pavimenti/Solai"
+    ],
+    "materials_used": [],
+    "technique_used": [
+      "Consolidamento superficiale",
+      "Stuccatura / integrazione con malte",
+      "Pulitura meccanica"
+    ],
+    "environmental_issue": [],
+    "working_issue": [],
+    "observations": [
+      "Recupero della pavimentazione con consolidamento, stuccatura e pulitura meccanica finale."
+    ]
+  },
+  {
+    "record_id": "325",
+    "Cantiere": "Cantiere di restauro: Pisa - Compendio di San Silvestro - Scalone monumentale, Architettonico",
+    "zone/subject_raw": "Impianti",
+    "Date": "giugno 2011 - settembre 2011",
+    "Author": "Piacenti Spa",
+    "supporto": "Architettonico",
+    "zone": [
+      "Volte",
+      "Impianti"
+    ],
+    "materials_used": [],
+    "technique_used": [],
+    "environmental_issue": [],
+    "working_issue": [],
+    "observations": [
+      "Realizzati fori nella volta per il passaggio dei cavi.",
+      "Predisposto impianto di illuminazione.",
+      "Rimosso il radiatore."
+    ]
+  }
+]

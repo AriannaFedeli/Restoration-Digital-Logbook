@@ -1,0 +1,709 @@
+[
+  {
+    "record_id": "1221",
+    "Cantiere": "Cantiere di restauro: P. M. Ferrari - \"Ritratto di Don Ferdinando di Borbone\" - Olio su tela - Inv. 292, Storico artistico",
+    "zone/subject_raw": "Dipinto su tela",
+    "Date": "8 marzo 2004 - 10 maggio 2005",
+    "Author": "Dott. ssa Ines Agostinelli",
+    "supporto": "Cartaceo",
+    "zone": [],
+    "materials_used": [],
+    "technique_used": [
+      "Aspirazione / spolveratura"
+    ],
+    "environmental_issue": [],
+    "working_issue": [],
+    "observations": [
+      "Si è effettuata una spolveratura delle superfici accessibili con panno morbido."
+    ]
+  },
+  {
+    "record_id": "1221",
+    "Cantiere": "Cantiere di restauro: P. M. Ferrari - \"Ritratto di Don Ferdinando di Borbone\" - Olio su tela - Inv. 292, Storico artistico",
+    "zone/subject_raw": "Dipinto su tela",
+    "Date": "8 marzo 2004 - 10 maggio 2005",
+    "Author": "Dott. ssa Ines Agostinelli",
+    "supporto": "Cartaceo",
+    "zone": [],
+    "materials_used": [
+      "Soluzioni idroalcoliche",
+      "Acqua deionizzata/demineralizzata/distillata"
+    ],
+    "technique_used": [
+      "Preconsolidamento"
+    ],
+    "environmental_issue": [],
+    "working_issue": [
+      "Sollevamenti della pellicola pittorica"
+    ],
+    "observations": [
+      "Operazione di preconsolidamento eseguita con alcool polivinilico al 4% in alcool, seguita dall'eliminazione dei residui con acqua distillata."
+    ]
+  },
+  {
+    "record_id": "1221",
+    "Cantiere": "Cantiere di restauro: P. M. Ferrari - \"Ritratto di Don Ferdinando di Borbone\" - Olio su tela - Inv. 292, Storico artistico",
+    "zone/subject_raw": "Dipinto su tela",
+    "Date": "8 marzo 2004 - 10 maggio 2005",
+    "Author": "Dott. ssa Ines Agostinelli",
+    "supporto": "Cartaceo",
+    "zone": [],
+    "materials_used": [
+      "Soluzioni idroalcoliche",
+      "Acqua deionizzata/demineralizzata/distillata",
+      "Tensioattivi e detergenti non ionici"
+    ],
+    "technique_used": [
+      "Pulitura chimica",
+      "Pulitura ad umido / lavaggio"
+    ],
+    "environmental_issue": [],
+    "working_issue": [],
+    "observations": [
+      "Rimozione di polveri e nerofumo effettuata con soluzione idroalcolica contenente tensioattivo non ionico."
+    ]
+  },
+  {
+    "record_id": "1221",
+    "Cantiere": "Cantiere di restauro: P. M. Ferrari - \"Ritratto di Don Ferdinando di Borbone\" - Olio su tela - Inv. 292, Storico artistico",
+    "zone/subject_raw": "Dipinto su tela",
+    "Date": "8 marzo 2004 - 10 maggio 2005",
+    "Author": "Dott. ssa Ines Agostinelli",
+    "supporto": "Cartaceo",
+    "zone": [],
+    "materials_used": [
+      "Solventi organici apolari (white spirit, ligroina, isoparaffine, petrolio)",
+      "Solventi aromatici/clorurati (toluene, trielina, tricloroetano)",
+      "Solventi organici polari (acetone, etilacetato, MEK, DMF, DMSO)"
+    ],
+    "technique_used": [
+      "Rimozione di depositi, scialbature o vernici"
+    ],
+    "environmental_issue": [],
+    "working_issue": [],
+    "observations": [
+      "Rimozione della vernice e delle ridipinture mediante prove con tredici miscele del test di Feller; utilizzo della miscela n.10 (Fd 60) composta da Toluene 37,5% e Acetone 62,5%."
+    ]
+  },
+  {
+    "record_id": "1221",
+    "Cantiere": "Cantiere di restauro: P. M. Ferrari - \"Ritratto di Don Ferdinando di Borbone\" - Olio su tela - Inv. 292, Storico artistico",
+    "zone/subject_raw": "Dipinto su tela",
+    "Date": "8 marzo 2004 - 10 maggio 2005",
+    "Author": "Dott. ssa Ines Agostinelli",
+    "supporto": "Cartaceo",
+    "zone": [],
+    "materials_used": [
+      "Solventi organici polari (acetone, etilacetato, MEK, DMF, DMSO)",
+      "Solventi organici apolari (white spirit, ligroina, isoparaffine, petrolio)",
+      "Miscela solvente / diluenti",
+      "Gel e addensanti (agar, carbopol, cellulose, mucillagini)"
+    ],
+    "technique_used": [
+      "Pulitura chimica",
+      "Pulitura ad umido / lavaggio",
+      "Pulitura con impacchi o gel"
+    ],
+    "environmental_issue": [],
+    "working_issue": [],
+    "observations": [
+      "Sostituzione del toluene con una miscela alternativa per pulitura chimica."
+    ]
+  },
+  {
+    "record_id": "1221",
+    "Cantiere": "Cantiere di restauro: P. M. Ferrari - \"Ritratto di Don Ferdinando di Borbone\" - Olio su tela - Inv. 292, Storico artistico",
+    "zone/subject_raw": "Dipinto su tela",
+    "Date": "8 marzo 2004 - 10 maggio 2005",
+    "Author": "Dott. ssa Ines Agostinelli",
+    "supporto": "Cartaceo",
+    "zone": [],
+    "materials_used": [
+      "Solventi organici polari (acetone, etilacetato, MEK, DMF, DMSO)",
+      "Acidi (soluzioni acide)",
+      "Basi (soluzioni basiche/ammoniaca)",
+      "Miscela solvente / diluenti",
+      "Tensioattivi e detergenti non ionici",
+      "Tensioattivi e detergenti anionici/cationici",
+      "Gel e addensanti (agar, carbopol, cellulose, mucillagini)"
+    ],
+    "technique_used": [
+      "Pulitura chimica",
+      "Pulitura con impacchi o gel"
+    ],
+    "environmental_issue": [],
+    "working_issue": [],
+    "observations": [
+      "Utilizzo di soluzioni addensate per rimuovere le zone particolarmente tenaci."
+    ]
+  },
+  {
+    "record_id": "1221",
+    "Cantiere": "Cantiere di restauro: P. M. Ferrari - \"Ritratto di Don Ferdinando di Borbone\" - Olio su tela - Inv. 292, Storico artistico",
+    "zone/subject_raw": "Dipinto su tela",
+    "Date": "8 marzo 2004 - 10 maggio 2005",
+    "Author": "Dott. ssa Ines Agostinelli",
+    "supporto": "Cartaceo",
+    "zone": [],
+    "materials_used": [],
+    "technique_used": [
+      "Sigillature e stilatura giunti"
+    ],
+    "environmental_issue": [],
+    "working_issue": [],
+    "observations": [
+      "Rimozione delle stuccature stratificate."
+    ]
+  },
+  {
+    "record_id": "1221",
+    "Cantiere": "Cantiere di restauro: P. M. Ferrari - \"Ritratto di Don Ferdinando di Borbone\" - Olio su tela - Inv. 292, Storico artistico",
+    "zone/subject_raw": "Dipinto su tela",
+    "Date": "8 marzo 2004 - 10 maggio 2005",
+    "Author": "Dott. ssa Ines Agostinelli",
+    "supporto": "Cartaceo",
+    "zone": [],
+    "materials_used": [],
+    "technique_used": [
+      "Pulitura meccanica"
+    ],
+    "environmental_issue": [],
+    "working_issue": [],
+    "observations": [
+      "Rimozione meccanica a secco delle stuccature distese sulla policromia originale; utilizzo del microscopio ottico nelle aree con lacca rossa fragile."
+    ]
+  },
+  {
+    "record_id": "1221",
+    "Cantiere": "Cantiere di restauro: P. M. Ferrari - \"Ritratto di Don Ferdinando di Borbone\" - Olio su tela - Inv. 292, Storico artistico",
+    "zone/subject_raw": "Dipinto su tela",
+    "Date": "8 marzo 2004 - 10 maggio 2005",
+    "Author": "Dott. ssa Ines Agostinelli",
+    "supporto": "Cartaceo",
+    "zone": [],
+    "materials_used": [
+      "Adesivi acrilici (Beva e simili)",
+      "Solventi organici apolari (white spirit, ligroina, isoparaffine, petrolio)",
+      "Carta e carte tecniche (giapponese, velina, riso, assorbente)"
+    ],
+    "technique_used": [
+      "Riadesione / fissaggio pellicola pittorica"
+    ],
+    "environmental_issue": [],
+    "working_issue": [],
+    "observations": [
+      "Velinatura eseguita con Beva 371 diluito in Ligroina applicato su carta giapponese."
+    ]
+  },
+  {
+    "record_id": "1221",
+    "Cantiere": "Cantiere di restauro: P. M. Ferrari - \"Ritratto di Don Ferdinando di Borbone\" - Olio su tela - Inv. 292, Storico artistico",
+    "zone/subject_raw": "Dipinto su tela",
+    "Date": "8 marzo 2004 - 10 maggio 2005",
+    "Author": "Dott. ssa Ines Agostinelli",
+    "supporto": "Cartaceo",
+    "zone": [],
+    "materials_used": [],
+    "technique_used": [],
+    "environmental_issue": [],
+    "working_issue": [],
+    "observations": [
+      "Smontaggio del dipinto dal telaio e posizionamento con recto verso il piano di lavoro."
+    ]
+  },
+  {
+    "record_id": "1221",
+    "Cantiere": "Cantiere di restauro: P. M. Ferrari - \"Ritratto di Don Ferdinando di Borbone\" - Olio su tela - Inv. 292, Storico artistico",
+    "zone/subject_raw": "Verso della tela",
+    "Date": "8 marzo 2004 - 10 maggio 2005",
+    "Author": "Dott. ssa Ines Agostinelli",
+    "supporto": "Cartaceo",
+    "zone": [],
+    "materials_used": [],
+    "technique_used": [
+      "Aspirazione / spolveratura"
+    ],
+    "environmental_issue": [],
+    "working_issue": [],
+    "observations": [
+      "Operazione di pulizia effettuata utilizzando l'aspirapolvere per rimuovere depositi di polvere."
+    ]
+  },
+  {
+    "record_id": "1221",
+    "Cantiere": "Cantiere di restauro: P. M. Ferrari - \"Ritratto di Don Ferdinando di Borbone\" - Olio su tela - Inv. 292, Storico artistico",
+    "zone/subject_raw": "Verso della tela",
+    "Date": "8 marzo 2004 - 10 maggio 2005",
+    "Author": "Dott. ssa Ines Agostinelli",
+    "supporto": "Cartaceo",
+    "zone": [],
+    "materials_used": [
+      "Adesivi acrilici (Beva e simili)"
+    ],
+    "technique_used": [
+      "Riadesione / fissaggio pellicola pittorica"
+    ],
+    "environmental_issue": [],
+    "working_issue": [],
+    "observations": [
+      "Si è utilizzato il sottovuoto per la velinatura e la riattivazione del Beva con un ferro da stiro a temperatura controllata."
+    ]
+  },
+  {
+    "record_id": "1221",
+    "Cantiere": "Cantiere di restauro: P. M. Ferrari - \"Ritratto di Don Ferdinando di Borbone\" - Olio su tela - Inv. 292, Storico artistico",
+    "zone/subject_raw": "Verso della tela",
+    "Date": "8 marzo 2004 - 10 maggio 2005",
+    "Author": "Dott. ssa Ines Agostinelli",
+    "supporto": "Cartaceo",
+    "zone": [],
+    "materials_used": [
+      "Acqua (generica)"
+    ],
+    "technique_used": [
+      "Pulitura meccanica",
+      "Aspirazione / spolveratura"
+    ],
+    "environmental_issue": [],
+    "working_issue": [],
+    "observations": [
+      "Sono state utilizzate tecniche di pulitura meccanica e aspirazione/spolveratura."
+    ]
+  },
+  {
+    "record_id": "1221",
+    "Cantiere": "Cantiere di restauro: P. M. Ferrari - \"Ritratto di Don Ferdinando di Borbone\" - Olio su tela - Inv. 292, Storico artistico",
+    "zone/subject_raw": "Supporto tessile",
+    "Date": "8 marzo 2004 - 10 maggio 2005",
+    "Author": "Dott. ssa Ines Agostinelli",
+    "supporto": "",
+    "zone": [],
+    "materials_used": [],
+    "technique_used": [],
+    "environmental_issue": [],
+    "working_issue": [],
+    "observations": [
+      "MODEL_OUTPUT_INVALID: supporto not allowed: Tessuti e TNT (lino, tela, teli TNT, geotessili, garze)",
+      "RAW: {\"supporto\": \"Tessuti e TNT (lino, tela, teli TNT, geotessili, garze)\", \"zone\": [], \"materials_used\": [\"Resine poliammidiche/altre sintetiche\", \"Fibre e compositi (fibra di vetro, carbonio, vetroresina)\"], \"technique_used\": [\"Integrazione pittorica / reintegrazione cromatica\"], \"environmental_issue\": [], \"working_issue\": [], \"observations\": [\"Risarcimento delle piccole lacune con fibre tessili simili all’originale fissate con resina poliammidica Textil tipo 5060 (Phase).\"]}"
+    ]
+  },
+  {
+    "record_id": "1221",
+    "Cantiere": "Cantiere di restauro: P. M. Ferrari - \"Ritratto di Don Ferdinando di Borbone\" - Olio su tela - Inv. 292, Storico artistico",
+    "zone/subject_raw": "Supporto tessile",
+    "Date": "8 marzo 2004 - 10 maggio 2005",
+    "Author": "Dott. ssa Ines Agostinelli",
+    "supporto": "",
+    "zone": [],
+    "materials_used": [],
+    "technique_used": [],
+    "environmental_issue": [],
+    "working_issue": [],
+    "observations": [
+      "MODEL_OUTPUT_INVALID: supporto not allowed: Tessuti e TNT",
+      "RAW: {\"supporto\": \"Tessuti e TNT\", \"zone\": [], \"materials_used\": [\"Textil\", \"Akeogard\", \"Acqua (generica)\", \"Tela Ispra\"], \"technique_used\": [\"Integrazione pittorica / reintegrazione cromatica\"], \"environmental_issue\": [], \"working_issue\": [\"Lacune/perdite di materiale\"], \"observations\": [\"Risarcimento delle lacune estese con inserti di tela Ispra preparata con Akeogard al 50% in acqua e fissata con Textil.\"]}"
+    ]
+  },
+  {
+    "record_id": "1221",
+    "Cantiere": "Cantiere di restauro: P. M. Ferrari - \"Ritratto di Don Ferdinando di Borbone\" - Olio su tela - Inv. 292, Storico artistico",
+    "zone/subject_raw": "Supporto tessile",
+    "Date": "8 marzo 2004 - 10 maggio 2005",
+    "Author": "Dott. ssa Ines Agostinelli",
+    "supporto": "",
+    "zone": [],
+    "materials_used": [],
+    "technique_used": [],
+    "environmental_issue": [],
+    "working_issue": [],
+    "observations": [
+      "MODEL_OUTPUT_INVALID: supporto not allowed: Tessuti e TNT",
+      "RAW: {\"supporto\": \"Tessuti e TNT\", \"zone\": [], \"materials_used\": [\"Adesivi epossidici/bi-componenti\", \"Solventi organici apolari (white spirit, ligroina, isoparaffine, petrolio)\"], \"technique_used\": [\"Consolidamento per iniezione / impregnazione\"], \"environmental_issue\": [], \"working_issue\": [], \"observations\": [\"Consolidamento della tela originale e della preparazione con Beva 371 1:6 in Ligroina, riattivato con calore a 45–50°C in sottovuoto.\"]}"
+    ]
+  },
+  {
+    "record_id": "1221",
+    "Cantiere": "Cantiere di restauro: P. M. Ferrari - \"Ritratto di Don Ferdinando di Borbone\" - Olio su tela - Inv. 292, Storico artistico",
+    "zone/subject_raw": "Supporto tessile",
+    "Date": "8 marzo 2004 - 10 maggio 2005",
+    "Author": "Dott. ssa Ines Agostinelli",
+    "supporto": "",
+    "zone": [],
+    "materials_used": [],
+    "technique_used": [],
+    "environmental_issue": [],
+    "working_issue": [],
+    "observations": [
+      "MODEL_OUTPUT_INVALID: supporto not allowed: Tessuti e TNT",
+      "RAW: {\"supporto\": \"Tessuti e TNT\", \"zone\": [], \"materials_used\": [\"Solventi organici polari (acetone, etilacetato, MEK, DMF, DMSO)\"], \"technique_used\": [\"Pulitura con impacchi o gel\"], \"environmental_issue\": [], \"working_issue\": [], \"observations\": [\"Svelinatura mediante impacchi di acetone.\"]}"
+    ]
+  },
+  {
+    "record_id": "1221",
+    "Cantiere": "Cantiere di restauro: P. M. Ferrari - \"Ritratto di Don Ferdinando di Borbone\" - Olio su tela - Inv. 292, Storico artistico",
+    "zone/subject_raw": "Supporto tessile",
+    "Date": "8 marzo 2004 - 10 maggio 2005",
+    "Author": "Dott. ssa Ines Agostinelli",
+    "supporto": "",
+    "zone": [],
+    "materials_used": [],
+    "technique_used": [],
+    "environmental_issue": [],
+    "working_issue": [],
+    "observations": [
+      "MODEL_OUTPUT_INVALID: supporto not allowed: Tessuti e TNT (lino, tela, teli TNT, geotessili, garze)",
+      "RAW: {\"supporto\": \"Tessuti e TNT (lino, tela, teli TNT, geotessili, garze)\", \"zone\": [], \"materials_used\": [\"Adesivi acrilici (Beva e simili)\", \"Tela\", \"Adesivi/colle (generici)\"], \"technique_used\": [\"Riadesione / fissaggio pellicola pittorica\"], \"environmental_issue\": [], \"working_issue\": [], \"observations\": [\"Intervento di strip lining con tela Ispra preparata con Akeogard e fissata con Beva 371.\"]}"
+    ]
+  },
+  {
+    "record_id": "1221",
+    "Cantiere": "Cantiere di restauro: P. M. Ferrari - \"Ritratto di Don Ferdinando di Borbone\" - Olio su tela - Inv. 292, Storico artistico",
+    "zone/subject_raw": "Pellicola pittorica",
+    "Date": "8 marzo 2004 - 10 maggio 2005",
+    "Author": "Dott. ssa Ines Agostinelli",
+    "supporto": "Cartaceo",
+    "zone": [],
+    "materials_used": [
+      "Gesso e stucchi gessosi",
+      "Colori (acquerelli, tempere, smalti)"
+    ],
+    "technique_used": [
+      "Stuccatura / integrazione con malte",
+      "Ritocco / velatura / patinatura"
+    ],
+    "environmental_issue": [],
+    "working_issue": [],
+    "observations": [
+      "Interventi di stuccatura e ritocco effettuati sulla tela."
+    ]
+  },
+  {
+    "record_id": "1221",
+    "Cantiere": "Cantiere di restauro: P. M. Ferrari - \"Ritratto di Don Ferdinando di Borbone\" - Olio su tela - Inv. 292, Storico artistico",
+    "zone/subject_raw": "Pellicola pittorica",
+    "Date": "8 marzo 2004 - 10 maggio 2005",
+    "Author": "Dott. ssa Ines Agostinelli",
+    "supporto": "Cartaceo",
+    "zone": [],
+    "materials_used": [
+      "Resine metacriliche/viniliche"
+    ],
+    "technique_used": [
+      "Protezione finale / verniciatura"
+    ],
+    "environmental_issue": [],
+    "working_issue": [],
+    "observations": [
+      "Intervento di protezione finale con resina mastice diluita."
+    ]
+  },
+  {
+    "record_id": "1221",
+    "Cantiere": "Cantiere di restauro: P. M. Ferrari - \"Ritratto di Don Ferdinando di Borbone\" - Olio su tela - Inv. 292, Storico artistico",
+    "zone/subject_raw": "Pellicola pittorica",
+    "Date": "8 marzo 2004 - 10 maggio 2005",
+    "Author": "Dott. ssa Ines Agostinelli",
+    "supporto": "Cartaceo",
+    "zone": [],
+    "materials_used": [
+      "Resine acriliche (Primal, Plexisol, microemulsioni acriliche)",
+      "Colori (acquerelli, tempere, smalti)",
+      "Solventi organici polari (acetone, etilacetato, MEK, DMF, DMSO)"
+    ],
+    "technique_used": [
+      "Integrazione pittorica / reintegrazione cromatica"
+    ],
+    "environmental_issue": [],
+    "working_issue": [],
+    "observations": [
+      "Ritocco effettuato con colori a vernice Maimeri utilizzando la tecnica del puntinismo."
+    ]
+  },
+  {
+    "record_id": "1221",
+    "Cantiere": "Cantiere di restauro: P. M. Ferrari - \"Ritratto di Don Ferdinando di Borbone\" - Olio su tela - Inv. 292, Storico artistico",
+    "zone/subject_raw": "Pellicola pittorica",
+    "Date": "8 marzo 2004 - 10 maggio 2005",
+    "Author": "Dott. ssa Ines Agostinelli",
+    "supporto": "Cartaceo",
+    "zone": [],
+    "materials_used": [
+      "Vernici (generiche)",
+      "Vernici finali/retoucher (gloss/matt)"
+    ],
+    "technique_used": [
+      "Protezione finale / verniciatura"
+    ],
+    "environmental_issue": [],
+    "working_issue": [],
+    "observations": [
+      "Verniciatura intermedia ed esterna effettuate con specifici prodotti."
+    ]
+  },
+  {
+    "record_id": "1221",
+    "Cantiere": "Cantiere di restauro: P. M. Ferrari - \"Ritratto di Don Ferdinando di Borbone\" - Olio su tela - Inv. 292, Storico artistico",
+    "zone/subject_raw": "Telaio",
+    "Date": "8 marzo 2004 - 10 maggio 2005",
+    "Author": "Dott. ssa Ines Agostinelli",
+    "supporto": "Cartaceo",
+    "zone": [],
+    "materials_used": [
+      "Soluzioni idroalcoliche",
+      "Tensioattivi e detergenti anionici/cationici"
+    ],
+    "technique_used": [
+      "Pulitura chimica",
+      "Pulitura ad umido / lavaggio"
+    ],
+    "environmental_issue": [],
+    "working_issue": [],
+    "observations": [
+      "Il telaio è stato sottoposto a lavaggio con una soluzione specifica."
+    ]
+  },
+  {
+    "record_id": "1221",
+    "Cantiere": "Cantiere di restauro: P. M. Ferrari - \"Ritratto di Don Ferdinando di Borbone\" - Olio su tela - Inv. 292, Storico artistico",
+    "zone/subject_raw": "Telaio",
+    "Date": "8 marzo 2004 - 10 maggio 2005",
+    "Author": "Dott. ssa Ines Agostinelli",
+    "supporto": "Cartaceo",
+    "zone": [],
+    "materials_used": [],
+    "technique_used": [
+      "Pulitura meccanica"
+    ],
+    "environmental_issue": [],
+    "working_issue": [],
+    "observations": [
+      "Operazione limitata alla regolatura interna del telaio con strumenti manuali."
+    ]
+  },
+  {
+    "record_id": "1221",
+    "Cantiere": "Cantiere di restauro: P. M. Ferrari - \"Ritratto di Don Ferdinando di Borbone\" - Olio su tela - Inv. 292, Storico artistico",
+    "zone/subject_raw": "Telaio",
+    "Date": "8 marzo 2004 - 10 maggio 2005",
+    "Author": "Dott. ssa Ines Agostinelli",
+    "supporto": "Cartaceo",
+    "zone": [],
+    "materials_used": [],
+    "technique_used": [
+      "Trattamenti biocidi / disinfestazione",
+      "Protezione finale / verniciatura"
+    ],
+    "environmental_issue": [],
+    "working_issue": [],
+    "observations": [
+      "Disinfestazione preventiva effettuata con Permetar al 3% in essenza di petrolio; applicazione di protezione finale con cera Permetar."
+    ]
+  },
+  {
+    "record_id": "1221",
+    "Cantiere": "Cantiere di restauro: P. M. Ferrari - \"Ritratto di Don Ferdinando di Borbone\" - Olio su tela - Inv. 292, Storico artistico",
+    "zone/subject_raw": "Telaio",
+    "Date": "8 marzo 2004 - 10 maggio 2005",
+    "Author": "Dott. ssa Ines Agostinelli",
+    "supporto": "Cartaceo",
+    "zone": [],
+    "materials_used": [
+      "Ferramenta e fissaggi (chiodi, viti, bulloni, tasselli, staffe)",
+      "Metalli ferrosi (ferro, acciaio, zincato)",
+      "Legno (massello, assito, multistrato, compensati)"
+    ],
+    "technique_used": [],
+    "environmental_issue": [],
+    "working_issue": [],
+    "observations": [
+      "Sostituzione delle biette lignee con espansori metallici angolari regolabili."
+    ]
+  },
+  {
+    "record_id": "1221",
+    "Cantiere": "Cantiere di restauro: P. M. Ferrari - \"Ritratto di Don Ferdinando di Borbone\" - Olio su tela - Inv. 292, Storico artistico",
+    "zone/subject_raw": "Cornice",
+    "Date": "8 marzo 2004 - 10 maggio 2005",
+    "Author": "Dott. ssa Ines Agostinelli",
+    "supporto": "Cartaceo",
+    "zone": [],
+    "materials_used": [
+      "Adesivi/colle (generici)"
+    ],
+    "technique_used": [
+      "Consolidamento superficiale"
+    ],
+    "environmental_issue": [],
+    "working_issue": [],
+    "observations": [
+      "Consolidamento della preparazione con alcool polivinilico al 4% in alcool."
+    ]
+  },
+  {
+    "record_id": "1221",
+    "Cantiere": "Cantiere di restauro: P. M. Ferrari - \"Ritratto di Don Ferdinando di Borbone\" - Olio su tela - Inv. 292, Storico artistico",
+    "zone/subject_raw": "Cornice",
+    "Date": "8 marzo 2004 - 10 maggio 2005",
+    "Author": "Dott. ssa Ines Agostinelli",
+    "supporto": "Cartaceo",
+    "zone": [],
+    "materials_used": [
+      "Solventi organici polari (acetone, etilacetato, MEK, DMF, DMSO)",
+      "Gel e addensanti (agar, carbopol, cellulose, mucillagini)"
+    ],
+    "technique_used": [
+      "Pulitura chimica",
+      "Rimozione di depositi, scialbature o vernici"
+    ],
+    "environmental_issue": [],
+    "working_issue": [],
+    "observations": [
+      "Pulitura effettuata con solventi organici polari e soluzioni addensate."
+    ]
+  },
+  {
+    "record_id": "1221",
+    "Cantiere": "Cantiere di restauro: P. M. Ferrari - \"Ritratto di Don Ferdinando di Borbone\" - Olio su tela - Inv. 292, Storico artistico",
+    "zone/subject_raw": "Cornice",
+    "Date": "8 marzo 2004 - 10 maggio 2005",
+    "Author": "Dott. ssa Ines Agostinelli",
+    "supporto": "Cartaceo",
+    "zone": [],
+    "materials_used": [
+      "Soluzioni idroalcoliche"
+    ],
+    "technique_used": [
+      "Pulitura chimica",
+      "Pulitura ad umido / lavaggio"
+    ],
+    "environmental_issue": [],
+    "working_issue": [],
+    "observations": [
+      "Detersione del retro con spugna Wishab e lavaggio con Desogen al 2% in acqua e alcool."
+    ]
+  },
+  {
+    "record_id": "1221",
+    "Cantiere": "Cantiere di restauro: P. M. Ferrari - \"Ritratto di Don Ferdinando di Borbone\" - Olio su tela - Inv. 292, Storico artistico",
+    "zone/subject_raw": "Cornice",
+    "Date": "8 marzo 2004 - 10 maggio 2005",
+    "Author": "Dott. ssa Ines Agostinelli",
+    "supporto": "Cartaceo",
+    "zone": [],
+    "materials_used": [],
+    "technique_used": [
+      "Trattamenti biocidi / disinfestazione"
+    ],
+    "environmental_issue": [
+      "attacco xilofago"
+    ],
+    "working_issue": [],
+    "observations": [
+      "Disinfestazione effettuata con miscela di Permetar Antitarlo ed Essenza di Petrolio; successiva sigillatura per due settimane."
+    ]
+  },
+  {
+    "record_id": "1221",
+    "Cantiere": "Cantiere di restauro: P. M. Ferrari - \"Ritratto di Don Ferdinando di Borbone\" - Olio su tela - Inv. 292, Storico artistico",
+    "zone/subject_raw": "Cornice",
+    "Date": "8 marzo 2004 - 10 maggio 2005",
+    "Author": "Dott. ssa Ines Agostinelli",
+    "supporto": "",
+    "zone": [],
+    "materials_used": [
+      "Adesivi acrilici (Beva e simili)",
+      "Elementi di rinforzo (barre filettate, microbarre, piastre, profili)"
+    ],
+    "technique_used": [
+      "Riadesione / fissaggio pellicola pittorica"
+    ],
+    "environmental_issue": [],
+    "working_issue": [],
+    "observations": [
+      "Il riassemblaggio del battente interno inferiore della cornice è stato effettuato utilizzando colla Bindan-P e rinforzi con barrette metalliche angolari."
+    ]
+  },
+  {
+    "record_id": "1221",
+    "Cantiere": "Cantiere di restauro: P. M. Ferrari - \"Ritratto di Don Ferdinando di Borbone\" - Olio su tela - Inv. 292, Storico artistico",
+    "zone/subject_raw": "Cornice",
+    "Date": "8 marzo 2004 - 10 maggio 2005",
+    "Author": "Dott. ssa Ines Agostinelli",
+    "supporto": "Cartaceo",
+    "zone": [],
+    "materials_used": [
+      "Stucchi (a base calce/resina/cellulosici)",
+      "Pigmenti e terre coloranti",
+      "Materiali lapidei (pietra, marmo, ardesia, litotipi)"
+    ],
+    "technique_used": [
+      "Stuccatura / integrazione con malte"
+    ],
+    "environmental_issue": [],
+    "working_issue": [],
+    "observations": [
+      "Stuccatura effettuata sia sul retro che sul fronte dell'opera."
+    ]
+  },
+  {
+    "record_id": "1221",
+    "Cantiere": "Cantiere di restauro: P. M. Ferrari - \"Ritratto di Don Ferdinando di Borbone\" - Olio su tela - Inv. 292, Storico artistico",
+    "zone/subject_raw": "Cornice",
+    "Date": "8 marzo 2004 - 10 maggio 2005",
+    "Author": "Dott. ssa Ines Agostinelli",
+    "supporto": "Cartaceo",
+    "zone": [],
+    "materials_used": [
+      "Pigmenti e terre coloranti",
+      "Oro/dorature/porporina",
+      "Colori (acquerelli, tempere, smalti)",
+      "Vernici (generiche)"
+    ],
+    "technique_used": [
+      "Integrazione pittorica / reintegrazione cromatica",
+      "Protezione finale / verniciatura"
+    ],
+    "environmental_issue": [],
+    "working_issue": [],
+    "observations": [
+      "Interventi di ritocco e protezione effettuati sulla cornice."
+    ]
+  },
+  {
+    "record_id": "1221",
+    "Cantiere": "Cantiere di restauro: P. M. Ferrari - \"Ritratto di Don Ferdinando di Borbone\" - Olio su tela - Inv. 292, Storico artistico",
+    "zone/subject_raw": "Cornice",
+    "Date": "8 marzo 2004 - 10 maggio 2005",
+    "Author": "Dott. ssa Ines Agostinelli",
+    "supporto": "",
+    "zone": [],
+    "materials_used": [
+      "Cere (emulsioni cerose, cere ossidate)",
+      "Solventi organici apolari (white spirit, ligroina, isoparaffine, petrolio)"
+    ],
+    "technique_used": [
+      "Pulitura chimica"
+    ],
+    "environmental_issue": [],
+    "working_issue": [],
+    "observations": [
+      "Applicazione di finitura a cera sia sul retro che sul recto della tela."
+    ]
+  },
+  {
+    "record_id": "1221",
+    "Cantiere": "Cantiere di restauro: P. M. Ferrari - \"Ritratto di Don Ferdinando di Borbone\" - Olio su tela - Inv. 292, Storico artistico",
+    "zone/subject_raw": "Allestimento",
+    "Date": "8 marzo 2004 - 10 maggio 2005",
+    "Author": "Dott. ssa Ines Agostinelli",
+    "supporto": "Cartaceo",
+    "zone": [],
+    "materials_used": [],
+    "technique_used": [],
+    "environmental_issue": [],
+    "working_issue": [],
+    "observations": [
+      "Montaggio della cornice con vetro protettivo, listoni di rinforzo angolari e schiena di protezione del verso."
+    ]
+  }
+]

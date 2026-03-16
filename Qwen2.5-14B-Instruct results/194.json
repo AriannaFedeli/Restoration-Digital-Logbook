@@ -1,0 +1,216 @@
+[
+  {
+    "record_id": "194.0",
+    "Cantiere": "Cantiere di restauro: Pisa - Compendio di San Silvestro - Prospetto, Architettonico",
+    "zone/subject_raw": "",
+    "Date": "23 novembre 2009 - 26 aprile 2010",
+    "Author": "Restauroitalia s.r.l. Geom. Pietro Giovanni Vecchio",
+    "supporto": "Architettonico",
+    "zone": [
+      "Colonne/Capitelli/Trabeazioni",
+      "Portali/Ingressi"
+    ],
+    "materials_used": [],
+    "technique_used": [
+      "Integrazione pittorica / reintegrazione cromatica"
+    ],
+    "environmental_issue": [],
+    "working_issue": [],
+    "observations": [
+      "L'integrazione mira a ripristinare la continuità formale e materica delle superfici."
+    ]
+  },
+  {
+    "record_id": "",
+    "Cantiere": "Cantiere di restauro: Pisa - Compendio di San Silvestro - Prospetto, Architettonico",
+    "zone/subject_raw": "",
+    "Date": "23 novembre 2009 - 26 aprile 2010",
+    "Author": "Restauroitalia s.r.l. Geom. Pietro Giovanni Vecchio",
+    "supporto": "Architettonico",
+    "zone": [
+      "Elementi lapidei/Sculture lapidee"
+    ],
+    "materials_used": [],
+    "technique_used": [
+      "Consolidamento per iniezione / impregnazione"
+    ],
+    "environmental_issue": [],
+    "working_issue": [
+      "Instabilità strutturale/degli assemblaggi",
+      "Adesione/coesione insufficiente"
+    ],
+    "observations": [
+      "Si è proceduto al consolidamento dell’architrave in pietra."
+    ]
+  },
+  {
+    "record_id": "",
+    "Cantiere": "Cantiere di restauro: Pisa - Compendio di San Silvestro - Prospetto, Architettonico",
+    "zone/subject_raw": "",
+    "Date": "23 novembre 2009 - 26 aprile 2010",
+    "Author": "Restauroitalia s.r.l. Geom. Pietro Giovanni Vecchio",
+    "supporto": "Architettonico",
+    "zone": [
+      "Elementi lapidei/Sculture lapidee"
+    ],
+    "materials_used": [],
+    "technique_used": [
+      "Pulitura laser / tecnologie avanzate",
+      "Rimozione di depositi, scialbature o vernici"
+    ],
+    "environmental_issue": [],
+    "working_issue": [],
+    "observations": [
+      "La pulitura è stata effettuata utilizzando la tecnologia laser per rimuovere depositi superficiali e incrostazioni dallo stemma in marmo."
+    ]
+  },
+  {
+    "record_id": "",
+    "Cantiere": "Cantiere di restauro: Pisa - Compendio di San Silvestro - Prospetto, Architettonico",
+    "zone/subject_raw": "",
+    "Date": "23 novembre 2009 - 26 aprile 2010",
+    "Author": "Restauroitalia s.r.l. Geom. Pietro Giovanni Vecchio",
+    "supporto": "Architettonico",
+    "zone": [
+      "Murature"
+    ],
+    "materials_used": [
+      "Protettivi/idrofobizzanti (generici)"
+    ],
+    "technique_used": [
+      "Impermeabilizzazione / idrorepellente"
+    ],
+    "environmental_issue": [
+      "umidità"
+    ],
+    "working_issue": [],
+    "observations": [
+      "È stata applicata una barriera chimica contro l'umidità di risalita capillare attraverso l'iniezione di prodotti idrofobizzanti nelle murature."
+    ]
+  },
+  {
+    "record_id": "",
+    "Cantiere": "Cantiere di restauro: Pisa - Compendio di San Silvestro - Prospetto, Architettonico",
+    "zone/subject_raw": "",
+    "Date": "23 novembre 2009 - 26 aprile 2010",
+    "Author": "Restauroitalia s.r.l. Geom. Pietro Giovanni Vecchio",
+    "supporto": "Architettonico",
+    "zone": [
+      "Volte",
+      "Cupola",
+      "Coperture"
+    ],
+    "materials_used": [
+      "Malte a base calce (premiscelate o tradizionali)",
+      "Stucchi (a base calce/resina/cellulosici)"
+    ],
+    "technique_used": [
+      "Interventi su intonaci (intonacatura / reintonacatura)"
+    ],
+    "environmental_issue": [],
+    "working_issue": [],
+    "observations": [
+      "Si è proceduto al rifacimento delle porzioni di intonaco degradato, ripristinando la continuità delle superfici con materiali compatibili con quelli originari."
+    ]
+  },
+  {
+    "record_id": "",
+    "Cantiere": "Cantiere di restauro: Pisa - Compendio di San Silvestro - Prospetto, Architettonico",
+    "zone/subject_raw": "",
+    "Date": "23 novembre 2009 - 26 aprile 2010",
+    "Author": "Restauroitalia s.r.l. Geom. Pietro Giovanni Vecchio",
+    "supporto": "Architettonico",
+    "zone": [
+      "Arredi liturgici"
+    ],
+    "materials_used": [],
+    "technique_used": [
+      "Consolidamento per iniezione / impregnazione",
+      "Preconsolidamento"
+    ],
+    "environmental_issue": [],
+    "working_issue": [
+      "Decoesione/polverizzazione"
+    ],
+    "observations": [
+      "Il consolidamento ha mirato a ristabilire stabilità e coesione negli elementi decoesi o lesionati."
+    ]
+  },
+  {
+    "record_id": "",
+    "Cantiere": "Cantiere di restauro: Pisa - Compendio di San Silvestro - Prospetto, Architettonico",
+    "zone/subject_raw": "",
+    "Date": "23 novembre 2009 - 26 aprile 2010",
+    "Author": "Restauroitalia s.r.l. Geom. Pietro Giovanni Vecchio",
+    "supporto": "Architettonico",
+    "zone": [],
+    "materials_used": [],
+    "technique_used": [
+      "Pulitura meccanica",
+      "Protezione finale / verniciatura"
+    ],
+    "environmental_issue": [],
+    "working_issue": [],
+    "observations": [
+      "Interventi di manutenzione su infissi e ringhiere inclusi pulitura e protezione."
+    ]
+  },
+  {
+    "record_id": "",
+    "Cantiere": "Cantiere di restauro: Pisa - Compendio di San Silvestro - Prospetto, Architettonico",
+    "zone/subject_raw": "",
+    "Date": "23 novembre 2009 - 26 aprile 2010",
+    "Author": "Restauroitalia s.r.l. Geom. Pietro Giovanni Vecchio",
+    "supporto": "Architettonico",
+    "zone": [
+      "Volte"
+    ],
+    "materials_used": [],
+    "technique_used": [
+      "Impermeabilizzazione / idrorepellente"
+    ],
+    "environmental_issue": [
+      "infiltrazioni d'acqua"
+    ],
+    "working_issue": [],
+    "observations": [
+      "È stata realizzata l'impermeabilizzazione del cornicione marcapiano e delle superfici dei terrazzi, al fine di prevenire infiltrazioni e fenomeni di degrado legati all’acqua meteorica."
+    ]
+  },
+  {
+    "record_id": "",
+    "Cantiere": "Cantiere di restauro: Pisa - Compendio di San Silvestro - Prospetto, Architettonico",
+    "zone/subject_raw": "",
+    "Date": "23 novembre 2009 - 26 aprile 2010",
+    "Author": "Restauroitalia s.r.l. Geom. Pietro Giovanni Vecchio",
+    "supporto": "Architettonico",
+    "zone": [],
+    "materials_used": [],
+    "technique_used": [],
+    "environmental_issue": [],
+    "working_issue": [],
+    "observations": [
+      "Sostituzione degli infissi non più funzionali con nuovi elementi compatibili con il contesto architettonico."
+    ]
+  },
+  {
+    "record_id": "",
+    "Cantiere": "Cantiere di restauro: Pisa - Compendio di San Silvestro - Prospetto, Architettonico",
+    "zone/subject_raw": "",
+    "Date": "23 novembre 2009 - 26 aprile 2010",
+    "Author": "Restauroitalia s.r.l. Geom. Pietro Giovanni Vecchio",
+    "supporto": "Architettonico",
+    "zone": [
+      "Portali/Ingressi"
+    ],
+    "materials_used": [],
+    "technique_used": [
+      "Riadesione / fissaggio pellicola pittorica"
+    ],
+    "environmental_issue": [],
+    "working_issue": [],
+    "observations": [
+      "È stata effettuata l'affissione della nuova scritta sul portale principale."
+    ]
+  }
+]

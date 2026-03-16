@@ -1,0 +1,17 @@
+[
+  "Adesione/coesione insufficiente",
+  "Distacco/disancoraggio",
+  "Decoesione/polverizzazione",
+  "Sollevamenti della pellicola pittorica",
+  "Fessure/fenditure/fratture/rotture",
+  "Deformazioni/dislocazioni/sconnessioni",
+  "Lacune/perdite di materiale",
+  "Instabilità strutturale/degli assemblaggi",
+  "Incompatibilità o non idoneità dei materiali",
+  "Problemi di superficie (bagnabilità, residui, macchie)",
+  "Difficoltà operative e accessibilità (quota, posizionamento, intervento diretto)",
+  "Rischi in movimentazione/sollevamento",
+  "Pulitura difficile o non controllabile",
+  "Infestazioni biologiche (tarli)",
+  "Risultati insufficienti/inefficacia del metodo"
+]

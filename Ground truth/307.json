@@ -1,0 +1,40 @@
+[
+  {
+    "record_id": "307",
+    "Cantiere": "Cantiere di restauro: Inv. 2172 Moneta - Solido di Onorio, Storico artistico",
+    "zone/subject_raw": "",
+    "Date": "2010",
+    "Author": "Laboratori di Restauro della Soprintendenza SBAP di Ravenna\nReferente\tElena Cristoferi - Funzionario Restauratore Conservatore",
+    "supporto": "",
+    "zone": [],
+    "materials_used": [
+      "Acqua (generica)"
+    ],
+    "technique_used": [
+      "Pulitura ad umido / lavaggio"
+    ],
+    "environmental_issue": [],
+    "working_issue": [],
+    "observations": [
+      "Applicazione controllata di acqua calda per intenerire il deposito terroso."
+    ]
+  },
+  {
+    "record_id": "307",
+    "Cantiere": "Cantiere di restauro: Inv. 2172 Moneta - Solido di Onorio, Storico artistico",
+    "zone/subject_raw": "",
+    "Date": "2010",
+    "Author": "Laboratori di Restauro della Soprintendenza SBAP di Ravenna\nReferente\tElena Cristoferi - Funzionario Restauratore Conservatore",
+    "supporto": "",
+    "zone": [],
+    "materials_used": [],
+    "technique_used": [
+      "Rimozione di depositi, scialbature o vernici"
+    ],
+    "environmental_issue": [],
+    "working_issue": [],
+    "observations": [
+      "Rimozione del deposito ammorbidito mediante pennello a setola corta."
+    ]
+  }
+]

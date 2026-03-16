@@ -1,0 +1,233 @@
+[
+  {
+    "record_id": "745",
+    "Cantiere": "Cantiere di restauro: AQ - Calascio - Chiesa di San Leonardo - Dipinti murali, Architettonico",
+    "zone/subject_raw": "",
+    "Date": "1989",
+    "Author": "Pietro Dalla Nave",
+    "supporto": "Architettonico",
+    "zone": [
+      "Murature",
+      "Volte",
+      "Coperture"
+    ],
+    "materials_used": [
+      "Calce idraulica / NHL",
+      "Cariche minerali (carbonato di calcio, polveri di pietra/marmo/travertino)"
+    ],
+    "technique_used": [
+      "Consolidamento per iniezione / impregnazione"
+    ],
+    "environmental_issue": [],
+    "working_issue": [
+      "Distacco/disancoraggio"
+    ],
+    "observations": [
+      "Risanamento dei distacchi profondi mediante iniezioni di calce idraulica Lafarge caricata con polvere di pomice."
+    ]
+  },
+  {
+    "record_id": "745",
+    "Cantiere": "Cantiere di restauro: AQ - Calascio - Chiesa di San Leonardo - Dipinti murali, Architettonico",
+    "zone/subject_raw": "",
+    "Date": "1989",
+    "Author": "Pietro Dalla Nave",
+    "supporto": "Architettonico",
+    "zone": [
+      "Murature",
+      "Volte",
+      "Cupola",
+      "Pavimenti/Solai"
+    ],
+    "materials_used": [
+      "Resine acriliche (Primal, Plexisol, microemulsioni acriliche)"
+    ],
+    "technique_used": [
+      "Riadesione / fissaggio pellicola pittorica"
+    ],
+    "environmental_issue": [],
+    "working_issue": [
+      "Distacco/disancoraggio"
+    ],
+    "observations": [
+      "Risanamento dei distacchi superficiali con resina acrilica Vinnapas al 20% in emulsione acquosa."
+    ]
+  },
+  {
+    "record_id": "745",
+    "Cantiere": "Cantiere di restauro: AQ - Calascio - Chiesa di San Leonardo - Dipinti murali, Architettonico",
+    "zone/subject_raw": "",
+    "Date": "1989",
+    "Author": "Pietro Dalla Nave",
+    "supporto": "Architettonico",
+    "zone": [
+      "Murature",
+      "Volte",
+      "Pavimenti/Solai",
+      "Decorazioni dipinte"
+    ],
+    "materials_used": [
+      "Acqua (generica)",
+      "Soluzioni acquose (generiche)"
+    ],
+    "technique_used": [
+      "Pulitura meccanica",
+      "Pulitura chimica",
+      "Pulitura con impacchi o gel"
+    ],
+    "environmental_issue": [],
+    "working_issue": [
+      "Pulitura difficile o non controllabile"
+    ],
+    "observations": [
+      "Utilizzo di IDRANAL III per la rimozione dello scialbo."
+    ]
+  },
+  {
+    "record_id": "745",
+    "Cantiere": "Cantiere di restauro: AQ - Calascio - Chiesa di San Leonardo - Dipinti murali, Architettonico",
+    "zone/subject_raw": "",
+    "Date": "1989",
+    "Author": "Pietro Dalla Nave",
+    "supporto": "Architettonico",
+    "zone": [],
+    "materials_used": [
+      "Resine acriliche (Primal, Plexisol, microemulsioni acriliche)",
+      "Soluzioni acquose (generiche)"
+    ],
+    "technique_used": [
+      "Consolidamento superficiale"
+    ],
+    "environmental_issue": [],
+    "working_issue": [],
+    "observations": [
+      "Il consolidamento è stato effettuato utilizzando una resina acrilica al 10% in soluzione acquosa."
+    ]
+  },
+  {
+    "record_id": "745",
+    "Cantiere": "Cantiere di restauro: AQ - Calascio - Chiesa di San Leonardo - Dipinti murali, Architettonico",
+    "zone/subject_raw": "",
+    "Date": "1989",
+    "Author": "Pietro Dalla Nave",
+    "supporto": "Architettonico",
+    "zone": [
+      "Murature",
+      "Volte",
+      "Pavimenti/Solai",
+      "Decorazioni dipinte"
+    ],
+    "materials_used": [
+      "Acqua (generica)",
+      "Basi (soluzioni basiche/ammoniaca)"
+    ],
+    "technique_used": [
+      "Pulitura con impacchi o gel",
+      "Pulitura ad umido / lavaggio"
+    ],
+    "environmental_issue": [],
+    "working_issue": [],
+    "observations": [
+      "Pulitura con impacchi di ammonio carbammato al 10% in acqua con polpa di carta; nelle zone più delicate pulitura con spugnature controllate d’acqua."
+    ]
+  },
+  {
+    "record_id": "745",
+    "Cantiere": "Cantiere di restauro: AQ - Calascio - Chiesa di San Leonardo - Dipinti murali, Architettonico",
+    "zone/subject_raw": "",
+    "Date": "1989",
+    "Author": "Pietro Dalla Nave",
+    "supporto": "Architettonico",
+    "zone": [
+      "Murature",
+      "Pavimenti/Solai",
+      "Decorazioni dipinte"
+    ],
+    "materials_used": [
+      "Malte a base calce (premiscelate o tradizionali)",
+      "Materiali lapidei (pietra, marmo, ardesia, litotipi)"
+    ],
+    "technique_used": [
+      "Interventi su intonaci (intonacatura / reintonacatura)"
+    ],
+    "environmental_issue": [],
+    "working_issue": [
+      "Lacune/perdite di materiale"
+    ],
+    "observations": [
+      "Il risarcimento è stato effettuato utilizzando una malta composta da polvere di marmo e grassello di calce."
+    ]
+  },
+  {
+    "record_id": "745",
+    "Cantiere": "Cantiere di restauro: AQ - Calascio - Chiesa di San Leonardo - Dipinti murali, Architettonico",
+    "zone/subject_raw": "",
+    "Date": "1989",
+    "Author": "Pietro Dalla Nave",
+    "supporto": "Architettonico",
+    "zone": [
+      "Murature",
+      "Pavimenti/Solai"
+    ],
+    "materials_used": [
+      "Malte a base calce (premiscelate o tradizionali)",
+      "Inerti e sabbie",
+      "Calce (grassello, calce dolce, calce storica)"
+    ],
+    "technique_used": [
+      "Interventi su intonaci (intonacatura / reintonacatura)"
+    ],
+    "environmental_issue": [],
+    "working_issue": [
+      "Lacune/perdite di materiale"
+    ],
+    "observations": [
+      "Risarcimento in sottolivello delle lacune maggiori con malta di sabbia locale e grassello di calce."
+    ]
+  },
+  {
+    "record_id": "745",
+    "Cantiere": "Cantiere di restauro: AQ - Calascio - Chiesa di San Leonardo - Dipinti murali, Architettonico",
+    "zone/subject_raw": "",
+    "Date": "1989",
+    "Author": "Pietro Dalla Nave",
+    "supporto": "Architettonico",
+    "zone": [
+      "Decorazioni dipinte"
+    ],
+    "materials_used": [
+      "Acqua (generica)",
+      "Pigmenti e terre coloranti",
+      "Colori (acquerelli, tempere, smalti)"
+    ],
+    "technique_used": [
+      "Integrazione pittorica / reintegrazione cromatica"
+    ],
+    "environmental_issue": [],
+    "working_issue": [],
+    "observations": [
+      "Intervento di reintegrazione pittorica effettuato mediante velature ad acquerello e tratteggio."
+    ]
+  },
+  {
+    "record_id": "745",
+    "Cantiere": "Cantiere di restauro: AQ - Calascio - Chiesa di San Leonardo - Dipinti murali, Architettonico",
+    "zone/subject_raw": "",
+    "Date": "1989",
+    "Author": "Pietro Dalla Nave",
+    "supporto": "Architettonico",
+    "zone": [],
+    "materials_used": [
+      "Resine metacriliche/viniliche",
+      "Solventi aromatici/clorurati (toluene, trielina, tricloroetano)"
+    ],
+    "technique_used": [
+      "Protezione finale / verniciatura"
+    ],
+    "environmental_issue": [],
+    "working_issue": [],
+    "observations": [
+      "La protezione finale è stata applicata con Paraloid B72 al 3% in tricloroetano per nebulizzazione."
+    ]
+  }
+]

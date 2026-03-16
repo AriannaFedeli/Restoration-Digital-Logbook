@@ -1,0 +1,172 @@
+[
+  {
+    "record_id": "129.0",
+    "Cantiere": "Cantiere di restauro: Pisa - Certosa di Calci - Facciata della Chiesa, Architettonico",
+    "zone/subject_raw": "",
+    "Date": "agosto 2001 - giugno 2002",
+    "Author": "RestauroItalia Srl",
+    "supporto": "Architettonico",
+    "zone": [
+      "Murature"
+    ],
+    "materials_used": [
+      "Malte cementizie",
+      "Calce idraulica / NHL"
+    ],
+    "technique_used": [
+      "Rimozione di depositi, scialbature o vernici",
+      "Consolidamento per iniezione / impregnazione",
+      "Riadesione / fissaggio pellicola pittorica"
+    ],
+    "environmental_issue": [],
+    "working_issue": [
+      "Distacco/disancoraggio"
+    ],
+    "observations": [
+      "Si è effettuato il trattamento delle interfacce e la preparazione del substrato prima della ricollocazione delle lastre."
+    ]
+  },
+  {
+    "record_id": "",
+    "Cantiere": "Cantiere di restauro: Pisa - Certosa di Calci - Facciata della Chiesa, Architettonico",
+    "zone/subject_raw": "",
+    "Date": "agosto 2001 - giugno 2002",
+    "Author": "RestauroItalia Srl",
+    "supporto": "Architettonico",
+    "zone": [
+      "Murature",
+      "Colonne/Capitelli/Trabeazioni"
+    ],
+    "materials_used": [
+      "Soluzioni idroalcoliche",
+      "Sali e tamponi (carbonati, bicarbonati, sali inorganici, soluzioni sature)",
+      "Resine metacriliche/viniliche",
+      "Resine epossidiche (Araldite, Sikadur, Epox)",
+      "Tensioattivi e detergenti anionici/cationici",
+      "Calce (grassello, calce dolce, calce storica)",
+      "Malte a base calce (premiscelate o tradizionali)",
+      "Ferramenta e fissaggi (chiodi, viti, bulloni, tasselli, staffe)"
+    ],
+    "technique_used": [
+      "Pulitura meccanica",
+      "Pulitura chimica",
+      "Pulitura con impacchi o gel",
+      "Riadesione / fissaggio pellicola pittorica",
+      "Stuccatura / integrazione con malte"
+    ],
+    "environmental_issue": [],
+    "working_issue": [
+      "Distacco/disancoraggio"
+    ],
+    "observations": [
+      "I ferri ossidati sono stati rimossi e sostituiti con staffe in acciaio inossidabile.",
+      "Le scaglie e i frammenti in fase di distacco sono stati rincollati con resine adeguate.",
+      "Le superfici interessate da depositi e croste nere sono state pulite con mezzi chimici e meccanici."
+    ]
+  },
+  {
+    "record_id": "",
+    "Cantiere": "Cantiere di restauro: Pisa - Certosa di Calci - Facciata della Chiesa, Architettonico",
+    "zone/subject_raw": "",
+    "Date": "agosto 2001 - giugno 2002",
+    "Author": "RestauroItalia Srl",
+    "supporto": "Architettonico",
+    "zone": [],
+    "materials_used": [
+      "Biocidi/antimuffa/antivegetativi"
+    ],
+    "technique_used": [
+      "Trattamenti biocidi / disinfestazione"
+    ],
+    "environmental_issue": [
+      "attacchi biologici (licheni)"
+    ],
+    "working_issue": [],
+    "observations": [
+      "Si è utilizzato un trattamento con impacchi e a pennello per eliminare gli attacchi biologici."
+    ]
+  },
+  {
+    "record_id": "",
+    "Cantiere": "Cantiere di restauro: Pisa - Certosa di Calci - Facciata della Chiesa, Architettonico",
+    "zone/subject_raw": "",
+    "Date": "agosto 2001 - giugno 2002",
+    "Author": "RestauroItalia Srl",
+    "supporto": "Architettonico",
+    "zone": [
+      "Murature",
+      "Decorazioni dipinte"
+    ],
+    "materials_used": [
+      "Malte cementizie",
+      "Malte a base calce (premiscelate o tradizionali)",
+      "Pigmenti e terre coloranti",
+      "Cere (emulsioni cerose, cere ossidate)"
+    ],
+    "technique_used": [
+      "Integrazione pittorica / reintegrazione cromatica",
+      "Interventi strutturali locali (cuci-scuci, cerchiatura, ancoraggi)",
+      "Stuccatura / integrazione con malte"
+    ],
+    "environmental_issue": [],
+    "working_issue": [
+      "Lacune/perdite di materiale",
+      "Incompatibilità o non idoneità dei materiali"
+    ],
+    "observations": [
+      "Mezzi meccanici utilizzati per rimuovere le stuccature non idonee.",
+      "Ricostruzione delle lacune con malta a base di grassello di calce e polvere di marmo."
+    ]
+  },
+  {
+    "record_id": "",
+    "Cantiere": "Cantiere di restauro: Pisa - Certosa di Calci - Facciata della Chiesa, Architettonico",
+    "zone/subject_raw": "",
+    "Date": "agosto 2001 - giugno 2002",
+    "Author": "RestauroItalia Srl",
+    "supporto": "Architettonico",
+    "zone": [
+      "Murature"
+    ],
+    "materials_used": [
+      "Soluzioni idroalcoliche",
+      "Resine metacriliche/viniliche",
+      "Resine epossidiche (Araldite, Sikadur, Epox)",
+      "Resine siliconiche/silossaniche",
+      "Biocidi/antimuffa/antivegetativi",
+      "Protettivi/idrofobizzanti (generici)",
+      "Protettivi silossanici/idrorepellenti a base silicio",
+      "Colori (acquerelli, tempere, smalti)",
+      "Pigmenti e terre coloranti"
+    ],
+    "technique_used": [
+      "Indagini diagnostiche e analisi preliminari",
+      "Pulitura meccanica",
+      "Pulitura chimica",
+      "Pulitura ad umido / lavaggio",
+      "Pulitura con impacchi o gel",
+      "Trattamenti biocidi / disinfestazione",
+      "Riadesione / fissaggio pellicola pittorica",
+      "Integrazione pittorica / reintegrazione cromatica",
+      "Ritocco / velatura / patinatura",
+      "Sigillature e stilatura giunti",
+      "Interventi strutturali locali (cuci-scuci, cerchiatura, ancoraggi)",
+      "Protezione finale / verniciatura"
+    ],
+    "environmental_issue": [
+      "sviluppi biodeteriogeni"
+    ],
+    "working_issue": [
+      "Decoesione/polverizzazione",
+      "Fessure/fenditure/fratture/rotture",
+      "Deformazioni/dislocazioni/sconnessioni",
+      "Lacune/perdite di materiale",
+      "Incompatibilità o non idoneità dei materiali"
+    ],
+    "observations": [
+      "Si sono utilizzati mezzi meccanici per la rimozione delle stuccature non idonee.",
+      "Il trattamento con agenti biocidi è stato effettuato mediante iniezioni, impacchi e a pennello.",
+      "La pulitura delle croste nere è stata eseguita con mezzi chimici e meccanici."
+    ]
+  }
+]

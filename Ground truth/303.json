@@ -1,0 +1,235 @@
+[
+  {
+    "record_id": "303",
+    "Cantiere": "Cantiere di restauro: Portale lapideo, Storico artistico",
+    "zone/subject_raw": "S.M. ad Cryptas_portale lapideo",
+    "Date": "1988",
+    "Author": "Elisabetta Sonnino",
+    "supporto": "Architettonico",
+    "zone": [
+      "Portali/Ingressi"
+    ],
+    "materials_used": [],
+    "technique_used": [
+      "Pulitura meccanica"
+    ],
+    "environmental_issue": [
+      "attacchi biologici (licheni)"
+    ],
+    "working_issue": [],
+    "observations": [
+      "Pulitura meccanica su portale lapideo con bisturi e spazzolini morbidi; attenzione a licheni e depositi."
+    ]
+  },
+  {
+    "record_id": "303",
+    "Cantiere": "Cantiere di restauro: Portale lapideo, Storico artistico",
+    "zone/subject_raw": "S.M. ad Cryptas_portale lapideo",
+    "Date": "1988",
+    "Author": "Elisabetta Sonnino",
+    "supporto": "Murario",
+    "zone": [
+      "Portali/Ingressi"
+    ],
+    "materials_used": [
+      "Sali e tamponi (carbonati, bicarbonati, sali inorganici, soluzioni sature)",
+      "Carta e carte tecniche (giapponese, velina, riso, assorbente)",
+      "Acqua (generica)"
+    ],
+    "technique_used": [
+      "Pulitura chimica",
+      "Pulitura con impacchi o gel"
+    ],
+    "environmental_issue": [],
+    "working_issue": [],
+    "observations": [
+      "Pulitura chimica ad impacco con soluzione satura di carbonato di ammonio in polpa di carta, poi risciacquata con acqua."
+    ]
+  },
+  {
+    "record_id": "303",
+    "Cantiere": "Cantiere di restauro: Portale lapideo, Storico artistico",
+    "zone/subject_raw": "S.M. ad Cryptas_portale lapideo",
+    "Date": "1988",
+    "Author": "Elisabetta Sonnino",
+    "supporto": "Murario",
+    "zone": [
+      "Portali/Ingressi"
+    ],
+    "materials_used": [],
+    "technique_used": [
+      "Pulitura meccanica"
+    ],
+    "environmental_issue": [],
+    "working_issue": [],
+    "observations": [
+      "Rimozione meccanica delle vecchie stuccature e intonacature con bisturi e microscalpelli."
+    ]
+  },
+  {
+    "record_id": "303",
+    "Cantiere": "Cantiere di restauro: Portale lapideo, Storico artistico",
+    "zone/subject_raw": "S.M. ad Cryptas_portale lapideo",
+    "Date": "1988",
+    "Author": "Elisabetta Sonnino",
+    "supporto": "",
+    "zone": [],
+    "materials_used": [],
+    "technique_used": [],
+    "environmental_issue": [],
+    "working_issue": [],
+    "observations": [
+      "MODEL_OUTPUT_INVALID: supporto not allowed: Portali/Ingressi",
+      "RAW: {\"supporto\": \"Portali/Ingressi\", \"zone\": [\"Portali/Ingressi\"], \"materials_used\": [\"Acqua (generica)\"], \"technique_used\": [\"Pulitura meccanica\", \"Pulitura ad umido / lavaggio\"], \"environmental_issue\": [], \"working_issue\": [], \"observations\": [\"Pulitura delle cavità e delle fessure con pennelli e spazzolini morbidi.\", \"Utilizzo di acqua generica per la pulitura.\"]}"
+    ]
+  },
+  {
+    "record_id": "303",
+    "Cantiere": "Cantiere di restauro: Portale lapideo, Storico artistico",
+    "zone/subject_raw": "S.M. ad Cryptas_portale lapideo",
+    "Date": "1988",
+    "Author": "Elisabetta Sonnino",
+    "supporto": "Architettonico",
+    "zone": [
+      "Portali/Ingressi"
+    ],
+    "materials_used": [
+      "Acqua deionizzata/demineralizzata/distillata",
+      "Biocidi/antimuffa/antivegetativi"
+    ],
+    "technique_used": [
+      "Trattamenti biocidi / disinfestazione"
+    ],
+    "environmental_issue": [],
+    "working_issue": [],
+    "observations": [
+      "Applicazione di biocida Preventol R80 al 2% in acqua deionizzata, con spruzzo e siringa, seguita da risciacquo ad acqua."
+    ]
+  },
+  {
+    "record_id": "303",
+    "Cantiere": "Cantiere di restauro: Portale lapideo, Storico artistico",
+    "zone/subject_raw": "S.M. ad Cryptas_portale lapideo",
+    "Date": "1988",
+    "Author": "Elisabetta Sonnino",
+    "supporto": "Architettonico",
+    "zone": [
+      "Portali/Ingressi"
+    ],
+    "materials_used": [
+      "Adesivi epossidici/bi-componenti"
+    ],
+    "technique_used": [
+      "Rimozione di depositi, scialbature o vernici",
+      "Pulitura meccanica",
+      "Riadesione / fissaggio pellicola pittorica"
+    ],
+    "environmental_issue": [],
+    "working_issue": [],
+    "observations": [
+      "Rimozione delle parti pericolanti del portale lapideo",
+      "Pulitura e riadesione mediante colla a due componenti"
+    ]
+  },
+  {
+    "record_id": "303",
+    "Cantiere": "Cantiere di restauro: Portale lapideo, Storico artistico",
+    "zone/subject_raw": "S.M. ad Cryptas_portale lapideo",
+    "Date": "1988",
+    "Author": "Elisabetta Sonnino",
+    "supporto": "Architettonico",
+    "zone": [
+      "Portali/Ingressi"
+    ],
+    "materials_used": [
+      "Resine acriliche (Primal, Plexisol, microemulsioni acriliche)",
+      "Solventi aromatici/clorurati (toluene, trielina, tricloroetano)"
+    ],
+    "technique_used": [
+      "Consolidamento per iniezione / impregnazione"
+    ],
+    "environmental_issue": [],
+    "working_issue": [],
+    "observations": [
+      "Asportazione dei chiodi presenti tra i conci del portale e consolidamento con infiltrazioni di Paraloid B72 in tricloroetano al 10%."
+    ]
+  },
+  {
+    "record_id": "303",
+    "Cantiere": "Cantiere di restauro: Portale lapideo, Storico artistico",
+    "zone/subject_raw": "S.M. ad Cryptas_portale lapideo",
+    "Date": "1988",
+    "Author": "Elisabetta Sonnino",
+    "supporto": "Architettonico",
+    "zone": [
+      "Portali/Ingressi"
+    ],
+    "materials_used": [
+      "Inerti e sabbie",
+      "Calce (grassello, calce dolce, calce storica)",
+      "Malte a base calce (premiscelate o tradizionali)"
+    ],
+    "technique_used": [
+      "Stuccatura / integrazione con malte"
+    ],
+    "environmental_issue": [],
+    "working_issue": [
+      "Fessure/fenditure/fratture/rotture"
+    ],
+    "observations": [
+      "Stuccatura delle microfessure con malta a base di sabbia sottile e calce."
+    ]
+  },
+  {
+    "record_id": "303",
+    "Cantiere": "Cantiere di restauro: Portale lapideo, Storico artistico",
+    "zone/subject_raw": "S.M. ad Cryptas_portale lapideo",
+    "Date": "1988",
+    "Author": "Elisabetta Sonnino",
+    "supporto": "Architettonico",
+    "zone": [
+      "Portali/Ingressi"
+    ],
+    "materials_used": [
+      "Calce idraulica / NHL",
+      "Inerti e sabbie",
+      "Materiali lapidei (pietra, marmo, ardesia, litotipi)",
+      "Laterizio/cotto/mattoni",
+      "Malte a base calce (premiscelate o tradizionali)"
+    ],
+    "technique_used": [
+      "Stuccatura / integrazione con malte"
+    ],
+    "environmental_issue": [],
+    "working_issue": [
+      "Fessure/fenditure/fratture/rotture"
+    ],
+    "observations": [
+      "Stuccatura di fessure profonde con malta a base di calce idraulica, sabbia, pietre e frammenti di mattone cotto.",
+      "Finitura superficiale con malta più sottile pigmentata con polvere di mattone."
+    ]
+  },
+  {
+    "record_id": "303",
+    "Cantiere": "Cantiere di restauro: Portale lapideo, Storico artistico",
+    "zone/subject_raw": "S.M. ad Cryptas_portale lapideo",
+    "Date": "1988",
+    "Author": "Elisabetta Sonnino",
+    "supporto": "Murario",
+    "zone": [
+      "Portali/Ingressi"
+    ],
+    "materials_used": [
+      "Solventi aromatici/clorurati (toluene, trielina, tricloroetano)",
+      "Resine acriliche (Primal, Plexisol, microemulsioni acriliche)"
+    ],
+    "technique_used": [
+      "Protezione finale / verniciatura"
+    ],
+    "environmental_issue": [],
+    "working_issue": [],
+    "observations": [
+      "Applicazione di una finitura protettiva a base di resina acrilica Paraloid B72 diluita in tricloroetano sul portale lapideo."
+    ]
+  }
+]

@@ -1,0 +1,22 @@
+[
+  {
+    "record_id": "1718",
+    "Cantiere": "Cantiere di restauro: Moneta - Denario - inv. 2101, Storico artistico",
+    "zone/subject_raw": "Denario",
+    "Date": "ottobre 2010 - 3 maggio 2011",
+    "Author": "Elena Cristoferi",
+    "supporto": "Scultoreo",
+    "zone": [],
+    "materials_used": [
+      "Attrezzature/utensili (bisturi, spazzolini, ponteggi)"
+    ],
+    "technique_used": [
+      "Pulitura meccanica"
+    ],
+    "environmental_issue": [],
+    "working_issue": [],
+    "observations": [
+      "Pulitura meccanica eseguita con bisturi sotto microscopio ottico per rimuovere depositi superficiali."
+    ]
+  }
+]

@@ -1,0 +1,202 @@
+[
+  {
+    "record_id": "1607",
+    "Cantiere": "Cantiere di restauro: Lucca - Chiesa di S. Caterina - Lavori di consolidamento e restauro, Architettonico",
+    "zone/subject_raw": "Strutture lignee di copertura",
+    "Date": "2013",
+    "Author": "Elena Cristoferi, Alessandra Pocaterra",
+    "supporto": "Architettonico",
+    "zone": [],
+    "materials_used": [],
+    "technique_used": [
+      "Indagini diagnostiche e analisi preliminari"
+    ],
+    "environmental_issue": [],
+    "working_issue": [],
+    "observations": [
+      "Verifica dello stato di conservazione delle strutture lignee mediante analisi visiva e saggi puntuali."
+    ]
+  },
+  {
+    "record_id": "1607",
+    "Cantiere": "Cantiere di restauro: Lucca - Chiesa di S. Caterina - Lavori di consolidamento e restauro, Architettonico",
+    "zone/subject_raw": "Strutture lignee di copertura",
+    "Date": "2013",
+    "Author": "Elena Cristoferi, Alessandra Pocaterra",
+    "supporto": "Architettonico",
+    "zone": [],
+    "materials_used": [],
+    "technique_used": [],
+    "environmental_issue": [
+      "attacco xilofago"
+    ],
+    "working_issue": [],
+    "observations": [
+      "Rimozione delle parti degradate da attacchi xilofagi e marcescenze."
+    ]
+  },
+  {
+    "record_id": "1607",
+    "Cantiere": "Cantiere di restauro: Lucca - Chiesa di S. Caterina - Lavori di consolidamento e restauro, Architettonico",
+    "zone/subject_raw": "Strutture lignee di copertura",
+    "Date": "2013",
+    "Author": "Elena Cristoferi, Alessandra Pocaterra",
+    "supporto": "Architettonico",
+    "zone": [],
+    "materials_used": [
+      "Antitarlo/insetticidi/disinfestazione"
+    ],
+    "technique_used": [
+      "Trattamenti biocidi / disinfestazione"
+    ],
+    "environmental_issue": [
+      "attacco xilofago"
+    ],
+    "working_issue": [],
+    "observations": [
+      "Trattamento antitarlo effettuato mediante applicazione di prodotto biocida specifico."
+    ]
+  },
+  {
+    "record_id": "1607",
+    "Cantiere": "Cantiere di restauro: Lucca - Chiesa di S. Caterina - Lavori di consolidamento e restauro, Architettonico",
+    "zone/subject_raw": "Strutture lignee di copertura",
+    "Date": "2013",
+    "Author": "Elena Cristoferi, Alessandra Pocaterra",
+    "supporto": "Architettonico",
+    "zone": [],
+    "materials_used": [
+      "Resine epossidiche (Araldite, Sikadur, Epox)"
+    ],
+    "technique_used": [
+      "Consolidamento per iniezione / impregnazione",
+      "Consolidamento superficiale"
+    ],
+    "environmental_issue": [],
+    "working_issue": [],
+    "observations": [
+      "Consolidamento delle strutture lignee effettuato con resina epossidica applicata a pennello e per iniezione."
+    ]
+  },
+  {
+    "record_id": "1607",
+    "Cantiere": "Cantiere di restauro: Lucca - Chiesa di S. Caterina - Lavori di consolidamento e restauro, Architettonico",
+    "zone/subject_raw": "Strutture lignee di copertura",
+    "Date": "2013",
+    "Author": "Elena Cristoferi, Alessandra Pocaterra",
+    "supporto": "Architettonico",
+    "zone": [],
+    "materials_used": [
+      "Legno (massello, assito, multistrato, compensati)"
+    ],
+    "technique_used": [],
+    "environmental_issue": [],
+    "working_issue": [],
+    "observations": [
+      "Integrazione delle parti mancanti con inserti in legno della stessa specie e dimensione."
+    ]
+  },
+  {
+    "record_id": "1607",
+    "Cantiere": "Cantiere di restauro: Lucca - Chiesa di S. Caterina - Lavori di consolidamento e restauro, Architettonico",
+    "zone/subject_raw": "Strutture lignee di copertura",
+    "Date": "2013",
+    "Author": "Elena Cristoferi, Alessandra Pocaterra",
+    "supporto": "Architettonico",
+    "zone": [],
+    "materials_used": [
+      "Ferramenta e fissaggi (chiodi, viti, bulloni, tasselli, staffe)"
+    ],
+    "technique_used": [
+      "Interventi strutturali locali (cuci-scuci, cerchiatura, ancoraggi)"
+    ],
+    "environmental_issue": [],
+    "working_issue": [],
+    "observations": [
+      "Rinforzo degli elementi strutturali mediante staffe metalliche e bullonature."
+    ]
+  },
+  {
+    "record_id": "1607",
+    "Cantiere": "Cantiere di restauro: Lucca - Chiesa di S. Caterina - Lavori di consolidamento e restauro, Architettonico",
+    "zone/subject_raw": "Murature perimetrali",
+    "Date": "2013",
+    "Author": "Elena Cristoferi, Alessandra Pocaterra",
+    "supporto": "Murario",
+    "zone": [
+      "Murature"
+    ],
+    "materials_used": [
+      "Malte cementizie"
+    ],
+    "technique_used": [
+      "Consolidamento per iniezione / impregnazione"
+    ],
+    "environmental_issue": [],
+    "working_issue": [],
+    "observations": [
+      "Consolidamento delle murature tramite iniezioni di malta idraulica a bassa pressione."
+    ]
+  },
+  {
+    "record_id": "1607",
+    "Cantiere": "Cantiere di restauro: Lucca - Chiesa di S. Caterina - Lavori di consolidamento e restauro, Architettonico",
+    "zone/subject_raw": "Murature perimetrali",
+    "Date": "2013",
+    "Author": "Elena Cristoferi, Alessandra Pocaterra",
+    "supporto": "Murario",
+    "zone": [
+      "Murature"
+    ],
+    "materials_used": [
+      "Malte a base calce (premiscelate o tradizionali)"
+    ],
+    "technique_used": [
+      "Sigillature e stilatura giunti"
+    ],
+    "environmental_issue": [],
+    "working_issue": [
+      "Lacune/perdite di materiale"
+    ],
+    "observations": [
+      "Ripristino delle lacune murarie mediante stilatura dei giunti con malta compatibile."
+    ]
+  },
+  {
+    "record_id": "1607",
+    "Cantiere": "Cantiere di restauro: Lucca - Chiesa di S. Caterina - Lavori di consolidamento e restauro, Architettonico",
+    "zone/subject_raw": "Cupola e volte",
+    "Date": "2013",
+    "Author": "Elena Cristoferi, Alessandra Pocaterra",
+    "supporto": "Architettonico",
+    "zone": [
+      "Cupola",
+      "Volte"
+    ],
+    "materials_used": [],
+    "technique_used": [
+      "Interventi strutturali locali (cuci-scuci, cerchiatura, ancoraggi)"
+    ],
+    "environmental_issue": [],
+    "working_issue": [],
+    "observations": [
+      "Verifica del comportamento statico e inserimento di presidi di rinforzo effettuati."
+    ]
+  },
+  {
+    "record_id": "1607",
+    "Cantiere": "Cantiere di restauro: Lucca - Chiesa di S. Caterina - Lavori di consolidamento e restauro, Architettonico",
+    "zone/subject_raw": "Intervento generale",
+    "Date": "2013",
+    "Author": "Elena Cristoferi, Alessandra Pocaterra",
+    "supporto": "Architettonico",
+    "zone": [],
+    "materials_used": [],
+    "technique_used": [],
+    "environmental_issue": [],
+    "working_issue": [],
+    "observations": [
+      "Controllo finale delle connessioni strutturali e verifica del corretto funzionamento del sistema di consolidamento."
+    ]
+  }
+]

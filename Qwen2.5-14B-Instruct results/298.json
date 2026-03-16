@@ -1,0 +1,147 @@
+[
+  {
+    "record_id": "298",
+    "Cantiere": "Cantiere di restauro: AQ - L'Aquila - Tempera - Chiesa di Santa Maria delle Grazie - Dipinto ad olio su muro - Madonna col Bambino, Storico artistico",
+    "zone/subject_raw": "",
+    "Date": "marzo 1990 - aprile 1990",
+    "Author": "Elisabetta Sonnino",
+    "supporto": "Murale affrescato",
+    "zone": [],
+    "materials_used": [
+      "Solventi organici polari (acetone, etilacetato, MEK, DMF, DMSO)",
+      "Soluzioni idroalcoliche"
+    ],
+    "technique_used": [
+      "Pulitura chimica"
+    ],
+    "environmental_issue": [],
+    "working_issue": [],
+    "observations": [
+      "Esecuzione di una prima “sverniciatura” a tampone con diluente nitro e miscela di acqua e alcool."
+    ]
+  },
+  {
+    "record_id": "298",
+    "Cantiere": "Cantiere di restauro: AQ - L'Aquila - Tempera - Chiesa di Santa Maria delle Grazie - Dipinto ad olio su muro - Madonna col Bambino, Storico artistico",
+    "zone/subject_raw": "",
+    "Date": "marzo 1990 - aprile 1990",
+    "Author": "Elisabetta Sonnino",
+    "supporto": "Murale affrescato",
+    "zone": [],
+    "materials_used": [],
+    "technique_used": [
+      "Pulitura con impacchi o gel"
+    ],
+    "environmental_issue": [],
+    "working_issue": [],
+    "observations": [
+      "Pulitura effettuata con impacchi di carbonato d'ammonio in soluzione satura e polpa di carta."
+    ]
+  },
+  {
+    "record_id": "298",
+    "Cantiere": "Cantiere di restauro: AQ - L'Aquila - Tempera - Chiesa di Santa Maria delle Grazie - Dipinto ad olio su muro - Madonna col Bambino, Storico artistico",
+    "zone/subject_raw": "",
+    "Date": "marzo 1990 - aprile 1990",
+    "Author": "Elisabetta Sonnino",
+    "supporto": "",
+    "zone": [],
+    "materials_used": [],
+    "technique_used": [
+      "Pulitura con impacchi o gel"
+    ],
+    "environmental_issue": [],
+    "working_issue": [],
+    "observations": [
+      "Asportazione meccanica dei residui di cera effettuata con bisturi e tamponature locali di trielina."
+    ]
+  },
+  {
+    "record_id": "298",
+    "Cantiere": "Cantiere di restauro: AQ - L'Aquila - Tempera - Chiesa di Santa Maria delle Grazie - Dipinto ad olio su muro - Madonna col Bambino, Storico artistico",
+    "zone/subject_raw": "",
+    "Date": "marzo 1990 - aprile 1990",
+    "Author": "Elisabetta Sonnino",
+    "supporto": "Murale affrescato",
+    "zone": [
+      "Decorazioni dipinte"
+    ],
+    "materials_used": [
+      "Resine metacriliche/viniliche",
+      "Solventi aromatici/clorurati (toluene, trielina, tricloroetano)"
+    ],
+    "technique_used": [
+      "Consolidamento superficiale"
+    ],
+    "environmental_issue": [],
+    "working_issue": [],
+    "observations": [
+      "Stesura a pennello di tre mani di Paraloid B72 in tricloroetano all’1,5% dopo completa asciugatura del dipinto."
+    ]
+  },
+  {
+    "record_id": "298",
+    "Cantiere": "Cantiere di restauro: AQ - L'Aquila - Tempera - Chiesa di Santa Maria delle Grazie - Dipinto ad olio su muro - Madonna col Bambino, Storico artistico",
+    "zone/subject_raw": "",
+    "Date": "marzo 1990 - aprile 1990",
+    "Author": "Elisabetta Sonnino",
+    "supporto": "",
+    "zone": [],
+    "materials_used": [
+      "Cariche minerali (carbonato di calcio, polveri di pietra/marmo/travertino)"
+    ],
+    "technique_used": [
+      "Stuccatura / integrazione con malte"
+    ],
+    "environmental_issue": [],
+    "working_issue": [
+      "Lacune/perdite di materiale",
+      "Fessure/fenditure/fratture/rotture"
+    ],
+    "observations": [
+      "Intervento focalizzato sulla riparazione di lacune e fessurazioni con una malta specificamente preparata."
+    ]
+  },
+  {
+    "record_id": "298",
+    "Cantiere": "Cantiere di restauro: AQ - L'Aquila - Tempera - Chiesa di Santa Maria delle Grazie - Dipinto ad olio su muro - Madonna col Bambino, Storico artistico",
+    "zone/subject_raw": "",
+    "Date": "marzo 1990 - aprile 1990",
+    "Author": "Elisabetta Sonnino",
+    "supporto": "Decorato",
+    "zone": [
+      "Decorazioni dipinte"
+    ],
+    "materials_used": [],
+    "technique_used": [
+      "Integrazione pittorica / reintegrazione cromatica"
+    ],
+    "environmental_issue": [],
+    "working_issue": [],
+    "observations": [
+      "Reintegrazione pittorica effettuata con acquarelli Windsor & Newton."
+    ]
+  },
+  {
+    "record_id": "298",
+    "Cantiere": "Cantiere di restauro: AQ - L'Aquila - Tempera - Chiesa di Santa Maria delle Grazie - Dipinto ad olio su muro - Madonna col Bambino, Storico artistico",
+    "zone/subject_raw": "",
+    "Date": "23 febbraio 1990 - 22 maggio 1990",
+    "Author": "Elisabetta Sonnino",
+    "supporto": "Murale affrescato",
+    "zone": [
+      "Decorazioni dipinte"
+    ],
+    "materials_used": [
+      "Vernici finali/retoucher (gloss/matt)"
+    ],
+    "technique_used": [
+      "Protezione finale / verniciatura"
+    ],
+    "environmental_issue": [],
+    "working_issue": [],
+    "observations": [
+      "Verniciatura finale effettuata con una miscela di vernice Retoucher e Mat."
+    ]
+  }
+]

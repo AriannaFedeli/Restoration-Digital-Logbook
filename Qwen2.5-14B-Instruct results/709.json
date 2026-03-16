@@ -1,0 +1,181 @@
+[
+  {
+    "record_id": "709",
+    "Cantiere": "Cantiere di restauro: AQ - L'Aquila - Museo Nazionale d'Abruzzo - Croce da iconostasi - Tempera su tavola, Storico artistico",
+    "zone/subject_raw": "",
+    "Date": "1 aprile 1991 - 30 luglio 1991",
+    "Author": "SIRA S.N.C.",
+    "supporto": "",
+    "zone": [],
+    "materials_used": [],
+    "technique_used": [],
+    "environmental_issue": [],
+    "working_issue": [],
+    "observations": [
+      "MODEL_OUTPUT_INVALID: supporto not allowed: Legno (massello, assito, multistrato, compensati)",
+      "RAW: {\"supporto\": \"Legno (massello, assito, multistrato, compensati)\", \"zone\": [], \"materials_used\": [\"Bromuro di metile\"], \"technique_used\": [\"Trattamenti biocidi / disinfestazione\"], \"environmental_issue\": [], \"working_issue\": [], \"observations\": [\"Disinfestazione effettuata in una camera a gas presso I.C.R. di Roma.\"]}"
+    ]
+  },
+  {
+    "record_id": "709",
+    "Cantiere": "Cantiere di restauro: AQ - L'Aquila - Museo Nazionale d'Abruzzo - Croce da iconostasi - Tempera su tavola, Storico artistico",
+    "zone/subject_raw": "",
+    "Date": "1 aprile 1991 - 30 luglio 1991",
+    "Author": "SIRA S.N.C.",
+    "supporto": "Cartaceo",
+    "zone": [],
+    "materials_used": [
+      "Resine acriliche (Primal, Plexisol, microemulsioni acriliche)"
+    ],
+    "technique_used": [
+      "Consolidamento per iniezione / impregnazione"
+    ],
+    "environmental_issue": [],
+    "working_issue": [],
+    "observations": [
+      "Consolidamento del legno effettuato con resine acriliche."
+    ]
+  },
+  {
+    "record_id": "709",
+    "Cantiere": "Cantiere di restauro: AQ - L'Aquila - Museo Nazionale d'Abruzzo - Croce da iconostasi - Tempera su tavola, Storico artistico",
+    "zone/subject_raw": "",
+    "Date": "1 aprile 1991 - 30 luglio 1991",
+    "Author": "SIRA S.N.C.",
+    "supporto": "Cartaceo",
+    "zone": [],
+    "materials_used": [
+      "Biocidi/antimuffa/antivegetativi"
+    ],
+    "technique_used": [
+      "Trattamenti biocidi / disinfestazione"
+    ],
+    "environmental_issue": [
+      "sviluppi biodeteriogeni"
+    ],
+    "working_issue": [],
+    "observations": [
+      "Applicazione di fungicida per eliminare le ife fungine."
+    ]
+  },
+  {
+    "record_id": "709",
+    "Cantiere": "Cantiere di restauro: AQ - L'Aquila - Museo Nazionale d'Abruzzo - Croce da iconostasi - Tempera su tavola, Storico artistico",
+    "zone/subject_raw": "",
+    "Date": "1 aprile 1991 - 30 luglio 1991",
+    "Author": "SIRA S.N.C.",
+    "supporto": "Cartaceo",
+    "zone": [],
+    "materials_used": [],
+    "technique_used": [
+      "Pulitura meccanica",
+      "Pulitura chimica"
+    ],
+    "environmental_issue": [],
+    "working_issue": [],
+    "observations": [
+      "La pulitura delle parti lignee è stata effettuata con mezzi meccanici e chimici."
+    ]
+  },
+  {
+    "record_id": "709",
+    "Cantiere": "Cantiere di restauro: AQ - L'Aquila - Museo Nazionale d'Abruzzo - Croce da iconostasi - Tempera su tavola, Storico artistico",
+    "zone/subject_raw": "",
+    "Date": "1 aprile 1991 - 30 luglio 1991",
+    "Author": "SIRA S.N.C.",
+    "supporto": "",
+    "zone": [],
+    "materials_used": [
+      "Basi (soluzioni basiche/ammoniaca)"
+    ],
+    "technique_used": [
+      "Pulitura chimica"
+    ],
+    "environmental_issue": [],
+    "working_issue": [],
+    "observations": [
+      "Pulitura della pellicola pittorica con soluzione basica leggera per l’eliminazione dei residui di sporco e delle integrazioni alterate."
+    ]
+  },
+  {
+    "record_id": "709",
+    "Cantiere": "Cantiere di restauro: AQ - L'Aquila - Museo Nazionale d'Abruzzo - Croce da iconostasi - Tempera su tavola, Storico artistico",
+    "zone/subject_raw": "",
+    "Date": "1 aprile 1991 - 30 luglio 1991",
+    "Author": "SIRA S.N.C.",
+    "supporto": "",
+    "zone": [],
+    "materials_used": [
+      "Gesso e stucchi gessosi",
+      "Adesivi/colle (generici)"
+    ],
+    "technique_used": [
+      "Stuccatura / integrazione con malte"
+    ],
+    "environmental_issue": [],
+    "working_issue": [],
+    "observations": [
+      "Stuccatura delle lacune reintegrabili e delle fenditure."
+    ]
+  },
+  {
+    "record_id": "709",
+    "Cantiere": "Cantiere di restauro: AQ - L'Aquila - Museo Nazionale d'Abruzzo - Croce da iconostasi - Tempera su tavola, Storico artistico",
+    "zone/subject_raw": "",
+    "Date": "1 aprile 1991 - 30 luglio 1991",
+    "Author": "SIRA S.N.C.",
+    "supporto": "",
+    "zone": [
+      "Opere mobili"
+    ],
+    "materials_used": [
+      "Pigmenti e terre coloranti"
+    ],
+    "technique_used": [
+      "Integrazione pittorica / reintegrazione cromatica"
+    ],
+    "environmental_issue": [],
+    "working_issue": [],
+    "observations": [
+      "L'intervento riguarda la reintegrazione pittorica di lacune."
+    ]
+  },
+  {
+    "record_id": "709",
+    "Cantiere": "Cantiere di restauro: AQ - L'Aquila - Museo Nazionale d'Abruzzo - Croce da iconostasi - Tempera su tavola, Storico artistico",
+    "zone/subject_raw": "",
+    "Date": "1 aprile 1991 - 30 luglio 1991",
+    "Author": "SIRA S.N.C.",
+    "supporto": "Cartaceo",
+    "zone": [],
+    "materials_used": [],
+    "technique_used": [
+      "Ritocco / velatura / patinatura"
+    ],
+    "environmental_issue": [],
+    "working_issue": [],
+    "observations": [
+      "Intervento di ritocco e velatura per la revisione cromatica."
+    ]
+  },
+  {
+    "record_id": "709",
+    "Cantiere": "Cantiere di restauro: AQ - L'Aquila - Museo Nazionale d'Abruzzo - Croce da iconostasi - Tempera su tavola, Storico artistico",
+    "zone/subject_raw": "Croce da iconostasi",
+    "Date": "1 aprile 1991 - 30 luglio 1991",
+    "Author": "SIRA S.N.C.",
+    "supporto": "",
+    "zone": [],
+    "materials_used": [
+      "Vernici finali/retoucher (gloss/matt)"
+    ],
+    "technique_used": [
+      "Protezione finale / verniciatura"
+    ],
+    "environmental_issue": [],
+    "working_issue": [],
+    "observations": [
+      "Applicazione di vernice semilucida come protezione finale."
+    ]
+  }
+]

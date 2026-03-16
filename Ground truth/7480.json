@@ -1,0 +1,222 @@
+[
+  {
+    "record_id": "7480",
+    "Cantiere": "Cantiere di restauro: Restauro del Busto di giovane c.d. Massimo (Inv. 1914 n. 255) della Galleria degli Uffizi di Firenze, Archeologico > Mobile",
+    "zone/subject_raw": "Pulitura",
+    "Date": "ante ottobre 2011; post ottobre 2011",
+    "Author": "Camilla Mancini",
+    "supporto": "Archeologico / stratigrafico",
+    "zone": [],
+    "materials_used": [],
+    "technique_used": [
+      "Pulitura meccanica",
+      "Aspirazione / spolveratura"
+    ],
+    "environmental_issue": [],
+    "working_issue": [],
+    "observations": [
+      "Rimozione dei depositi di polvere mediante pennelli a setole morbide e aspirapolvere."
+    ]
+  },
+  {
+    "record_id": "7480",
+    "Cantiere": "Cantiere di restauro: Restauro del Busto di giovane c.d. Massimo (Inv. 1914 n. 255) della Galleria degli Uffizi di Firenze, Archeologico > Mobile",
+    "zone/subject_raw": "Pulitura",
+    "Date": "ante ottobre 2011; post ottobre 2011",
+    "Author": "Camilla Mancini",
+    "supporto": "Archeologico / stratigrafico",
+    "zone": [],
+    "materials_used": [
+      "Tensioattivi e detergenti non ionici",
+      "Acqua deionizzata/demineralizzata/distillata"
+    ],
+    "technique_used": [
+      "Pulitura ad umido / lavaggio"
+    ],
+    "environmental_issue": [],
+    "working_issue": [],
+    "observations": [
+      "Pulitura effettuata con tensioattivo non ionico al 2% in acqua deionizzata, applicata e risciacquata a tampone."
+    ]
+  },
+  {
+    "record_id": "7480",
+    "Cantiere": "Cantiere di restauro: Restauro del Busto di giovane c.d. Massimo (Inv. 1914 n. 255) della Galleria degli Uffizi di Firenze, Archeologico > Mobile",
+    "zone/subject_raw": "Pulitura",
+    "Date": "ante ottobre 2011; post ottobre 2011",
+    "Author": "Camilla Mancini",
+    "supporto": "Archeologico / stratigrafico",
+    "zone": [],
+    "materials_used": [
+      "Sali e tamponi (carbonati, bicarbonati, sali inorganici, soluzioni sature)"
+    ],
+    "technique_used": [],
+    "environmental_issue": [],
+    "working_issue": [],
+    "observations": [
+      "Secondo passaggio di pulitura con tampone di ammonio carbonato."
+    ]
+  },
+  {
+    "record_id": "7480",
+    "Cantiere": "Cantiere di restauro: Restauro del Busto di giovane c.d. Massimo (Inv. 1914 n. 255) della Galleria degli Uffizi di Firenze, Archeologico > Mobile",
+    "zone/subject_raw": "Pulitura",
+    "Date": "ante ottobre 2011; post ottobre 2011",
+    "Author": "Camilla Mancini",
+    "supporto": "Archeologico / stratigrafico",
+    "zone": [],
+    "materials_used": [
+      "Biocidi/antimuffa/antivegetativi"
+    ],
+    "technique_used": [
+      "Pulitura chimica",
+      "Trattamenti biocidi / disinfestazione"
+    ],
+    "environmental_issue": [],
+    "working_issue": [],
+    "observations": [
+      "Applicazione a pennello di soluzione al 2% di Benzalconio cloruro."
+    ]
+  },
+  {
+    "record_id": "7480",
+    "Cantiere": "Cantiere di restauro: Restauro del Busto di giovane c.d. Massimo (Inv. 1914 n. 255) della Galleria degli Uffizi di Firenze, Archeologico > Mobile",
+    "zone/subject_raw": "Pulitura",
+    "Date": "ante ottobre 2011; post ottobre 2011",
+    "Author": "Camilla Mancini",
+    "supporto": "Archeologico / stratigrafico",
+    "zone": [
+      "Elementi lapidei/Sculture lapidee"
+    ],
+    "materials_used": [
+      "Acqua (generica)"
+    ],
+    "technique_used": [
+      "Pulitura ad umido / lavaggio"
+    ],
+    "environmental_issue": [],
+    "working_issue": [],
+    "observations": [
+      "Risciacquo eseguito con piccole spazzole di setola.",
+      "Pulitura ad umido su busto di marmo."
+    ]
+  },
+  {
+    "record_id": "7480",
+    "Cantiere": "Cantiere di restauro: Restauro del Busto di giovane c.d. Massimo (Inv. 1914 n. 255) della Galleria degli Uffizi di Firenze, Archeologico > Mobile",
+    "zone/subject_raw": "Pulitura",
+    "Date": "ante ottobre 2011; post ottobre 2011",
+    "Author": "Camilla Mancini",
+    "supporto": "Archeologico / stratigrafico",
+    "zone": [
+      "Elementi lapidei/Sculture lapidee"
+    ],
+    "materials_used": [
+      "Materiali lapidei (pietra, marmo, ardesia, litotipi)",
+      "Resine acriliche (Primal, Plexisol, microemulsioni acriliche)"
+    ],
+    "technique_used": [
+      "Stuccatura / integrazione con malte"
+    ],
+    "environmental_issue": [],
+    "working_issue": [],
+    "observations": [
+      "Lacuna sul sopracciglio sinistro colmata con impasto di polvere di marmo e resina acrilica al 15%."
+    ]
+  },
+  {
+    "record_id": "7480",
+    "Cantiere": "Cantiere di restauro: Restauro del Busto di giovane c.d. Massimo (Inv. 1914 n. 255) della Galleria degli Uffizi di Firenze, Archeologico > Mobile",
+    "zone/subject_raw": "Pulitura",
+    "Date": "ante ottobre 2011; post ottobre 2011",
+    "Author": "Camilla Mancini",
+    "supporto": "Archeologico / stratigrafico",
+    "zone": [
+      "Elementi lapidei/Sculture lapidee"
+    ],
+    "materials_used": [
+      "Colori (acquerelli, tempere, smalti)"
+    ],
+    "technique_used": [
+      "Ritocco / velatura / patinatura"
+    ],
+    "environmental_issue": [],
+    "working_issue": [],
+    "observations": [
+      "Applicati acquerelli sul volto e collo del busto per attenuare i graffi emersi durante la pulitura."
+    ]
+  },
+  {
+    "record_id": "7480",
+    "Cantiere": "Cantiere di restauro: Restauro del Busto di giovane c.d. Massimo (Inv. 1914 n. 255) della Galleria degli Uffizi di Firenze, Archeologico > Mobile",
+    "zone/subject_raw": "Pulitura",
+    "Date": "ante ottobre 2011; post ottobre 2011",
+    "Author": "Camilla Mancini",
+    "supporto": "Archeologico / stratigrafico",
+    "zone": [],
+    "materials_used": [
+      "Acqua deionizzata/demineralizzata/distillata",
+      "Tensioattivi e detergenti non ionici",
+      "Solventi organici apolari (white spirit, ligroina, isoparaffine, petrolio)",
+      "Solventi organici polari (acetone, etilacetato, MEK, DMF, DMSO)"
+    ],
+    "technique_used": [
+      "Pulitura chimica"
+    ],
+    "environmental_issue": [],
+    "working_issue": [],
+    "observations": [
+      "Pulitura eseguita con acqua deionizzata, tensioattivo non ionico (Tween 20), solvente apolare (essenza di petrolio), solvente polare (acetone) e cotone idrofilo."
+    ]
+  },
+  {
+    "record_id": "7480",
+    "Cantiere": "Cantiere di restauro: Restauro del Busto di giovane c.d. Massimo (Inv. 1914 n. 255) della Galleria degli Uffizi di Firenze, Archeologico > Mobile",
+    "zone/subject_raw": "Pulitura",
+    "Date": "ante ottobre 2011; post ottobre 2011",
+    "Author": "Camilla Mancini",
+    "supporto": "Scultoreo",
+    "zone": [
+      "Elementi lapidei/Sculture lapidee"
+    ],
+    "materials_used": [
+      "Materiali lapidei (pietra, marmo, ardesia, litotipi)",
+      "Pigmenti e terre coloranti"
+    ],
+    "technique_used": [
+      "Stuccatura / integrazione con malte"
+    ],
+    "environmental_issue": [],
+    "working_issue": [],
+    "observations": [
+      "Stuccatura effettuata sul busto con polvere di Carrara e pigmenti naturali.",
+      "Uso di PLM‑S e AC 33 indicati nella miscela.",
+      "Procedura di integrazione pittorica mediante malta di stucco."
+    ]
+  },
+  {
+    "record_id": "7480",
+    "Cantiere": "Cantiere di restauro: Restauro del Busto di giovane c.d. Massimo (Inv. 1914 n. 255) della Galleria degli Uffizi di Firenze, Archeologico > Mobile",
+    "zone/subject_raw": "Pulitura",
+    "Date": "ante ottobre 2011; post ottobre 2011",
+    "Author": "Camilla Mancini",
+    "supporto": "Scultoreo",
+    "zone": [
+      "Elementi lapidei/Sculture lapidee"
+    ],
+    "materials_used": [
+      "Acqua (generica)",
+      "Pigmenti e terre coloranti"
+    ],
+    "technique_used": [
+      "Ritocco / velatura / patinatura",
+      "Integrazione pittorica / reintegrazione cromatica"
+    ],
+    "environmental_issue": [],
+    "working_issue": [],
+    "observations": [
+      "Ritocco pigmentario su busto con pigmenti a base di terra disciolti in acqua.",
+      "Utilizzo di acquerelli Winsor&Newton per la reintegrazione cromatica."
+    ]
+  }
+]

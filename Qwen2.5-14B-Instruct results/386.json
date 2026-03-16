@@ -1,0 +1,220 @@
+[
+  {
+    "record_id": "386",
+    "Cantiere": "1",
+    "zone/subject_raw": "SUPPORTO",
+    "Date": "16 ottobre 1986 - 10 dicembre 1986",
+    "Author": "COREST",
+    "supporto": "",
+    "zone": [],
+    "materials_used": [],
+    "technique_used": [],
+    "environmental_issue": [],
+    "working_issue": [],
+    "observations": [
+      "MODEL_OUTPUT_INVALID: supporto not allowed: Legno (massello, assito, multistrato, compensati)",
+      "RAW: {\"supporto\": \"Legno (massello, assito, multistrato, compensati)\", \"zone\": [], \"materials_used\": [], \"technique_used\": [\"Rimozione di depositi, scialbature o vernici\"], \"environmental_issue\": [], \"working_issue\": [], \"observations\": [\"La rimozione della cornice e delle traverse è stata effettuata direttamente sul supporto ligneo.\"]}"
+    ]
+  },
+  {
+    "record_id": "386",
+    "Cantiere": "2",
+    "zone/subject_raw": "SUPPORTO",
+    "Date": "16 ottobre 1986 - 10 dicembre 1986",
+    "Author": "COREST",
+    "supporto": "",
+    "zone": [],
+    "materials_used": [],
+    "technique_used": [
+      "Interventi strutturali locali (cuci-scuci, cerchiatura, ancoraggi)"
+    ],
+    "environmental_issue": [],
+    "working_issue": [
+      "Distacco/disancoraggio"
+    ],
+    "observations": [
+      "Non è stato possibile rimuovere integralmente i listelli di faggio inseriti nel restauro degli anni '40."
+    ]
+  },
+  {
+    "record_id": "386",
+    "Cantiere": "2",
+    "zone/subject_raw": "SUPPORTO",
+    "Date": "16 ottobre 1986 - 10 dicembre 1986",
+    "Author": "COREST",
+    "supporto": "Murario",
+    "zone": [
+      "Murature"
+    ],
+    "materials_used": [],
+    "technique_used": [
+      "Interventi strutturali locali (cuci-scuci, cerchiatura, ancoraggi)"
+    ],
+    "environmental_issue": [],
+    "working_issue": [],
+    "observations": [
+      "Listelli a sezione quadrangolare inseriti per risanare le fessure oblique nelle giunzioni delle assi all'imposta della centina."
+    ]
+  },
+  {
+    "record_id": "386",
+    "Cantiere": "2",
+    "zone/subject_raw": "SUPPORTO",
+    "Date": "16 ottobre 1986 - 10 dicembre 1986",
+    "Author": "COREST",
+    "supporto": "",
+    "zone": [],
+    "materials_used": [
+      "Adesivi acrilici (Beva e simili)",
+      "Laterizio/cotto/mattoni"
+    ],
+    "technique_used": [],
+    "environmental_issue": [],
+    "working_issue": [],
+    "observations": [
+      "Incollaggio di tutti gli inserti con Vinavil NPC e polvere di legno."
+    ]
+  },
+  {
+    "record_id": "386",
+    "Cantiere": "2",
+    "zone/subject_raw": "SUPPORTO",
+    "Date": "16 ottobre 1986 - 10 dicembre 1986",
+    "Author": "COREST",
+    "supporto": "",
+    "zone": [],
+    "materials_used": [],
+    "technique_used": [],
+    "environmental_issue": [],
+    "working_issue": [],
+    "observations": [
+      "La descrizione riguarda principalmente il lavoro sull'alluminio e il faggio."
+    ]
+  },
+  {
+    "record_id": "386",
+    "Cantiere": "1",
+    "zone/subject_raw": "STRATI PREPARATORI",
+    "Date": "16 ottobre 1986 - 10 dicembre 1986",
+    "Author": "COREST",
+    "supporto": "",
+    "zone": [],
+    "materials_used": [
+      "Solventi organici polari (acetone, etilacetato, MEK, DMF, DMSO)",
+      "Adesivi/colle (generici)",
+      "Acqua (generica)"
+    ],
+    "technique_used": [
+      "Consolidamento superficiale"
+    ],
+    "environmental_issue": [],
+    "working_issue": [
+      "Adesione/coesione insufficiente"
+    ],
+    "observations": [
+      "Consolidamento effettuato con alcool polivinilico in soluzione"
+    ]
+  },
+  {
+    "record_id": "386",
+    "Cantiere": "2",
+    "zone/subject_raw": "PELLICOLA PITTORICA",
+    "Date": "16 ottobre 1986 - 10 dicembre 1986",
+    "Author": "COREST",
+    "supporto": "",
+    "zone": [],
+    "materials_used": [
+      "Gesso e stucchi gessosi",
+      "Colle animali (coniglio, bue, colletta)"
+    ],
+    "technique_used": [
+      "Stuccatura / integrazione con malte"
+    ],
+    "environmental_issue": [],
+    "working_issue": [],
+    "observations": [
+      "Intervento di stuccatura degli strati preparatori effettuato con gesso di Bologna e colla di coniglio."
+    ]
+  },
+  {
+    "record_id": "386",
+    "Cantiere": "1",
+    "zone/subject_raw": "PELLICOLA PITTORICA",
+    "Date": "16 ottobre 1986 - 10 dicembre 1986",
+    "Author": "COREST",
+    "supporto": "",
+    "zone": [],
+    "materials_used": [
+      "Solventi organici polari (acetone, etilacetato, MEK, DMF, DMSO)"
+    ],
+    "technique_used": [
+      "Pulitura chimica"
+    ],
+    "environmental_issue": [],
+    "working_issue": [],
+    "observations": [
+      "Rimozione degli strati sovrammessi alla pellicola pittorica mediante dimetilformammide localmente mista a solvente 4A."
+    ]
+  },
+  {
+    "record_id": "386",
+    "Cantiere": "2",
+    "zone/subject_raw": "PELLICOLA PITTORICA",
+    "Date": "16 ottobre 1986 - 10 dicembre 1986",
+    "Author": "COREST",
+    "supporto": "",
+    "zone": [],
+    "materials_used": [],
+    "technique_used": [
+      "Pulitura meccanica"
+    ],
+    "environmental_issue": [],
+    "working_issue": [],
+    "observations": [
+      "Operazione di rimozione meccanica delle stuccature dalla pellicola pittorica."
+    ]
+  },
+  {
+    "record_id": "386",
+    "Cantiere": "3",
+    "zone/subject_raw": "PELLICOLA PITTORICA",
+    "Date": "16 ottobre 1986 - 10 dicembre 1986",
+    "Author": "COREST",
+    "supporto": "",
+    "zone": [],
+    "materials_used": [
+      "Colori (acquerelli, tempere, smalti)",
+      "Vernici (generiche)"
+    ],
+    "technique_used": [
+      "Integrazione pittorica / reintegrazione cromatica",
+      "Ritocco / velatura / patinatura"
+    ],
+    "environmental_issue": [],
+    "working_issue": [],
+    "observations": [
+      "Integrazione pittorica eseguita con colori ad acquerello e ritocchi con colori a vernice."
+    ]
+  },
+  {
+    "record_id": "386",
+    "Cantiere": "4",
+    "zone/subject_raw": "PELLICOLA PITTORICA",
+    "Date": "16 ottobre 1986 - 10 dicembre 1986",
+    "Author": "COREST",
+    "supporto": "",
+    "zone": [],
+    "materials_used": [
+      "Vernici (generiche)",
+      "Vernici finali/retoucher (gloss/matt)"
+    ],
+    "technique_used": [
+      "Protezione finale / verniciatura"
+    ],
+    "environmental_issue": [],
+    "working_issue": [],
+    "observations": [
+      "Verniciatura finale effettuata mediante nebulizzazione."
+    ]
+  }
+]

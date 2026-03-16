@@ -1,0 +1,306 @@
+[
+  {
+    "record_id": "1160",
+    "Cantiere": "Cantiere di restauro: Chiesa di Santa Maria della Neve, Storico artistico",
+    "zone/subject_raw": "Metodo di intervento e documentazione",
+    "Date": "2012",
+    "Author": "Arch. Barbara Zilocchi- Arch. Giovanni Signani",
+    "supporto": "Archeologico / stratigrafico",
+    "zone": [],
+    "materials_used": [],
+    "technique_used": [],
+    "environmental_issue": [],
+    "working_issue": [],
+    "observations": [
+      "Il documento descrive un approccio sinergico che combina rilievo, studio archeologico e intervento di restauro."
+    ]
+  },
+  {
+    "record_id": "1160",
+    "Cantiere": "Cantiere di restauro: Chiesa di Santa Maria della Neve, Storico artistico",
+    "zone/subject_raw": "Documentazione",
+    "Date": "2012",
+    "Author": "Arch. Barbara Zilocchi- Arch. Giovanni Signani",
+    "supporto": "Documentario",
+    "zone": [],
+    "materials_used": [],
+    "technique_used": [],
+    "environmental_issue": [],
+    "working_issue": [],
+    "observations": [
+      "Mappatura del degrado effettuata su base fotografica ortorettificata e misurabile con registrazione sistematica delle informazioni di cantiere."
+    ]
+  },
+  {
+    "record_id": "1160",
+    "Cantiere": "Cantiere di restauro: Chiesa di Santa Maria della Neve, Storico artistico",
+    "zone/subject_raw": "Documentazione",
+    "Date": "2012",
+    "Author": "Arch. Barbara Zilocchi- Arch. Giovanni Signani",
+    "supporto": "Documentario",
+    "zone": [],
+    "materials_used": [],
+    "technique_used": [],
+    "environmental_issue": [],
+    "working_issue": [],
+    "observations": [
+      "Integrazione dei dati di cantiere nel GIS per la Chiesa di Santa Maria della Neve."
+    ]
+  },
+  {
+    "record_id": "1160",
+    "Cantiere": "Cantiere di restauro: Chiesa di Santa Maria della Neve, Storico artistico",
+    "zone/subject_raw": "Studio stratigrafico",
+    "Date": "2012",
+    "Author": "Arch. Barbara Zilocchi- Arch. Giovanni Signani",
+    "supporto": "Archeologico / stratigrafico",
+    "zone": [],
+    "materials_used": [],
+    "technique_used": [],
+    "environmental_issue": [],
+    "working_issue": [],
+    "observations": [
+      "Eseguiti letture microstratigrafiche e saggi microdistruttivi dopo una pulitura preliminare.",
+      "Le attività sono supportate da analisi mineralogico-petrografiche."
+    ]
+  },
+  {
+    "record_id": "1160",
+    "Cantiere": "Cantiere di restauro: Chiesa di Santa Maria della Neve, Storico artistico",
+    "zone/subject_raw": "Analisi superfici",
+    "Date": "2012",
+    "Author": "Arch. Barbara Zilocchi- Arch. Giovanni Signani",
+    "supporto": "Archeologico / stratigrafico",
+    "zone": [],
+    "materials_used": [],
+    "technique_used": [
+      "Indagini diagnostiche e analisi preliminari"
+    ],
+    "environmental_issue": [],
+    "working_issue": [],
+    "observations": [
+      "L'analisi riguarda la sequenza stratigrafica delle malte di rivestimento e la caratterizzazione tecnico‑tecnologica delle ricostruzioni del Novecento."
+    ]
+  },
+  {
+    "record_id": "1160",
+    "Cantiere": "Cantiere di restauro: Chiesa di Santa Maria della Neve, Storico artistico",
+    "zone/subject_raw": "Valutazione stato di degrado",
+    "Date": "2012",
+    "Author": "Arch. Barbara Zilocchi- Arch. Giovanni Signani",
+    "supporto": "",
+    "zone": [
+      "Murature"
+    ],
+    "materials_used": [
+      "Materiali lapidei (pietra, marmo, ardesia, litotipi)",
+      "Laterizio/cotto/mattoni"
+    ],
+    "technique_used": [],
+    "environmental_issue": [
+      "attacchi biologici (licheni)"
+    ],
+    "working_issue": [
+      "Distacco/disancoraggio",
+      "Fessure/fenditure/fratture/rotture"
+    ],
+    "observations": [
+      "Rilevati attacchi biologici da licheni e distacchi di intonaco.",
+      "Presenti erosioni, alveolizzazioni e fratturazioni dei materiali lapidei e laterizi."
+    ]
+  },
+  {
+    "record_id": "1160",
+    "Cantiere": "Cantiere di restauro: Chiesa di Santa Maria della Neve, Storico artistico",
+    "zone/subject_raw": "Preconsolidamento e pulitura",
+    "Date": "2012",
+    "Author": "Arch. Barbara Zilocchi- Arch. Giovanni Signani",
+    "supporto": "Murario",
+    "zone": [
+      "Murature"
+    ],
+    "materials_used": [],
+    "technique_used": [
+      "Aspirazione / spolveratura",
+      "Rimozione di depositi, scialbature o vernici"
+    ],
+    "environmental_issue": [],
+    "working_issue": [],
+    "observations": [
+      "Spolveratura preliminare delle facciate Ovest e Sud.",
+      "Rimozione dei depositi incoerenti."
+    ]
+  },
+  {
+    "record_id": "1160",
+    "Cantiere": "Cantiere di restauro: Chiesa di Santa Maria della Neve, Storico artistico",
+    "zone/subject_raw": "Trattamento biocida",
+    "Date": "2012",
+    "Author": "Arch. Barbara Zilocchi- Arch. Giovanni Signani",
+    "supporto": "Murario",
+    "zone": [],
+    "materials_used": [
+      "Biocidi/antimuffa/antivegetativi"
+    ],
+    "technique_used": [
+      "Trattamenti biocidi / disinfestazione"
+    ],
+    "environmental_issue": [],
+    "working_issue": [],
+    "observations": [
+      "Applicazione di biocida Biotin T al 3% sulla facciata occidentale e laterale meridionale."
+    ]
+  },
+  {
+    "record_id": "1160",
+    "Cantiere": "Cantiere di restauro: Chiesa di Santa Maria della Neve, Storico artistico",
+    "zone/subject_raw": "Pulitura",
+    "Date": "2012",
+    "Author": "Arch. Barbara Zilocchi- Arch. Giovanni Signani",
+    "supporto": "",
+    "zone": [],
+    "materials_used": [
+      "Acqua (generica)"
+    ],
+    "technique_used": [
+      "Pulitura ad umido / lavaggio",
+      "Pulitura meccanica"
+    ],
+    "environmental_issue": [],
+    "working_issue": [],
+    "observations": [
+      "Pulitura ad umido mediante spray d’acqua nebulizzata con spazzolatura controllata per la rimozione di depositi e velature novecentesche."
+    ]
+  },
+  {
+    "record_id": "1160",
+    "Cantiere": "Cantiere di restauro: Chiesa di Santa Maria della Neve, Storico artistico",
+    "zone/subject_raw": "Consolidamento materiali",
+    "Date": "2012",
+    "Author": "Arch. Barbara Zilocchi- Arch. Giovanni Signani",
+    "supporto": "Murario",
+    "zone": [],
+    "materials_used": [
+      "Consolidanti minerali (silicato di etile, silicati, fluosilicati)"
+    ],
+    "technique_used": [
+      "Consolidamento superficiale"
+    ],
+    "environmental_issue": [],
+    "working_issue": [],
+    "observations": [
+      "Consolidamento di elementi in cotto con silicato d’etile applicato a pennello."
+    ]
+  },
+  {
+    "record_id": "1160",
+    "Cantiere": "Cantiere di restauro: Chiesa di Santa Maria della Neve, Storico artistico",
+    "zone/subject_raw": "Consolidamento innovativo",
+    "Date": "2012",
+    "Author": "Arch. Barbara Zilocchi- Arch. Giovanni Signani",
+    "supporto": "",
+    "zone": [],
+    "materials_used": [
+      "Consolidanti minerali (silicato di etile, silicati, fluosilicati)"
+    ],
+    "technique_used": [
+      "Consolidamento superficiale"
+    ],
+    "environmental_issue": [],
+    "working_issue": [],
+    "observations": [
+      "Applicato consolidante minerale Silcol 30 su materiali umidi e pellicole pittoriche."
+    ]
+  },
+  {
+    "record_id": "1160",
+    "Cantiere": "Cantiere di restauro: Chiesa di Santa Maria della Neve, Storico artistico",
+    "zone/subject_raw": "Stuccature di integrazione",
+    "Date": "2012",
+    "Author": "Arch. Barbara Zilocchi- Arch. Giovanni Signani",
+    "supporto": "",
+    "zone": [
+      "Murature"
+    ],
+    "materials_used": [
+      "Calce idraulica / NHL",
+      "Calce (grassello, calce dolce, calce storica)"
+    ],
+    "technique_used": [
+      "Stuccatura / integrazione con malte"
+    ],
+    "environmental_issue": [],
+    "working_issue": [],
+    "observations": [
+      "Integrazione delle lacune con malte a base di calce idraulica naturale o grassello di calce e aggregati selezionati."
+    ]
+  },
+  {
+    "record_id": "1160",
+    "Cantiere": "Cantiere di restauro: Chiesa di Santa Maria della Neve, Storico artistico",
+    "zone/subject_raw": "Integrazioni profonde",
+    "Date": "2012",
+    "Author": "Arch. Barbara Zilocchi- Arch. Giovanni Signani",
+    "supporto": "Murario",
+    "zone": [],
+    "materials_used": [
+      "Malte strutturali/alte prestazioni",
+      "Laterizio/cotto/mattoni"
+    ],
+    "technique_used": [
+      "Stuccatura / integrazione con malte"
+    ],
+    "environmental_issue": [],
+    "working_issue": [
+      "Lacune/perdite di materiale"
+    ],
+    "observations": [
+      "Ripristinate lacune profonde con malta strutturale e frammenti di laterizio."
+    ]
+  },
+  {
+    "record_id": "1160",
+    "Cantiere": "Cantiere di restauro: Chiesa di Santa Maria della Neve, Storico artistico",
+    "zone/subject_raw": "Tinteggiatura",
+    "Date": "2012",
+    "Author": "Arch. Barbara Zilocchi- Arch. Giovanni Signani",
+    "supporto": "Murario",
+    "zone": [
+      "Murature"
+    ],
+    "materials_used": [
+      "Calce (grassello, calce dolce, calce storica)",
+      "Pigmenti e terre coloranti"
+    ],
+    "technique_used": [
+      "Integrazione pittorica / reintegrazione cromatica",
+      "Ritocco / velatura / patinatura"
+    ],
+    "environmental_issue": [],
+    "working_issue": [],
+    "observations": [
+      "Tinteggiatura di intonaco a calce con terre coloranti in doppia mano fresco su fresco e velatura finale."
+    ]
+  },
+  {
+    "record_id": "1160",
+    "Cantiere": "Cantiere di restauro: Chiesa di Santa Maria della Neve, Storico artistico",
+    "zone/subject_raw": "Protezione finale",
+    "Date": "2012",
+    "Author": "Arch. Barbara Zilocchi- Arch. Giovanni Signani",
+    "supporto": "",
+    "zone": [],
+    "materials_used": [
+      "Protettivi silossanici/idrorepellenti a base silicio",
+      "Biocidi/antimuffa/antivegetativi"
+    ],
+    "technique_used": [
+      "Protezione finale / verniciatura"
+    ],
+    "environmental_issue": [],
+    "working_issue": [],
+    "observations": [
+      "Applicazione di un protettivo silossanico idrorepellente, con eventuale biocida, come fase di protezione finale."
+    ]
+  }
+]

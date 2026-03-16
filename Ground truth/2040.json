@@ -1,0 +1,430 @@
+[
+  {
+    "record_id": "2040",
+    "Cantiere": "Cantiere di restauro: Sant'Agnello - Napoli - Chiesa di Sant'Agnello - Scultura raff. Sant' Agnello Abate, Storico artistico",
+    "zone/subject_raw": "scultura in legno policromo",
+    "Date": "settembre 2011 - dicembre 2012",
+    "Author": "Alessandra Cacace",
+    "supporto": "Scultoreo",
+    "zone": [],
+    "materials_used": [
+      "Biocidi/antimuffa/antivegetativi"
+    ],
+    "technique_used": [
+      "Trattamenti biocidi / disinfestazione"
+    ],
+    "environmental_issue": [],
+    "working_issue": [],
+    "observations": [
+      "Disinfestazione per gassificazione effettuata in ambiente segregato per due settimane."
+    ]
+  },
+  {
+    "record_id": "2040",
+    "Cantiere": "Cantiere di restauro: Sant'Agnello - Napoli - Chiesa di Sant'Agnello - Scultura raff. Sant' Agnello Abate, Storico artistico",
+    "zone/subject_raw": "scultura in legno policromo",
+    "Date": "settembre 2011 - dicembre 2012",
+    "Author": "Alessandra Cacace",
+    "supporto": "Scultoreo",
+    "zone": [
+      "Opere mobili"
+    ],
+    "materials_used": [
+      "Biocidi/antimuffa/antivegetativi"
+    ],
+    "technique_used": [
+      "Trattamenti biocidi / disinfestazione"
+    ],
+    "environmental_issue": [
+      "presenza insetti"
+    ],
+    "working_issue": [],
+    "observations": [
+      "È stato iniettato permethrin come trattamento preventivo contro gli insetti."
+    ]
+  },
+  {
+    "record_id": "2040",
+    "Cantiere": "Cantiere di restauro: Sant'Agnello - Napoli - Chiesa di Sant'Agnello - Scultura raff. Sant' Agnello Abate, Storico artistico",
+    "zone/subject_raw": "scultura in legno policromo",
+    "Date": "settembre 2011 - dicembre 2012",
+    "Author": "Alessandra Cacace",
+    "supporto": "Scultoreo",
+    "zone": [
+      "Opere mobili"
+    ],
+    "materials_used": [
+      "Legno (massello, assito, multistrato, compensati)"
+    ],
+    "technique_used": [
+      "Indagini diagnostiche e analisi preliminari"
+    ],
+    "environmental_issue": [],
+    "working_issue": [],
+    "observations": [
+      "Studio stratigrafico delle ridipinture presenti sulla scultura in legno."
+    ]
+  },
+  {
+    "record_id": "2040",
+    "Cantiere": "Cantiere di restauro: Sant'Agnello - Napoli - Chiesa di Sant'Agnello - Scultura raff. Sant' Agnello Abate, Storico artistico",
+    "zone/subject_raw": "scultura in legno policromo",
+    "Date": "settembre 2011 - dicembre 2012",
+    "Author": "Alessandra Cacace",
+    "supporto": "Scultoreo",
+    "zone": [
+      "Opere mobili"
+    ],
+    "materials_used": [
+      "Solventi organici polari (acetone, etilacetato, MEK, DMF, DMSO)",
+      "Gel e addensanti (agar, carbopol, cellulose, mucillagini)"
+    ],
+    "technique_used": [
+      "Pulitura con impacchi o gel",
+      "Rimozione di depositi, scialbature o vernici"
+    ],
+    "environmental_issue": [],
+    "working_issue": [],
+    "observations": [
+      "Rimozione di gommalacca e ridipinture con gel solvente a base di alcol etilico e acetone.",
+      "Uso di Klucel come supportante del gel."
+    ]
+  },
+  {
+    "record_id": "2040",
+    "Cantiere": "Cantiere di restauro: Sant'Agnello - Napoli - Chiesa di Sant'Agnello - Scultura raff. Sant' Agnello Abate, Storico artistico",
+    "zone/subject_raw": "scultura in legno policromo",
+    "Date": "settembre 2011 - dicembre 2012",
+    "Author": "Alessandra Cacace",
+    "supporto": "Scultoreo",
+    "zone": [
+      "Opere mobili"
+    ],
+    "materials_used": [],
+    "technique_used": [
+      "Pulitura meccanica"
+    ],
+    "environmental_issue": [],
+    "working_issue": [],
+    "observations": [
+      "Rifinitura meccanica per asportare lo stucco dalla scultura in legno policromo."
+    ]
+  },
+  {
+    "record_id": "2040",
+    "Cantiere": "Cantiere di restauro: Sant'Agnello - Napoli - Chiesa di Sant'Agnello - Scultura raff. Sant' Agnello Abate, Storico artistico",
+    "zone/subject_raw": "scultura in legno policromo",
+    "Date": "settembre 2011 - dicembre 2012",
+    "Author": "Alessandra Cacace",
+    "supporto": "Scultoreo",
+    "zone": [],
+    "materials_used": [
+      "Legno (massello, assito, multistrato, compensati)"
+    ],
+    "technique_used": [
+      "Pulitura meccanica"
+    ],
+    "environmental_issue": [],
+    "working_issue": [],
+    "observations": [
+      "Rimozione completa degli innetti di legno sul retro della veste."
+    ]
+  },
+  {
+    "record_id": "2040",
+    "Cantiere": "Cantiere di restauro: Sant'Agnello - Napoli - Chiesa di Sant'Agnello - Scultura raff. Sant' Agnello Abate, Storico artistico",
+    "zone/subject_raw": "scultura in legno policromo",
+    "Date": "settembre 2011 - dicembre 2012",
+    "Author": "Alessandra Cacace",
+    "supporto": "Scultoreo",
+    "zone": [
+      "Opere mobili"
+    ],
+    "materials_used": [
+      "Resine acriliche (Primal, Plexisol, microemulsioni acriliche)"
+    ],
+    "technique_used": [
+      "Consolidamento per iniezione / impregnazione"
+    ],
+    "environmental_issue": [],
+    "working_issue": [],
+    "observations": [
+      "Iniezioni di resina acrilica Paraloid B72 (diluita al 3‑7 %) sono state applicate sulla scultura in legno."
+    ]
+  },
+  {
+    "record_id": "2040",
+    "Cantiere": "Cantiere di restauro: Sant'Agnello - Napoli - Chiesa di Sant'Agnello - Scultura raff. Sant' Agnello Abate, Storico artistico",
+    "zone/subject_raw": "scultura in legno policromo",
+    "Date": "settembre 2011 - dicembre 2012",
+    "Author": "Alessandra Cacace",
+    "supporto": "Scultoreo",
+    "zone": [],
+    "materials_used": [
+      "Soluzioni idroalcoliche"
+    ],
+    "technique_used": [
+      "Consolidamento per iniezione / impregnazione"
+    ],
+    "environmental_issue": [],
+    "working_issue": [],
+    "observations": [
+      "Iniezioni di gel di alcool polivinilico (gelvatol in alcool etilico al 5%)."
+    ]
+  },
+  {
+    "record_id": "2040",
+    "Cantiere": "Cantiere di restauro: Sant'Agnello - Napoli - Chiesa di Sant'Agnello - Scultura raff. Sant' Agnello Abate, Storico artistico",
+    "zone/subject_raw": "scultura in legno policromo",
+    "Date": "settembre 2011 - dicembre 2012",
+    "Author": "Alessandra Cacace",
+    "supporto": "Scultoreo",
+    "zone": [
+      "Elementi lapidei/Sculture lapidee"
+    ],
+    "materials_used": [
+      "Resine epossidiche (Araldite, Sikadur, Epox)"
+    ],
+    "technique_used": [],
+    "environmental_issue": [],
+    "working_issue": [],
+    "observations": [
+      "La scultura è in legno policromo.",
+      "È stata impiegata resina epossidica bicomponente Balsite."
+    ]
+  },
+  {
+    "record_id": "2040",
+    "Cantiere": "Cantiere di restauro: Sant'Agnello - Napoli - Chiesa di Sant'Agnello - Scultura raff. Sant' Agnello Abate, Storico artistico",
+    "zone/subject_raw": "scultura in legno policromo",
+    "Date": "settembre 2011 - dicembre 2012",
+    "Author": "Alessandra Cacace",
+    "supporto": "Scultoreo",
+    "zone": [],
+    "materials_used": [
+      "Legno (massello, assito, multistrato, compensati)",
+      "Adesivi epossidici/bi-componenti"
+    ],
+    "technique_used": [],
+    "environmental_issue": [],
+    "working_issue": [],
+    "observations": [
+      "Scultura in legno di pero innestata con perni in vetro-resina e colle epossidiche."
+    ]
+  },
+  {
+    "record_id": "2040",
+    "Cantiere": "Cantiere di restauro: Sant'Agnello - Napoli - Chiesa di Sant'Agnello - Scultura raff. Sant' Agnello Abate, Storico artistico",
+    "zone/subject_raw": "scultura in legno policromo",
+    "Date": "settembre 2011 - dicembre 2012",
+    "Author": "Alessandra Cacace",
+    "supporto": "Scultoreo",
+    "zone": [],
+    "materials_used": [
+      "Legno (massello, assito, multistrato, compensati)"
+    ],
+    "technique_used": [],
+    "environmental_issue": [],
+    "working_issue": [],
+    "observations": [
+      "Scultura in legno policromo di pero.",
+      "Realizzata a mano, senza indicazioni di interventi conservativi."
+    ]
+  },
+  {
+    "record_id": "2040",
+    "Cantiere": "Cantiere di restauro: Sant'Agnello - Napoli - Chiesa di Sant'Agnello - Scultura raff. Sant' Agnello Abate, Storico artistico",
+    "zone/subject_raw": "scultura in legno policromo",
+    "Date": "settembre 2011 - dicembre 2012",
+    "Author": "Alessandra Cacace",
+    "supporto": "Scultoreo",
+    "zone": [],
+    "materials_used": [
+      "Legno (massello, assito, multistrato, compensati)"
+    ],
+    "technique_used": [
+      "Interventi strutturali locali (cuci-scuci, cerchiatura, ancoraggi)"
+    ],
+    "environmental_issue": [],
+    "working_issue": [],
+    "observations": [
+      "Sostituzione del dito mignolo della mano sinistra della scultura in legno."
+    ]
+  },
+  {
+    "record_id": "2040",
+    "Cantiere": "Cantiere di restauro: Sant'Agnello - Napoli - Chiesa di Sant'Agnello - Scultura raff. Sant' Agnello Abate, Storico artistico",
+    "zone/subject_raw": "scultura in legno policromo",
+    "Date": "settembre 2011 - dicembre 2012",
+    "Author": "Alessandra Cacace",
+    "supporto": "Scultoreo",
+    "zone": [
+      "Opere mobili"
+    ],
+    "materials_used": [
+      "Acidi (soluzioni acide)"
+    ],
+    "technique_used": [
+      "Pulitura chimica"
+    ],
+    "environmental_issue": [],
+    "working_issue": [],
+    "observations": [
+      "Trattamento con convertitore di ruggine applicato su scultura in legno policromo."
+    ]
+  },
+  {
+    "record_id": "2040",
+    "Cantiere": "Cantiere di restauro: Sant'Agnello - Napoli - Chiesa di Sant'Agnello - Scultura raff. Sant' Agnello Abate, Storico artistico",
+    "zone/subject_raw": "scultura in legno policromo",
+    "Date": "settembre 2011 - dicembre 2012",
+    "Author": "Alessandra Cacace",
+    "supporto": "Scultoreo",
+    "zone": [],
+    "materials_used": [
+      "Gesso e stucchi gessosi",
+      "Colle animali (coniglio, bue, colletta)"
+    ],
+    "technique_used": [
+      "Stuccatura / integrazione con malte"
+    ],
+    "environmental_issue": [],
+    "working_issue": [
+      "Lacune/perdite di materiale"
+    ],
+    "observations": [
+      "Stuccatura delle lacune con gesso di Bologna e fissaggio degli inserti lignei con colla di coniglio."
+    ]
+  },
+  {
+    "record_id": "2040",
+    "Cantiere": "Cantiere di restauro: Sant'Agnello - Napoli - Chiesa di Sant'Agnello - Scultura raff. Sant' Agnello Abate, Storico artistico",
+    "zone/subject_raw": "scultura in legno policromo",
+    "Date": "settembre 2011 - dicembre 2012",
+    "Author": "Alessandra Cacace",
+    "supporto": "Scultoreo",
+    "zone": [
+      "Opere mobili"
+    ],
+    "materials_used": [
+      "Oro/dorature/porporina"
+    ],
+    "technique_used": [],
+    "environmental_issue": [],
+    "working_issue": [
+      "Lacune/perdite di materiale"
+    ],
+    "observations": [
+      "Selezione di oro per le calzature della scultura.",
+      "Rilevate lacune sulla pedana e sul libro."
+    ]
+  },
+  {
+    "record_id": "2040",
+    "Cantiere": "Cantiere di restauro: Sant'Agnello - Napoli - Chiesa di Sant'Agnello - Scultura raff. Sant' Agnello Abate, Storico artistico",
+    "zone/subject_raw": "scultura in legno policromo",
+    "Date": "settembre 2011 - dicembre 2012",
+    "Author": "Alessandra Cacace",
+    "supporto": "Scultoreo",
+    "zone": [
+      "Opere mobili"
+    ],
+    "materials_used": [],
+    "technique_used": [
+      "Integrazione pittorica / reintegrazione cromatica"
+    ],
+    "environmental_issue": [],
+    "working_issue": [],
+    "observations": [
+      "Restauro della scultura in legno policromo.",
+      "Reintegrazione della mano destra mediante selezione del colore incarnato."
+    ]
+  },
+  {
+    "record_id": "2040",
+    "Cantiere": "Cantiere di restauro: Sant'Agnello - Napoli - Chiesa di Sant'Agnello - Scultura raff. Sant' Agnello Abate, Storico artistico",
+    "zone/subject_raw": "scultura in legno policromo",
+    "Date": "settembre 2011 - dicembre 2012",
+    "Author": "Alessandra Cacace",
+    "supporto": "Scultoreo",
+    "zone": [
+      "Opere mobili"
+    ],
+    "materials_used": [],
+    "technique_used": [],
+    "environmental_issue": [],
+    "working_issue": [
+      "Lacune/perdite di materiale"
+    ],
+    "observations": [
+      "Trattamento neutro della grande lacuna sul retro della veste della scultura in legno."
+    ]
+  },
+  {
+    "record_id": "2040",
+    "Cantiere": "Cantiere di restauro: Sant'Agnello - Napoli - Chiesa di Sant'Agnello - Scultura raff. Sant' Agnello Abate, Storico artistico",
+    "zone/subject_raw": "scultura in legno policromo",
+    "Date": "settembre 2011 - dicembre 2012",
+    "Author": "Alessandra Cacace",
+    "supporto": "Scultoreo",
+    "zone": [
+      "Opere mobili"
+    ],
+    "materials_used": [
+      "Colori (acquerelli, tempere, smalti)",
+      "Vernici (generiche)"
+    ],
+    "technique_used": [
+      "Integrazione pittorica / reintegrazione cromatica"
+    ],
+    "environmental_issue": [],
+    "working_issue": [],
+    "observations": [
+      "Reintegrazione pittorica della scultura in legno con acquerelli Winsor & Newton e vernice Maimeri."
+    ]
+  },
+  {
+    "record_id": "2040",
+    "Cantiere": "Cantiere di restauro: Sant'Agnello - Napoli - Chiesa di Sant'Agnello - Scultura raff. Sant' Agnello Abate, Storico artistico",
+    "zone/subject_raw": "scultura in legno policromo",
+    "Date": "settembre 2011 - dicembre 2012",
+    "Author": "Alessandra Cacace",
+    "supporto": "Scultoreo",
+    "zone": [
+      "Opere mobili"
+    ],
+    "materials_used": [
+      "Oro/dorature/porporina"
+    ],
+    "technique_used": [
+      "Ritocco / velatura / patinatura"
+    ],
+    "environmental_issue": [],
+    "working_issue": [],
+    "observations": [
+      "Applicazione di oro in conchiglia è stata eseguita sulla scultura in legno policromo per spezzare l'effetto radioopaco dell'acquerello."
+    ]
+  },
+  {
+    "record_id": "2040",
+    "Cantiere": "Cantiere di restauro: Sant'Agnello - Napoli - Chiesa di Sant'Agnello - Scultura raff. Sant' Agnello Abate, Storico artistico",
+    "zone/subject_raw": "scultura in legno policromo",
+    "Date": "settembre 2011 - dicembre 2012",
+    "Author": "Alessandra Cacace",
+    "supporto": "Scultoreo",
+    "zone": [
+      "Elementi lapidei/Sculture lapidee"
+    ],
+    "materials_used": [
+      "Vernici (generiche)"
+    ],
+    "technique_used": [
+      "Protezione finale / verniciatura"
+    ],
+    "environmental_issue": [],
+    "working_issue": [],
+    "observations": [
+      "Applicazione di vernice mista mediante nebulizzazione."
+    ]
+  }
+]

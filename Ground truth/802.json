@@ -1,0 +1,185 @@
+[
+  {
+    "record_id": "802",
+    "Cantiere": "Cantiere di restauro: AQ - L'Aquila - Museo Nazionale d'Abruzzo - Affresco staccato, Storico artistico",
+    "zone/subject_raw": "",
+    "Date": "Progetto preliminare",
+    "Author": "Fabio Burrini",
+    "supporto": "Murale affrescato",
+    "zone": [],
+    "materials_used": [],
+    "technique_used": [
+      "Indagini diagnostiche e analisi preliminari"
+    ],
+    "environmental_issue": [],
+    "working_issue": [],
+    "observations": [
+      "Sono state eseguite indagini diagnostiche preliminari per valutare il degrado."
+    ]
+  },
+  {
+    "record_id": "802",
+    "Cantiere": "Cantiere di restauro: AQ - L'Aquila - Museo Nazionale d'Abruzzo - Affresco staccato, Storico artistico",
+    "zone/subject_raw": "",
+    "Date": "Progetto preliminare",
+    "Author": "Fabio Burrini",
+    "supporto": "Murale affrescato",
+    "zone": [
+      "Decorazioni dipinte"
+    ],
+    "materials_used": [],
+    "technique_used": [],
+    "environmental_issue": [],
+    "working_issue": [],
+    "observations": [
+      "Pulizia preliminare con rimozione dei depositi incoerenti e di eventuali strati di tinta."
+    ]
+  },
+  {
+    "record_id": "802",
+    "Cantiere": "Cantiere di restauro: AQ - L'Aquila - Museo Nazionale d'Abruzzo - Affresco staccato, Storico artistico",
+    "zone/subject_raw": "",
+    "Date": "Progetto preliminare",
+    "Author": "Fabio Burrini",
+    "supporto": "",
+    "zone": [],
+    "materials_used": [],
+    "technique_used": [
+      "Indagini diagnostiche e analisi preliminari"
+    ],
+    "environmental_issue": [],
+    "working_issue": [
+      "Adesione/coesione insufficiente"
+    ],
+    "observations": [
+      "Sono stati eseguiti saggi puntuali e controlli sonori con martellini in gomma per valutare i difetti di coesione."
+    ]
+  },
+  {
+    "record_id": "802",
+    "Cantiere": "Cantiere di restauro: AQ - L'Aquila - Museo Nazionale d'Abruzzo - Affresco staccato, Storico artistico",
+    "zone/subject_raw": "",
+    "Date": "Progetto preliminare",
+    "Author": "Fabio Burrini",
+    "supporto": "Murale affrescato",
+    "zone": [
+      "Decorazioni dipinte"
+    ],
+    "materials_used": [],
+    "technique_used": [
+      "Consolidamento superficiale",
+      "Integrazione pittorica / reintegrazione cromatica"
+    ],
+    "environmental_issue": [],
+    "working_issue": [],
+    "observations": [
+      "Consolidamento della pellicola pittorica con prodotto idoneo; possibile successiva velinatura."
+    ]
+  },
+  {
+    "record_id": "802",
+    "Cantiere": "Cantiere di restauro: AQ - L'Aquila - Museo Nazionale d'Abruzzo - Affresco staccato, Storico artistico",
+    "zone/subject_raw": "",
+    "Date": "Progetto preliminare",
+    "Author": "Fabio Burrini",
+    "supporto": "Murale affrescato",
+    "zone": [
+      "Decorazioni dipinte"
+    ],
+    "materials_used": [
+      "Gel e addensanti (agar, carbopol, cellulose, mucillagini)",
+      "Chelanti (EDTA e simili)"
+    ],
+    "technique_used": [
+      "Pulitura chimica",
+      "Pulitura con impacchi o gel"
+    ],
+    "environmental_issue": [],
+    "working_issue": [],
+    "observations": [
+      "Sono stati effettuati test di pulitura chimica con solventi selezionati.",
+      "Proposta l'uso di impacchi di gel rigidi a base di agar in soluzione EDTA."
+    ]
+  },
+  {
+    "record_id": "802",
+    "Cantiere": "Cantiere di restauro: AQ - L'Aquila - Museo Nazionale d'Abruzzo - Affresco staccato, Storico artistico",
+    "zone/subject_raw": "",
+    "Date": "Progetto preliminare",
+    "Author": "Fabio Burrini",
+    "supporto": "Murario",
+    "zone": [
+      "Murature"
+    ],
+    "materials_used": [
+      "Stucchi (a base calce/resina/cellulosici)"
+    ],
+    "technique_used": [
+      "Pulitura meccanica",
+      "Stuccatura / integrazione con malte"
+    ],
+    "environmental_issue": [],
+    "working_issue": [],
+    "observations": [
+      "Rimozione delle stuccature preesistenti e realizzazione di nuove stuccature rispettando la granulometria originaria."
+    ]
+  },
+  {
+    "record_id": "802",
+    "Cantiere": "Cantiere di restauro: AQ - L'Aquila - Museo Nazionale d'Abruzzo - Affresco staccato, Storico artistico",
+    "zone/subject_raw": "",
+    "Date": "Progetto preliminare",
+    "Author": "Fabio Burrini",
+    "supporto": "Murale affrescato",
+    "zone": [],
+    "materials_used": [],
+    "technique_used": [
+      "Integrazione pittorica / reintegrazione cromatica"
+    ],
+    "environmental_issue": [],
+    "working_issue": [
+      "Distacco/disancoraggio"
+    ],
+    "observations": [
+      "Intervento di integrazione pittorica mimetica per colmare le lacune dell'affresco.",
+      "Presenza di distacchi del supporto pittorico richiede attenzione durante la reintegrazione."
+    ]
+  },
+  {
+    "record_id": "802",
+    "Cantiere": "Cantiere di restauro: AQ - L'Aquila - Museo Nazionale d'Abruzzo - Affresco staccato, Storico artistico",
+    "zone/subject_raw": "",
+    "Date": "Progetto preliminare",
+    "Author": "Fabio Burrini",
+    "supporto": "Murale affrescato",
+    "zone": [
+      "Volte"
+    ],
+    "materials_used": [],
+    "technique_used": [
+      "Indagini diagnostiche e analisi preliminari"
+    ],
+    "environmental_issue": [],
+    "working_issue": [],
+    "observations": [
+      "L'intervento prevede la verifica e la revisione delle riprese pittoriche della volta.",
+      "L'obiettivo è ricondurre i cromatismi dell'affresco ai valori originari."
+    ]
+  },
+  {
+    "record_id": "802",
+    "Cantiere": "Cantiere di restauro: AQ - L'Aquila - Museo Nazionale d'Abruzzo - Affresco staccato, Storico artistico",
+    "zone/subject_raw": "",
+    "Date": "Progetto preliminare",
+    "Author": "Fabio Burrini",
+    "supporto": "",
+    "zone": [],
+    "materials_used": [],
+    "technique_used": [],
+    "environmental_issue": [],
+    "working_issue": [],
+    "observations": [
+      "Decorazione dei pannelli copri fan-coil con tecnica coerente alla stesura originale."
+    ]
+  }
+]

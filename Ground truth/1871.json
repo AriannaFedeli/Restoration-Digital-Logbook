@@ -1,0 +1,204 @@
+[
+  {
+    "record_id": "1871",
+    "Cantiere": "Cantiere di restauro: Cattedrale di San Cerbone - Massa Marittima - Grosseto, Architettonico",
+    "zone/subject_raw": "RIMOZIONE DEPOSITO SUPERFICIALE E SPOLVERATURA",
+    "Date": "7 dicembre 2011 - 31 agosto 2013",
+    "Author": "Esedra Restauri Società  Cooperativa , \tAlchemy s.n.c. , ICET Industrie SPA",
+    "supporto": "Architettonico",
+    "zone": [
+      "Murature"
+    ],
+    "materials_used": [],
+    "technique_used": [
+      "Pulitura meccanica",
+      "Rimozione di depositi, scialbature o vernici"
+    ],
+    "environmental_issue": [],
+    "working_issue": [ "Pulitura difficile o non controllabile"],
+    "observations": [
+      "Rimozione meccanica dei depositi superficiali (guano, terra, sabbia, polveri) su soglie, cornici, cornicioni e interstizi mediante aria compressa, spatole, pennelli, spazzolini e aspiratori elettrici."
+    ]
+  },
+  {
+    "record_id": "1871",
+    "Cantiere": "Cantiere di restauro: Cattedrale di San Cerbone - Massa Marittima - Grosseto, Architettonico",
+    "zone/subject_raw": "RIMOZIONE DEPOSITO SUPERFICIALE E SPOLVERATURA",
+    "Date": "7 dicembre 2011 - 31 agosto 2013",
+    "Author": "Esedra Restauri Società  Cooperativa , \tAlchemy s.n.c. , ICET Industrie SPA",
+    "supporto": "Architettonico",
+    "zone": ["Murature"],
+    "materials_used": [],
+    "technique_used": [
+      "Aspirazione / spolveratura"
+    ],
+    "environmental_issue": [],
+    "working_issue": [],
+    "observations": [
+      "Spolveratura generale di superfici orizzontali e verticali con pennelli, pennellesse e aspiratori elettrici."
+    ]
+  },
+  {
+    "record_id": "1871",
+    "Cantiere": "Cantiere di restauro: Cattedrale di San Cerbone - Massa Marittima - Grosseto, Architettonico",
+    "zone/subject_raw": "RIMOZIONE DEPOSITO SUPERFICIALE E SPOLVERATURA",
+    "Date": "7 dicembre 2011 - 31 agosto 2013",
+    "Author": "Esedra Restauri Società  Cooperativa , \tAlchemy s.n.c. , ICET Industrie SPA",
+    "supporto": "Architettonico",
+    "zone": ["Murature"],
+    "materials_used": [],
+    "technique_used": [
+      "Rimozione di depositi, scialbature o vernici",
+      "Pulitura meccanica"
+    ],
+    "environmental_issue": [],
+    "working_issue": [],
+    "observations": [
+      "Le buche pontaie sono state riaperte."
+    ]
+  },
+  {
+    "record_id": "1871",
+    "Cantiere": "Cantiere di restauro: Cattedrale di San Cerbone - Massa Marittima - Grosseto, Architettonico",
+    "zone/subject_raw": "RIMOZIONE DEPOSITO SUPERFICIALE E SPOLVERATURA",
+    "Date": "7 dicembre 2011 - 31 agosto 2013",
+    "Author": "Esedra Restauri Società  Cooperativa , \tAlchemy s.n.c. , ICET Industrie SPA",
+    "supporto": "Architettonico",
+    "zone": ["Murature"],
+    "materials_used": [],
+    "technique_used": ["Aspirazione / spolveratura"],
+    "environmental_issue": [],
+    "working_issue": [],
+    "observations": [
+      "Rimozione meccanica di elementi metallici (chiodi, uncini, ganci) con pinze, mazzete e scalpelli."
+    ]
+  },
+  {
+    "record_id": "1871",
+    "Cantiere": "Cantiere di restauro: Cattedrale di San Cerbone - Massa Marittima - Grosseto, Architettonico",
+    "zone/subject_raw": "RIMOZIONE DEPOSITO SUPERFICIALE E SPOLVERATURA",
+    "Date": "7 dicembre 2011 - 31 agosto 2013",
+    "Author": "Esedra Restauri Società  Cooperativa , \tAlchemy s.n.c. , ICET Industrie SPA",
+    "supporto": "Architettonico",
+    "zone": ["Murature"],
+    "materials_used": [],
+    "technique_used": [
+      "Rimozione di depositi, scialbature o vernici",
+      "Aspirazione / spolveratura"
+    ],
+    "environmental_issue": [],
+    "working_issue": [],
+    "observations": [
+      "Rimozione del deposito superficiale e spolveratura, con successiva eliminazione della vegetazione superiore mediante trattamento diserbante e uso di mazzette, scalpelli e trapani."
+    ]
+  },
+  {
+    "record_id": "1871",
+    "Cantiere": "Cantiere di restauro: Cattedrale di San Cerbone - Massa Marittima - Grosseto, Architettonico",
+    "zone/subject_raw": "RIMOZIONE DEPOSITO SUPERFICIALE E SPOLVERATURA",
+    "Date": "7 dicembre 2011 - 31 agosto 2013",
+    "Author": "Esedra Restauri Società  Cooperativa , \tAlchemy s.n.c. , ICET Industrie SPA",
+    "supporto": "Architettonico",
+    "zone": ["Murature"],
+    "materials_used": [],
+    "technique_used": [
+      "Pulitura meccanica",
+      "Aspirazione / spolveratura"
+    ],
+    "environmental_issue": [],
+    "working_issue": [],
+    "observations": [
+      "Rimozione di depositi superficiali con aria compressa e aspiratore elettrico."
+    ]
+  },
+  {
+    "record_id": "1871",
+    "Cantiere": "Cantiere di restauro: Cattedrale di San Cerbone - Massa Marittima - Grosseto, Architettonico",
+    "zone/subject_raw": "RIMOZIONE DEPOSITO SUPERFICIALE E SPOLVERATURA",
+    "Date": "7 dicembre 2011 - 31 agosto 2013",
+    "Author": "Esedra Restauri Società  Cooperativa , \tAlchemy s.n.c. , ICET Industrie SPA",
+    "supporto": "Architettonico",
+    "zone": [
+      "Murature"
+    ],
+    "materials_used": [
+      "Biocidi/antimuffa/antivegetativi"
+    ],
+    "technique_used": [
+      "Rimozione di depositi, scialbature o vernici",
+      "Trattamenti biocidi / disinfestazione"
+    ],
+    "environmental_issue": [],
+    "working_issue": [],
+    "observations": [
+      "Applicazione di biocida su tutto il paramento in più cicli.",
+      "Operazione di rimozione del deposito superficiale e spolveratura."
+    ]
+  },
+  {
+    "record_id": "1871",
+    "Cantiere": "Cantiere di restauro: Cattedrale di San Cerbone - Massa Marittima - Grosseto, Architettonico",
+    "zone/subject_raw": "RIMOZIONE DEPOSITO SUPERFICIALE E SPOLVERATURA",
+    "Date": "7 dicembre 2011 - 31 agosto 2013",
+    "Author": "Esedra Restauri Società  Cooperativa , \tAlchemy s.n.c. , ICET Industrie SPA",
+    "supporto": "Architettonico",
+    "zone": ["Murature"],
+    "materials_used": [
+      "Acqua deionizzata/demineralizzata/distillata",
+      "Biocidi/antimuffa/antivegetativi"
+    ],
+    "technique_used": [
+      "Rimozione di depositi, scialbature o vernici",
+      "Pulitura ad umido / lavaggio"
+    ],
+    "environmental_issue": ["sviluppi biodeteriogeni"],
+    "working_issue": [],
+    "observations": [
+      "Rimozione di deposito superficiale mediante lavaggio con acqua distillata nebulizzata al 2% di Biotin T."
+    ]
+  },
+  {
+    "record_id": "1871",
+    "Cantiere": "Cantiere di restauro: Cattedrale di San Cerbone - Massa Marittima - Grosseto, Architettonico",
+    "zone/subject_raw": "RIMOZIONE DEPOSITO SUPERFICIALE E SPOLVERATURA",
+    "Date": "7 dicembre 2011 - 31 agosto 2013",
+    "Author": "Esedra Restauri Società  Cooperativa , \tAlchemy s.n.c. , ICET Industrie SPA",
+    "supporto": "Architettonico",
+    "zone": ["Murature"],
+    "materials_used": [
+      "Acqua deionizzata/demineralizzata/distillata"
+    ],
+    "technique_used": [
+      "Pulitura ad umido / lavaggio",
+      "Rimozione di depositi, scialbature o vernici"
+    ],
+    "environmental_issue": [],
+    "working_issue": [],
+    "observations": [
+      "Lavaggio con acqua distillata al 2% di Biotin T applicato a pennello.",
+      "Rimozione di deposito superficiale effettuata dopo il lavaggio."
+    ]
+  },
+  {
+    "record_id": "1871",
+    "Cantiere": "Cantiere di restauro: Cattedrale di San Cerbone - Massa Marittima - Grosseto, Architettonico",
+    "zone/subject_raw": "RIMOZIONE DEPOSITO SUPERFICIALE E SPOLVERATURA",
+    "Date": "7 dicembre 2011 - 31 agosto 2013",
+    "Author": "Esedra Restauri Società  Cooperativa , \tAlchemy s.n.c. , ICET Industrie SPA",
+    "supporto": "Architettonico",
+    "zone": ["Murature"],
+    "materials_used": [
+      "Ossidanti/riducenti (acqua ossigenata e simili)"
+    ],
+    "technique_used": [
+      "Rimozione di depositi, scialbature o vernici",
+      "Aspirazione / spolveratura"
+    ],
+    "environmental_issue": [],
+    "working_issue": [],
+    "observations": [
+      "Utilizzato acqua ossigenata come ossidante per rimozione depositi superficiali.",
+      "Operazione eseguita con tecnica di rimozione depositi e spolveratura."
+    ]
+  }
+]

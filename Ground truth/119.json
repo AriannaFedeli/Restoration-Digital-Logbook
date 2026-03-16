@@ -1,0 +1,129 @@
+[
+  {
+    "record_id": "119.0",
+    "Cantiere": "Cantiere di restauro: Restauro e valorizzazione della chiesa di S. Sofia in Benevento, Architettonico",
+    "zone/subject_raw": "Restauro delle colonne e dei capitelli",
+    "Date": "maggio 2008 - novembre 2008",
+    "Author": "Prof. Enrico Bugli",
+    "supporto": "Architettonico",
+    "zone": [
+      "Murature",
+      "Volte",
+      "Cupola"
+    ],
+    "materials_used": [
+      "Calce (grassello, calce dolce, calce storica)"
+    ],
+    "technique_used": [
+      "Pulitura meccanica",
+      "Ritocco / velatura / patinatura"
+    ],
+    "environmental_issue": [],
+    "working_issue": [],
+    "observations": [
+      "L'intervento prevede la rimozione degli intonaci cementizi e la tinteggiatura a calce per migliorare la qualità dei paramenti murari, delle volte e della cupola.",
+      "Le operazioni includono raschiatura a spatola, tinteggiatura a calce e una patinatura finale."
+    ]
+  },
+  {
+    "record_id": "",
+    "Cantiere": "Cantiere di restauro: Restauro e valorizzazione della chiesa di S. Sofia in Benevento, Architettonico",
+    "zone/subject_raw": "Restauro delle colonne e dei capitelli",
+    "Date": "maggio 2008 - novembre 2008",
+    "Author": "Prof. Enrico Bugli",
+    "supporto": "Architettonico",
+    "zone": [
+      "Colonne/Capitelli/Trabeazioni",
+      "Murature",
+      "Volte",
+      "Decorazioni dipinte"
+    ],
+    "materials_used": [
+      "Cemento/calcestruzzo/cementite",
+      "Calce (grassello, calce dolce, calce storica)"
+    ],
+    "technique_used": [
+      "Pulitura meccanica",
+      "Rimozione di depositi, scialbature o vernici",
+      "Consolidamento superficiale"
+    ],
+    "environmental_issue": [],
+    "working_issue": [],
+    "observations": [
+      "Previsto intervento di rimozione intonaci a cemento e ricostruzione con intonaco a calce.",
+      "Sono indicate operazioni di consolidamento e pulitura degli affreschi esistenti.",
+      "Le colonne, i capitelli e gli archi in mattoni saranno oggetto di interventi specifici."
+    ]
+  },
+  {
+    "record_id": "",
+    "Cantiere": "Cantiere di restauro: Restauro e valorizzazione della chiesa di S. Sofia in Benevento, Architettonico",
+    "zone/subject_raw": "Restauro delle colonne e dei capitelli",
+    "Date": "maggio 2008 - novembre 2008",
+    "Author": "Prof. Enrico Bugli",
+    "supporto": "Architettonico",
+    "zone": [
+      "Colonne/Capitelli/Trabeazioni",
+      "Pavimenti/Solai"
+    ],
+    "materials_used": [
+      "Calce idraulica / NHL",
+      "Cemento/calcestruzzo/cementite",
+      "Inerti e sabbie",
+      "Cocciopesto/pozzolana e leganti storici",
+      "Materiali lapidei (pietra, marmo, ardesia, litotipi)",
+      "Cere (emulsioni cerose, cere ossidate)"
+    ],
+    "technique_used": [
+      "Indagini diagnostiche e analisi preliminari"
+    ],
+    "environmental_issue": [],
+    "working_issue": [],
+    "observations": [
+      "Sono state eseguite indagini archeologiche stratigrafiche all'interno della chiesa.",
+      "È prevista la realizzazione di una nuova pavimentazione in calcestruzzo con calce idraulica, sabbia, pozzolana, cocciopesto e cere naturali.",
+      "Il progetto prevede la definizione di soluzioni di innesto per le colonne e i capitelli esistenti."
+    ]
+  },
+  {
+    "record_id": "",
+    "Cantiere": "Cantiere di restauro: Restauro e valorizzazione della chiesa di S. Sofia in Benevento, Architettonico",
+    "zone/subject_raw": "Impianto elettrico",
+    "Date": "maggio 2008 - novembre 2008",
+    "Author": "Prof. Enrico Bugli",
+    "supporto": "Architettonico",
+    "zone": [],
+    "materials_used": [
+      "Materiali plastici (PVC, polietilene, plexiglas, nylon, velcro)"
+    ],
+    "technique_used": [],
+    "environmental_issue": [],
+    "working_issue": [],
+    "observations": [
+      "Distribuzione dei cavi in tubazioni in PVC flessibile a pavimento.",
+      "Utilizzo di cavi minerali a parete dove la soluzione in PVC è impraticabile."
+    ]
+  },
+  {
+    "record_id": "119.0",
+    "Cantiere": "Cantiere di restauro: Restauro e valorizzazione della chiesa di S. Sofia in Benevento, Architettonico",
+    "zone/subject_raw": "Restauro di disegni e planimetrie",
+    "Date": "maggio 2008 - novembre 2008",
+    "Author": "Prof. Enrico Bugli",
+    "supporto": "Cartaceo",
+    "zone": [
+    ],
+    "materials_used": [],
+    "technique_used": [
+      "Pulitura meccanica",
+      "Riadesione / fissaggio pellicola pittorica",
+      "Deacidificazione"
+    ],
+    "environmental_issue": [],
+    "working_issue": [],
+    "observations": [
+      "Intervento di restauro su materiale cartaceo (disegni, planimetrie, fotografie).",
+      "Sono state eseguite puliture, fissaggi, deacidificazione, ricuciture e preparazione di passepartout."
+    ]
+  }
+]

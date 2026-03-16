@@ -1,0 +1,127 @@
+[
+  {
+    "record_id": "119.0",
+    "Cantiere": "Cantiere di restauro: Restauro e valorizzazione della chiesa di S. Sofia in Benevento, Architettonico",
+    "zone/subject_raw": "Restauro delle colonne e dei capitelli",
+    "Date": "maggio 2008 - novembre 2008",
+    "Author": "Prof. Enrico Bugli",
+    "supporto": "Architettonico",
+    "zone": [
+      "Volte",
+      "Cupola"
+    ],
+    "materials_used": [
+      "Calce (grassello, calce dolce, calce storica)"
+    ],
+    "technique_used": [
+      "Pulitura meccanica",
+      "Integrazione pittorica / reintegrazione cromatica"
+    ],
+    "environmental_issue": [],
+    "working_issue": [
+      "Adesione/coesione insufficiente",
+      "Decoesione/polverizzazione"
+    ],
+    "observations": [
+      "Eliminazione degli intonaci cementizi per migliorare la qualità e la compatibilità con i brani affrescati."
+    ]
+  },
+  {
+    "record_id": "",
+    "Cantiere": "Cantiere di restauro: Restauro e valorizzazione della chiesa di S. Sofia in Benevento, Architettonico",
+    "zone/subject_raw": "Restauro delle colonne e dei capitelli",
+    "Date": "maggio 2008 - novembre 2008",
+    "Author": "Prof. Enrico Bugli",
+    "supporto": "Architettonico",
+    "zone": [
+      "Murature",
+      "Colonne/Capitelli/Trabeazioni",
+       "Decorazioni dipinte"
+    ],
+    "materials_used": [
+      "Cemento/calcestruzzo/cementite",
+      "Calce (grassello, calce dolce, calce storica)",
+      "Resine epossidiche (Araldite, Sikadur, Epox)"
+    ],
+    "technique_used": [
+      "Rimozione di depositi, scialbature o vernici",
+      "Pulitura meccanica",
+      "Consolidamento superficiale"
+    ],
+    "environmental_issue": [],
+    "working_issue": [],
+    "observations": [
+      "L'intervento prevede la rimozione degli intonaci a cemento e la reimpostazione di un nuovo intonaco a calce.",
+      "Si prevede anche la manutenzione degli affreschi su cui sono stati effettuati interventi di consolidamento e pulitura nel 2003."
+    ]
+  },
+  {
+    "record_id": "",
+    "Cantiere": "Cantiere di restauro: Restauro e valorizzazione della chiesa di S. Sofia in Benevento, Architettonico",
+    "zone/subject_raw": "Restauro delle colonne e dei capitelli",
+    "Date": "maggio 2008 - novembre 2008",
+    "Author": "Prof. Enrico Bugli",
+    "supporto": "Architettonico",
+    "zone": [
+      "Pavimenti/Solai",
+      "Colonne/Capitelli/Trabeazioni"
+    ],
+    "materials_used": [
+      "Cemento/calcestruzzo/cementite",
+      "Calce idraulica / NHL",
+      "Inerti e sabbie",
+      "Cocciopesto/pozzolana e leganti storici",
+      "Cere (emulsioni cerose, cere ossidate)"
+    ],
+    "technique_used": [
+      "Indagini diagnostiche e analisi preliminari",
+      "Pulitura meccanica"
+    ],
+    "environmental_issue": [],
+    "working_issue": [],
+    "observations": [
+      "Lo scavo archeologico è stato eseguito con procedura di indagine stratigrafica.",
+      "La nuova pavimentazione prevede l'uso di calcestruzzo in calce idraulica naturale bianca con vari inerti."
+    ]
+  },
+  {
+    "record_id": "",
+    "Cantiere": "Cantiere di restauro: Restauro e valorizzazione della chiesa di S. Sofia in Benevento, Architettonico",
+    "zone/subject_raw": "Impianto elettrico",
+    "Date": "maggio 2008 - novembre 2008",
+    "Author": "Prof. Enrico Bugli",
+    "supporto": "Architettonico",
+    "zone": [],
+    "materials_used": ["Materiali plastici (PVC, polietilene, plexiglas, nylon, velcro)"],
+    "technique_used": [],
+    "environmental_issue": [],
+    "working_issue": [
+      "Difficoltà operative e accessibilità (quota, posizionamento, intervento diretto)"
+    ],
+    "observations": [
+      "L'impianto elettrico prevede soluzioni minimali per un impatto visivo contenuto, con cavi in tubazioni in PVC a pavimento e sotto traccia."
+    ]
+  },
+  {
+    "record_id": "119.0",
+    "Cantiere": "Cantiere di restauro: Restauro e valorizzazione della chiesa di S. Sofia in Benevento, Architettonico",
+    "zone/subject_raw": "Restauro di disegni e planimetrie",
+    "Date": "maggio 2008 - novembre 2008",
+    "Author": "Prof. Enrico Bugli",
+    "supporto": "Cartaceo",
+    "zone": [],
+    "materials_used": [
+      "Acqua (generica)"],
+    "technique_used": [
+      "Pulitura meccanica",
+      "Pulitura chimica",
+      "Deacidificazione",
+      "Riadesione / fissaggio pellicola pittorica"
+    ],
+    "environmental_issue": [],
+    "working_issue": [],
+    "observations": [
+      "Il restauro si concentra principalmente sui disegni, planimetrie e fotografie."
+    ]
+  }
+]

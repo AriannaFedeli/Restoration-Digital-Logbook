@@ -1,0 +1,128 @@
+[
+  {
+    "record_id": "768",
+    "Cantiere": "Cantiere di restauro: AQ- L'Aquila- Museo Nazionale d'Abruzzo- dipinto su tavola- polittico- Madonna con Bambino e Santi, Storico artistico",
+    "zone/subject_raw": "",
+    "Date": "2005",
+    "Author": "Fabio Burrini",
+    "supporto": "",
+    "zone": [],
+    "materials_used": [
+      "Acqua (generica)",
+      "Tensioattivi e detergenti non ionici"
+    ],
+    "technique_used": [
+      "Pulitura ad umido / lavaggio"
+    ],
+    "environmental_issue": [],
+    "working_issue": [],
+    "observations": [
+      "Pulitura umida della superficie con acqua e tensioattivo non ionico mediante spugne di lattice."
+    ]
+  },
+  {
+    "record_id": "768",
+    "Cantiere": "Cantiere di restauro: AQ- L'Aquila- Museo Nazionale d'Abruzzo- dipinto su tavola- polittico- Madonna con Bambino e Santi, Storico artistico",
+    "zone/subject_raw": "",
+    "Date": "2005",
+    "Author": "Fabio Burrini",
+    "supporto": "",
+    "zone": [
+      "Documentazione/Analisi"
+    ],
+    "materials_used": [],
+    "technique_used": [],
+    "environmental_issue": [],
+    "working_issue": [],
+    "observations": [
+      "Rimozione della patina bianca per rendere visibile l'iscrizione più antica."
+    ]
+  },
+  {
+    "record_id": "768",
+    "Cantiere": "Cantiere di restauro: AQ- L'Aquila- Museo Nazionale d'Abruzzo- dipinto su tavola- polittico- Madonna con Bambino e Santi, Storico artistico",
+    "zone/subject_raw": "",
+    "Date": "2005",
+    "Author": "Fabio Burrini",
+    "supporto": "",
+    "zone": [
+      "Decorazioni dipinte"
+    ],
+    "materials_used": [
+      "Resine acriliche (Primal, Plexisol, microemulsioni acriliche)",
+      "Acqua (generica)"
+    ],
+    "technique_used": [
+      "Riadesione / fissaggio pellicola pittorica"
+    ],
+    "environmental_issue": [],
+    "working_issue": [
+      "Distacco/disancoraggio"
+    ],
+    "observations": [
+      "Fissaggio delle scaglie di colore sollevate con resina acrilica diluita al 15% in acqua."
+    ]
+  },
+  {
+    "record_id": "768",
+    "Cantiere": "Cantiere di restauro: AQ- L'Aquila- Museo Nazionale d'Abruzzo- dipinto su tavola- polittico- Madonna con Bambino e Santi, Storico artistico",
+    "zone/subject_raw": "",
+    "Date": "2005",
+    "Author": "Fabio Burrini",
+    "supporto": "",
+    "zone": [],
+    "materials_used": [],
+    "technique_used": [
+      "Consolidamento per iniezione / impregnazione"
+    ],
+    "environmental_issue": [],
+    "working_issue": [],
+    "observations": [
+      "Consolidamento profondo mediante malta speciale PLM-A."
+    ]
+  },
+  {
+    "record_id": "768",
+    "Cantiere": "Cantiere di restauro: AQ- L'Aquila- Museo Nazionale d'Abruzzo- dipinto su tavola- polittico- Madonna con Bambino e Santi, Storico artistico",
+    "zone/subject_raw": "",
+    "Date": "2005",
+    "Author": "Fabio Burrini",
+    "supporto": "",
+    "zone": [],
+    "materials_used": [
+      "Resine acriliche (Primal, Plexisol, microemulsioni acriliche)"
+    ],
+    "technique_used": [
+      "Consolidamento superficiale"
+    ],
+    "environmental_issue": [],
+    "working_issue": [],
+    "observations": [
+      "Consolidamento superficiale eseguito con resina acrilica."
+    ]
+  },
+  {
+    "record_id": "768",
+    "Cantiere": "Cantiere di restauro: AQ- L'Aquila- Museo Nazionale d'Abruzzo- dipinto su tavola- polittico- Madonna con Bambino e Santi, Storico artistico",
+    "zone/subject_raw": "",
+    "Date": "2005",
+    "Author": "Fabio Burrini",
+    "supporto": "",
+    "zone": [],
+    "materials_used": [
+      "Calce (grassello, calce dolce, calce storica)",
+      "Inerti e sabbie",
+      "Materiali lapidei (pietra, marmo, ardesia, litotipi)",
+      "Cariche minerali (carbonato di calcio, polveri di pietra/marmo/travertino)",
+      "Malte a base calce (premiscelate o tradizionali)"
+    ],
+    "technique_used": [
+      "Stuccatura / integrazione con malte"
+    ],
+    "environmental_issue": [],
+    "working_issue": [],
+    "observations": [
+      "Stuccatura eseguita con malta a base di calce, sabbia, marmo Carrara e carbonato di calcio micronizzato."
+    ]
+  }
+]

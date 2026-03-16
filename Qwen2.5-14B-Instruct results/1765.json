@@ -1,0 +1,79 @@
+[
+  {
+    "record_id": "1765",
+    "Cantiere": "Cantiere di restauro: Cappella di San Vincenzo - Altare ligneo policromo e dorato e tela del timpano, Architettonico",
+    "zone/subject_raw": "Intervento di restauro conservativo",
+    "Date": "maggio 2013; giugno 2013; luglio 2013",
+    "Author": "Riccardo Moselli; Marco Saroldi",
+    "supporto": "Architettonico",
+    "zone": [],
+    "materials_used": [],
+    "technique_used": [
+      "Rimozione di depositi, scialbature o vernici"
+    ],
+    "environmental_issue": [],
+    "working_issue": [],
+    "observations": [
+      "Rimozione completa dello strato superficiale per il rinvenimento dei sottostanti."
+    ]
+  },
+  {
+    "record_id": "1765",
+    "Cantiere": "Cantiere di restauro: Cappella di San Vincenzo - Altare ligneo policromo e dorato e tela del timpano, Architettonico",
+    "zone/subject_raw": "Intervento di restauro conservativo",
+    "Date": "maggio 2013; giugno 2013; luglio 2013",
+    "Author": "Riccardo Moselli; Marco Saroldi",
+    "supporto": "Architettonico",
+    "zone": [],
+    "materials_used": [],
+    "technique_used": [
+      "Stuccatura / integrazione con malte"
+    ],
+    "environmental_issue": [],
+    "working_issue": [],
+    "observations": [
+      "Operazioni di stuccatura di lacune."
+    ]
+  },
+  {
+    "record_id": "1765",
+    "Cantiere": "Cantiere di restauro: Cappella di San Vincenzo - Altare ligneo policromo e dorato e tela del timpano, Architettonico",
+    "zone/subject_raw": "Intervento di restauro conservativo",
+    "Date": "maggio 2013; giugno 2013; luglio 2013",
+    "Author": "Riccardo Moselli; Marco Saroldi",
+    "supporto": "Architettonico",
+    "zone": [
+      "Arredi liturgici",
+      "Decorazioni dipinte"
+    ],
+    "materials_used": [],
+    "technique_used": [
+      "Integrazione pittorica / reintegrazione cromatica"
+    ],
+    "environmental_issue": [],
+    "working_issue": [],
+    "observations": [
+      "Il restauro ha coinvolto la reintegrazione pittorica con una tecnica riconoscibile a tratteggio."
+    ]
+  },
+  {
+    "record_id": "1765",
+    "Cantiere": "Cantiere di restauro: Cappella di San Vincenzo - Altare ligneo policromo e dorato e tela del timpano, Architettonico",
+    "zone/subject_raw": "Intervento di restauro conservativo",
+    "Date": "maggio 2013; giugno 2013; luglio 2013",
+    "Author": "Riccardo Moselli; Marco Saroldi",
+    "supporto": "Architettonico",
+    "zone": [
+      "Arredi liturgici"
+    ],
+    "materials_used": [],
+    "technique_used": [
+      "Integrazione pittorica / reintegrazione cromatica"
+    ],
+    "environmental_issue": [],
+    "working_issue": [],
+    "observations": [
+      "Il restauro si concentra sulla reintegrazione pittorica con una tecnica mimetica per abbellire le abrasioni e le lacune."
+    ]
+  }
+]

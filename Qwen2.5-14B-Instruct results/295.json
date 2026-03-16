@@ -1,0 +1,166 @@
+[
+  {
+    "record_id": "295",
+    "Cantiere": "Cantiere di restauro: L'Aquila_Chiesa di San Massimo_pala d'altare_dipinto_Disputa di Gesù tra i Dottori nel Tempio, Storico artistico",
+    "zone/subject_raw": "",
+    "Date": "1984 - 1985",
+    "Author": "COREST Srl",
+    "supporto": "Cartaceo",
+    "zone": [
+      "Opere mobili"
+    ],
+    "materials_used": [
+      "Adesivi acrilici (Beva e simili)"
+    ],
+    "technique_used": [
+      "Riadesione / fissaggio pellicola pittorica"
+    ],
+    "environmental_issue": [],
+    "working_issue": [],
+    "observations": [
+      "Velinatura provvisoria eseguita per la messa in sicurezza della pellicola pittorica."
+    ]
+  },
+  {
+    "record_id": "295",
+    "Cantiere": "Cantiere di restauro: L'Aquila_Chiesa di San Massimo_pala d'altare_dipinto_Disputa di Gesù tra i Dottori nel Tempio, Storico artistico",
+    "zone/subject_raw": "",
+    "Date": "1984 - 1985",
+    "Author": "COREST Srl",
+    "supporto": "",
+    "zone": [],
+    "materials_used": [],
+    "technique_used": [],
+    "environmental_issue": [],
+    "working_issue": [],
+    "observations": [
+      "MODEL_OUTPUT_INVALID: supporto not allowed: Legno (massello, assito, multistrato, compensati)",
+      "RAW: {\"supporto\": \"Legno (massello, assito, multistrato, compensati)\", \"zone\": [], \"materials_used\": [\"Adesivi vinilici (Vinavil e simili)\", \"Fissaggi (generici)\"], \"technique_used\": [\"Interventi strutturali locali (cuci-scuci, cerchiatura, ancoraggi)\"], \"environmental_issue\": [], \"working_issue\": [\"Distacco/disancoraggio\", \"Fessure/fenditure/fratture/rotture\"], \"observations\": [\"Risanamento delle fessurazioni del supporto ligneo mediante inserimento di cunei in legno di pioppo incollati con Vinavil NPC; possibile utilizzo di morsetti e colle viniliche a presa controllata.\"]}"
+    ]
+  },
+  {
+    "record_id": "295",
+    "Cantiere": "Cantiere di restauro: L'Aquila_Chiesa di San Massimo_pala d'altare_dipinto_Disputa di Gesù tra i Dottori nel Tempio, Storico artistico",
+    "zone/subject_raw": "",
+    "Date": "1984 - 1985",
+    "Author": "COREST Srl",
+    "supporto": "Cartaceo",
+    "zone": [],
+    "materials_used": [
+      "Resine acriliche (Primal, Plexisol, microemulsioni acriliche)",
+      "Solventi aromatici/clorurati (toluene, trielina, tricloroetano)"
+    ],
+    "technique_used": [
+      "Consolidamento per iniezione / impregnazione"
+    ],
+    "environmental_issue": [
+      "attacco xilofago"
+    ],
+    "working_issue": [],
+    "observations": [
+      "L'intervento mira alla prevenzione dell'attacco xilofago attraverso l'impregnazione con Paraloid B72."
+    ]
+  },
+  {
+    "record_id": "295",
+    "Cantiere": "Cantiere di restauro: L'Aquila_Chiesa di San Massimo_pala d'altare_dipinto_Disputa di Gesù tra i Dottori nel Tempio, Storico artistico",
+    "zone/subject_raw": "",
+    "Date": "1984 - 1985",
+    "Author": "COREST Srl",
+    "supporto": "",
+    "zone": [],
+    "materials_used": [],
+    "technique_used": [],
+    "environmental_issue": [],
+    "working_issue": [],
+    "observations": [
+      "MODEL_OUTPUT_INVALID: supporto not allowed: Legno (massello, assito, multistrato, compensati)",
+      "RAW: {\"supporto\": \"Legno (massello, assito, multistrato, compensati)\", \"zone\": [], \"materials_used\": [\"Antitarlo/insetticidi/disinfestazione\"], \"technique_used\": [\"Trattamenti biocidi / disinfestazione\"], \"environmental_issue\": [], \"working_issue\": [], \"observations\": [\"Disinfestazione effettuata in camera a gas presso I.C.R.\"]}"
+    ]
+  },
+  {
+    "record_id": "295",
+    "Cantiere": "Cantiere di restauro: L'Aquila_Chiesa di San Massimo_pala d'altare_dipinto_Disputa di Gesù tra i Dottori nel Tempio, Storico artistico",
+    "zone/subject_raw": "",
+    "Date": "1984 - 1985",
+    "Author": "COREST Srl",
+    "supporto": "Cartaceo",
+    "zone": [],
+    "materials_used": [
+      "Solventi organici polari (acetone, etilacetato, MEK, DMF, DMSO)"
+    ],
+    "technique_used": [
+      "Pulitura chimica",
+      "Pulitura con impacchi o gel"
+    ],
+    "environmental_issue": [],
+    "working_issue": [],
+    "observations": [
+      "La pulitura è stata effettuata utilizzando dimetilformammide applicata a tampone e con impacchi."
+    ]
+  },
+  {
+    "record_id": "295",
+    "Cantiere": "Cantiere di restauro: L'Aquila_Chiesa di San Massimo_pala d'altare_dipinto_Disputa di Gesù tra i Dottori nel Tempio, Storico artistico",
+    "zone/subject_raw": "",
+    "Date": "1984 - 1985",
+    "Author": "COREST Srl",
+    "supporto": "",
+    "zone": [],
+    "materials_used": [
+      "Gesso e stucchi gessosi",
+      "Colle animali (coniglio, bue, colletta)"
+    ],
+    "technique_used": [
+      "Stuccatura / integrazione con malte"
+    ],
+    "environmental_issue": [],
+    "working_issue": [
+      "Pulitura difficile o non controllabile"
+    ],
+    "observations": [
+      "Si è effettuata una stuccatura per le piccole lacune."
+    ]
+  },
+  {
+    "record_id": "295",
+    "Cantiere": "Cantiere di restauro: L'Aquila_Chiesa di San Massimo_pala d'altare_dipinto_Disputa di Gesù tra i Dottori nel Tempio, Storico artistico",
+    "zone/subject_raw": "",
+    "Date": "1984 - 1985",
+    "Author": "COREST Srl",
+    "supporto": "Cartaceo",
+    "zone": [],
+    "materials_used": [
+      "Colori (acquerelli, tempere, smalti)"
+    ],
+    "technique_used": [
+      "Integrazione pittorica / reintegrazione cromatica",
+      "Ritocco / velatura / patinatura"
+    ],
+    "environmental_issue": [],
+    "working_issue": [],
+    "observations": [
+      "Reintegrazione pittorica eseguita con colori a vernice Maimeri e acquarelli Winsor & Newton."
+    ]
+  },
+  {
+    "record_id": "295",
+    "Cantiere": "Cantiere di restauro: L'Aquila_Chiesa di San Massimo_pala d'altare_dipinto_Disputa di Gesù tra i Dottori nel Tempio, Storico artistico",
+    "zone/subject_raw": "",
+    "Date": "1984 - 1985",
+    "Author": "COREST Srl",
+    "supporto": "Cartaceo",
+    "zone": [],
+    "materials_used": [
+      "Vernici finali/retoucher (gloss/matt)"
+    ],
+    "technique_used": [
+      "Protezione finale / verniciatura"
+    ],
+    "environmental_issue": [],
+    "working_issue": [],
+    "observations": [
+      "Verniciatura effettuata con Vernis Mat e Vernis à retoucher Lefranc & Bourgeois."
+    ]
+  }
+]

@@ -1,0 +1,413 @@
+[
+  {
+    "record_id": "1626",
+    "Cantiere": "Cantiere di restauro: Restauro della Cappella funeraria a Niccolo Paganini , Architettonico",
+    "zone/subject_raw": "Cupola - rifacimento intonaci",
+    "Date": "2012 - 2013",
+    "Author": "Coema Costruzioni",
+    "supporto": "Architettonico",
+    "zone": [
+      "Cupola"
+    ],
+    "materials_used": [
+      "Calce idraulica / NHL",
+      "Cocciopesto/pozzolana e leganti storici",
+      "Inerti e sabbie"
+    ],
+    "technique_used": [
+      "Interventi su intonaci (intonacatura / reintonacatura)"
+    ],
+    "environmental_issue": [],
+    "working_issue": [],
+    "observations": [
+      "Rimozione degli intonaci degradati e rifacimento con malta composta da calce idraulica naturale, pozzolana e sabbie silicee."
+    ]
+  },
+  {
+    "record_id": "1626",
+    "Cantiere": "Cantiere di restauro: Restauro della Cappella funeraria a Niccolo Paganini , Architettonico",
+    "zone/subject_raw": "Cupola - trattamento microcavillature",
+    "Date": "2012 - 2013",
+    "Author": "Esedra Restauri",
+    "supporto": "Architettonico",
+    "zone": [
+      "Cupola"
+    ],
+    "materials_used": [
+      "Resine fluorurate"
+    ],
+    "technique_used": [
+      "Consolidamento superficiale"
+    ],
+    "environmental_issue": [],
+    "working_issue": [],
+    "observations": [
+      "Applicazione di resina fluorurata Fluoline ST (C.T.S.) per la risoluzione delle microcavillature superficiali."
+    ]
+  },
+  {
+    "record_id": "1626",
+    "Cantiere": "Cantiere di restauro: Restauro della Cappella funeraria a Niccolo Paganini , Architettonico",
+    "zone/subject_raw": "Cupola - tinteggiatura",
+    "Date": "2012 - 2013",
+    "Author": "Esedra Restauri",
+    "supporto": "Architettonico",
+    "zone": [
+      "Cupola"
+    ],
+    "materials_used": [
+      "Cere (emulsioni cerose, cere ossidate)"
+    ],
+    "technique_used": [
+      "Integrazione pittorica / reintegrazione cromatica",
+      "Sigillature e stilatura giunti"
+    ],
+    "environmental_issue": [],
+    "working_issue": [],
+    "observations": [
+      "Applicazione di ciclo pittorico ai silicati in alternativa alla calce per maggiore resistenza agli agenti atmosferici."
+    ]
+  },
+  {
+    "record_id": "1626",
+    "Cantiere": "Cantiere di restauro: Restauro della Cappella funeraria a Niccolo Paganini , Architettonico",
+    "zone/subject_raw": "Cupola - copertura in piombo",
+    "Date": "15 ottobre 2012 - 10 giugno 2013",
+    "Author": "Coema Costruzioni",
+    "supporto": "Architettonico",
+    "zone": [
+      "Coperture"
+    ],
+    "materials_used": [
+      "Fibre e compositi (fibra di vetro, carbonio, vetroresina)",
+      "Elementi di rinforzo (barre filettate, microbarre, piastre, profili)"
+    ],
+    "technique_used": [
+      "Interventi strutturali locali (cuci-scuci, cerchiatura, ancoraggi)"
+    ],
+    "environmental_issue": [],
+    "working_issue": [],
+    "observations": [
+      "Posa di membrana traspirante e vari materiali di copertura e ancoraggio effettuata nel periodo dal 15 ottobre 2012 al 10 giugno 2013."
+    ]
+  },
+  {
+    "record_id": "1626",
+    "Cantiere": "Cantiere di restauro: Restauro della Cappella funeraria a Niccolo Paganini , Architettonico",
+    "zone/subject_raw": "Volta centrale - rifacimento intonaci",
+    "Date": "2012 - 2013",
+    "Author": "Coema Costruzioni",
+    "supporto": "Architettonico",
+    "zone": [
+      "Volte"
+    ],
+    "materials_used": [
+      "Inerti e sabbie"
+    ],
+    "technique_used": [
+      "Interventi su intonaci (intonacatura / reintonacatura)"
+    ],
+    "environmental_issue": [],
+    "working_issue": [],
+    "observations": [
+      "Rifacimento intonaci con utilizzo di malta composta da calce Rabot, sabbia silicea grossa e rete in fibra di vetro alcali-resistente; finitura con intonachino fine."
+    ]
+  },
+  {
+    "record_id": "1626",
+    "Cantiere": "Cantiere di restauro: Restauro della Cappella funeraria a Niccolo Paganini , Architettonico",
+    "zone/subject_raw": "Volta centrale - consolidamento in profondità",
+    "Date": "2012 - 2013",
+    "Author": "Esedra Restauri",
+    "supporto": "Architettonico",
+    "zone": [
+      "Volte"
+    ],
+    "materials_used": [
+      "Malte strutturali/alte prestazioni"
+    ],
+    "technique_used": [
+      "Consolidamento per iniezione / impregnazione"
+    ],
+    "environmental_issue": [
+      "presenza di sali solubili"
+    ],
+    "working_issue": [],
+    "observations": [
+      "Iniezioni di malta Mapei Antique F21 esente da sali solubili nei distacchi profondi."
+    ]
+  },
+  {
+    "record_id": "1626",
+    "Cantiere": "Cantiere di restauro: Restauro della Cappella funeraria a Niccolo Paganini , Architettonico",
+    "zone/subject_raw": "Volta centrale - consolidamento pellicola",
+    "Date": "2012 - 2013",
+    "Author": "Esedra Restauri",
+    "supporto": "Architettonico",
+    "zone": [
+      "Volte"
+    ],
+    "materials_used": [
+      "Resine acriliche (Primal, Plexisol, microemulsioni acriliche)",
+      "Resine siliconiche/silossaniche"
+    ],
+    "technique_used": [
+      "Consolidamento per iniezione / impregnazione",
+      "Riadesione / fissaggio pellicola pittorica"
+    ],
+    "environmental_issue": [],
+    "working_issue": [],
+    "observations": [
+      "Iniezioni di Silcol 30 puro o Primal al 50% in profondità, e Primal diluito al 50% per velinature e consolidamento del retro degli intonaci staccati."
+    ]
+  },
+  {
+    "record_id": "1626",
+    "Cantiere": "Cantiere di restauro: Restauro della Cappella funeraria a Niccolo Paganini , Architettonico",
+    "zone/subject_raw": "Volta centrale - stacco intonaci",
+    "Date": "2012 - 2013",
+    "Author": "Esedra Restauri",
+    "supporto": "Architettonico",
+    "zone": [
+      "Volte"
+    ],
+    "materials_used": [
+      "Adesivi/colle (generici)",
+      "Carta e carte tecniche (giapponese, velina, riso, assorbente)",
+      "Supporti e protezioni temporanee (carta siliconata, fodere, tamponi, spugne)"
+    ],
+    "technique_used": [],
+    "environmental_issue": [],
+    "working_issue": [
+      "Distacco/disancoraggio"
+    ],
+    "observations": [
+      "Applicazione di tre strati di carta giapponese con adesivi removibili per il sezionamento dell'intonaco."
+    ]
+  },
+  {
+    "record_id": "1626",
+    "Cantiere": "Cantiere di restauro: Restauro della Cappella funeraria a Niccolo Paganini , Architettonico",
+    "zone/subject_raw": "Volte laterali - consolidamento preliminare",
+    "Date": "2012 - 2013",
+    "Author": "Esedra Restauri",
+    "supporto": "Architettonico",
+    "zone": [
+      "Volte"
+    ],
+    "materials_used": [
+      "Resine siliconiche/silossaniche",
+      "Resine acriliche (Primal, Plexisol, microemulsioni acriliche)"
+    ],
+    "technique_used": [
+      "Consolidamento superficiale"
+    ],
+    "environmental_issue": [],
+    "working_issue": [],
+    "observations": [
+      "Iniezioni superficiali di Silcol 30 con acqua distillata e prove con Silcol 30 puro e Primal al 5% con risultati parziali."
+    ]
+  },
+  {
+    "record_id": "1626",
+    "Cantiere": "Cantiere di restauro: Restauro della Cappella funeraria a Niccolo Paganini , Architettonico",
+    "zone/subject_raw": "Volte laterali - stuccature",
+    "Date": "2012 - 2013",
+    "Author": "Esedra Restauri",
+    "supporto": "Architettonico",
+    "zone": [
+      "Volte"
+    ],
+    "materials_used": [
+      "Calce idraulica / NHL"
+    ],
+    "technique_used": [],
+    "environmental_issue": [],
+    "working_issue": [],
+    "observations": [
+      "Materie prime utilizzate includono calci idrauliche naturali (NHL) mescolate con carbonato di calcio impalpabile e sabbia fine; si è anche menzionato l'utilizzo di calce del Brenta con carbonato di calcio."
+    ]
+  },
+  {
+    "record_id": "1626",
+    "Cantiere": "Cantiere di restauro: Restauro della Cappella funeraria a Niccolo Paganini , Architettonico",
+    "zone/subject_raw": "Volte laterali - impacchi sali",
+    "Date": "2012 - 2013",
+    "Author": "Esedra Restauri",
+    "supporto": "Architettonico",
+    "zone": [
+      "Volte"
+    ],
+    "materials_used": [
+      "Acqua deionizzata/demineralizzata/distillata",
+      "Carta e carte tecniche (giapponese, velina, riso, assorbente)",
+      "Cellulosa e polpe (arbocell, polpa di carta/cellulosa)"
+    ],
+    "technique_used": [
+      "Pulitura con impacchi o gel"
+    ],
+    "environmental_issue": [
+      "presenza di sali solubili"
+    ],
+    "working_issue": [],
+    "observations": [
+      "Estrazione sali con impacchi di polpa di cellulosa o carta assorbente imbevuti di acqua deionizzata."
+    ]
+  },
+  {
+    "record_id": "1626",
+    "Cantiere": "Cantiere di restauro: Restauro della Cappella funeraria a Niccolo Paganini , Architettonico",
+    "zone/subject_raw": "Volte laterali - ritocco",
+    "Date": "2012 - 2013",
+    "Author": "Esedra Restauri",
+    "supporto": "Architettonico",
+    "zone": [
+      "Volte"
+    ],
+    "materials_used": [
+      "Calce (grassello, calce dolce, calce storica)",
+      "Colori (acquerelli, tempere, smalti)"
+    ],
+    "technique_used": [
+      "Integrazione pittorica / reintegrazione cromatica",
+      "Ritocco / velatura / patinatura"
+    ],
+    "environmental_issue": [],
+    "working_issue": [],
+    "observations": [
+      "Velature a calce e uso di acquerelli per il ritocco."
+    ]
+  },
+  {
+    "record_id": "1626",
+    "Cantiere": "Cantiere di restauro: Restauro della Cappella funeraria a Niccolo Paganini , Architettonico",
+    "zone/subject_raw": "Colonne e architravi in granito - pulitura",
+    "Date": "2012 - 2013",
+    "Author": "Esedra Restauri",
+    "supporto": "Architettonico",
+    "zone": [
+      "Colonne/Capitelli/Trabeazioni"
+    ],
+    "materials_used": [],
+    "technique_used": [
+      "Pulitura ad umido / lavaggio",
+      "Pulitura meccanica"
+    ],
+    "environmental_issue": [],
+    "working_issue": [],
+    "observations": [
+      "Lavori focalizzati sulla pulitura mediante idrolavaggio e rimozione meccanica delle stuccature."
+    ]
+  },
+  {
+    "record_id": "1626",
+    "Cantiere": "Cantiere di restauro: Restauro della Cappella funeraria a Niccolo Paganini , Architettonico",
+    "zone/subject_raw": "Colonne e architravi - impacchi ossidazione",
+    "Date": "2012 - 2013",
+    "Author": "Esedra Restauri",
+    "supporto": "Architettonico",
+    "zone": [
+      "Colonne/Capitelli/Trabeazioni"
+    ],
+    "materials_used": [
+      "Chelanti (EDTA e simili)",
+      "Malte da iniezione/micronizzate"
+    ],
+    "technique_used": [
+      "Pulitura con impacchi o gel"
+    ],
+    "environmental_issue": [],
+    "working_issue": [],
+    "observations": [
+      "Impacchi di carbonato di ammonio e EDTA utilizzati per la pulitura."
+    ]
+  },
+  {
+    "record_id": "1626",
+    "Cantiere": "Cantiere di restauro: Restauro della Cappella funeraria a Niccolo Paganini , Architettonico",
+    "zone/subject_raw": "Colonne e architravi - stuccature profonde",
+    "Date": "2012 - 2013",
+    "Author": "Esedra Restauri",
+    "supporto": "Architettonico",
+    "zone": [
+      "Colonne/Capitelli/Trabeazioni"
+    ],
+    "materials_used": [
+      "Calce idraulica / NHL"
+    ],
+    "technique_used": [],
+    "environmental_issue": [],
+    "working_issue": [],
+    "observations": [
+      "Stuccature realizzate con calce idraulica naturale addizionata con carbonato di calcio ventilato e polvere di marmo; utilizzo di armature con barre in vetroresina o filo di ottone."
+    ]
+  },
+  {
+    "record_id": "1626",
+    "Cantiere": "Cantiere di restauro: Restauro della Cappella funeraria a Niccolo Paganini , Architettonico",
+    "zone/subject_raw": "Colonne e architravi - tonalizzazione",
+    "Date": "2012 - 2013",
+    "Author": "Esedra Restauri",
+    "supporto": "Architettonico",
+    "zone": [
+      "Colonne/Capitelli/Trabeazioni"
+    ],
+    "materials_used": [
+      "Resine acriliche (Primal, Plexisol, microemulsioni acriliche)",
+      "Colori (acquerelli, tempere, smalti)"
+    ],
+    "technique_used": [
+      "Integrazione pittorica / reintegrazione cromatica",
+      "Ritocco / velatura / patinatura"
+    ],
+    "environmental_issue": [],
+    "working_issue": [],
+    "observations": [
+      "Tonalizzazione effettuata con coloranti universali in emulsione acquosa di resina acrilica applicati a piccoli spruzzi."
+    ]
+  },
+  {
+    "record_id": "1626",
+    "Cantiere": "Cantiere di restauro: Restauro della Cappella funeraria a Niccolo Paganini , Architettonico",
+    "zone/subject_raw": "Fregio e acroteri - pulitura e integrazione",
+    "Date": "2012 - 2013",
+    "Author": "Esedra Restauri",
+    "supporto": "Architettonico",
+    "zone": [
+      "Decorazioni dipinte"
+    ],
+    "materials_used": [],
+    "technique_used": [
+      "Pulitura con impacchi o gel",
+      "Integrazione pittorica / reintegrazione cromatica",
+      "Sigillature e stilatura giunti"
+    ],
+    "environmental_issue": [],
+    "working_issue": [],
+    "observations": [
+      "Operazioni di pulitura e integrazione effettuate con specifici materiali e tecniche."
+    ]
+  },
+  {
+    "record_id": "1626",
+    "Cantiere": "Cantiere di restauro: Restauro della Cappella funeraria a Niccolo Paganini , Architettonico",
+    "zone/subject_raw": "Colonne e architravi - protettivo finale",
+    "Date": "2012 - 2013",
+    "Author": "Esedra Restauri",
+    "supporto": "Architettonico",
+    "zone": [
+      "Colonne/Capitelli/Trabeazioni"
+    ],
+    "materials_used": [
+      "Protettivi silossanici/idrorepellenti a base silicio"
+    ],
+    "technique_used": [
+      "Protezione finale / verniciatura"
+    ],
+    "environmental_issue": [],
+    "working_issue": [],
+    "observations": [
+      "Applicazione di protettivo silossanico idrorepellente."
+    ]
+  }
+]

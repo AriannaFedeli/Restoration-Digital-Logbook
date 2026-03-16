@@ -1,0 +1,233 @@
+[
+  {
+    "record_id": "207",
+    "Cantiere": "Cantiere di restauro: Pisa - Chiesa di San Pietro in Vinculis, Architettonico",
+    "zone/subject_raw": "",
+    "Date": "10 ottobre 2001 - 11 ottobre 2001",
+    "Author": "ditta M.I.D.A. Srl Pistoia",
+    "supporto": "Architettonico",
+    "zone": [],
+    "materials_used": [],
+    "technique_used": [
+      "Pulitura con impacchi o gel"
+    ],
+    "environmental_issue": [],
+    "working_issue": [],
+    "observations": [
+      "Esame preliminare di pulitura chimica con impacco per valutare efficacia e risposta del substrato."
+    ]
+  },
+  {
+    "record_id": "207",
+    "Cantiere": "Cantiere di restauro: Pisa - Chiesa di San Pietro in Vinculis, Architettonico",
+    "zone/subject_raw": "",
+    "Date": "2004-05-01 00:00:00",
+    "Author": "ditta M.I.D.A. srl",
+    "supporto": "Architettonico",
+    "zone": [
+      "Elementi lapidei/Sculture lapidee"
+    ],
+    "materials_used": [],
+    "technique_used": [
+      "Pulitura laser / tecnologie avanzate"
+    ],
+    "environmental_issue": [],
+    "working_issue": [],
+    "observations": [
+      "È stato condotto un test preliminare di pulitura con modalità fisico-meccanica su superfici in calcare scuro mediante laser Nd:YAG."
+    ]
+  },
+  {
+    "record_id": "207",
+    "Cantiere": "Cantiere di restauro: Pisa - Chiesa di San Pietro in Vinculis, Architettonico",
+    "zone/subject_raw": "",
+    "Date": "2004-05-01 00:00:00",
+    "Author": "ditta M.I.D.A. srl",
+    "supporto": "Architettonico",
+    "zone": [],
+    "materials_used": [],
+    "technique_used": [
+      "Pulitura laser / tecnologie avanzate"
+    ],
+    "environmental_issue": [],
+    "working_issue": [],
+    "observations": [
+      "L'intervento ha utilizzato il laser Nd:YAG per una pulitura fisico-meccanica con taratura continua dei parametri energetici."
+    ]
+  },
+  {
+    "record_id": "207",
+    "Cantiere": "Cantiere di restauro: Pisa - Chiesa di San Pietro in Vinculis, Architettonico",
+    "zone/subject_raw": "",
+    "Date": "2004-06-01 00:00:00",
+    "Author": "Lidia Cinelli",
+    "supporto": "Architettonico",
+    "zone": [],
+    "materials_used": [
+      "Acqua deionizzata/demineralizzata/distillata",
+      "Supporti e protezioni temporanee (carta siliconata, fodere, tamponi, spugne)",
+      "Carta e carte tecniche (giapponese, velina, riso, assorbente)"
+    ],
+    "technique_used": [
+      "Pulitura chimica",
+      "Pulitura ad umido / lavaggio",
+      "Pulitura con impacchi o gel"
+    ],
+    "environmental_issue": [],
+    "working_issue": [],
+    "observations": [
+      "È stata eseguita una pre-pulitura con modalità chimica mediante tamponatura preliminare con acqua deionizzata."
+    ]
+  },
+  {
+    "record_id": "207",
+    "Cantiere": "Cantiere di restauro: Pisa - Chiesa di San Pietro in Vinculis, Architettonico",
+    "zone/subject_raw": "",
+    "Date": "2004-06-01 00:00:00",
+    "Author": "Lidia Cinelli",
+    "supporto": "Murale affrescato",
+    "zone": [
+      "Decorazioni dipinte"
+    ],
+    "materials_used": [
+      "Basi (soluzioni basiche/ammoniaca)",
+      "Carta e carte tecniche (giapponese, velina, riso, assorbente)"
+    ],
+    "technique_used": [
+      "Pulitura chimica",
+      "Pulitura meccanica"
+    ],
+    "environmental_issue": [],
+    "working_issue": [],
+    "observations": [
+      "Applicazione di cristalli di ammonio con supporto di carta giapponese per pulitura selettiva"
+    ]
+  },
+  {
+    "record_id": "207",
+    "Cantiere": "Cantiere di restauro: Pisa - Chiesa di San Pietro in Vinculis, Architettonico",
+    "zone/subject_raw": "",
+    "Date": "2006-04-01 00:00:00",
+    "Author": "ditta M.I.D.A srl Pistoia",
+    "supporto": "Architettonico",
+    "zone": [
+      "Colonne/Capitelli/Trabeazioni"
+    ],
+    "materials_used": [],
+    "technique_used": [
+      "Pulitura laser / tecnologie avanzate"
+    ],
+    "environmental_issue": [],
+    "working_issue": [],
+    "observations": [
+      "Esecuzione di un saggio di pulitura con laser Nd:YAG su diverse morfologie per valutare l'efficacia della rimozione dei depositi."
+    ]
+  },
+  {
+    "record_id": "207",
+    "Cantiere": "Cantiere di restauro: Pisa - Chiesa di San Pietro in Vinculis, Architettonico",
+    "zone/subject_raw": "",
+    "Date": "2006-04-01 00:00:00",
+    "Author": "ditta M.I.D.A srl Pistoia",
+    "supporto": "Architettonico",
+    "zone": [],
+    "materials_used": [],
+    "technique_used": [
+      "Pulitura laser / tecnologie avanzate"
+    ],
+    "environmental_issue": [],
+    "working_issue": [],
+    "observations": [
+      "Verifica dei tempi di esposizione e dei parametri operativi del laser Nd:YAG con modalità fisico-meccanica."
+    ]
+  },
+  {
+    "record_id": "207",
+    "Cantiere": "Cantiere di restauro: Pisa - Chiesa di San Pietro in Vinculis, Architettonico",
+    "zone/subject_raw": "",
+    "Date": "febbraio 2002 - marzo 2002",
+    "Author": "ditta M.I.D.A. Srl Pistoia",
+    "supporto": "Architettonico",
+    "zone": [],
+    "materials_used": [
+      "Acqua (generica)"
+    ],
+    "technique_used": [
+      "Pulitura ad umido / lavaggio",
+      "Rimozione di depositi, scialbature o vernici"
+    ],
+    "environmental_issue": [],
+    "working_issue": [],
+    "observations": [
+      "L'intervento preliminare ha utilizzato acqua nebulizzata per ridurre l'accumulo incoerente dei depositi superficiali."
+    ]
+  },
+  {
+    "record_id": "207",
+    "Cantiere": "Cantiere di restauro: Pisa - Chiesa di San Pietro in Vinculis, Architettonico",
+    "zone/subject_raw": "",
+    "Date": "febbraio 2002 - marzo 2002",
+    "Author": "ditta M.I.D.A. Srl Pistoia",
+    "supporto": "Architettonico",
+    "zone": [
+      "Elementi lapidei/Sculture lapidee"
+    ],
+    "materials_used": [
+      "Metalli non ferrosi (rame, ottone, bronzo, alluminio, piombo)"
+    ],
+    "technique_used": [
+      "Pulitura meccanica"
+    ],
+    "environmental_issue": [],
+    "working_issue": [
+      "Pulitura difficile o non controllabile"
+    ],
+    "observations": [
+      "L'intervento di pulitura è stato condotto in modo localizzato e controllato per minimizzare l'abrasione del supporto."
+    ]
+  },
+  {
+    "record_id": "207",
+    "Cantiere": "Cantiere di restauro: Pisa - Chiesa di San Pietro in Vinculis, Architettonico",
+    "zone/subject_raw": "Il pavimento comatesco",
+    "Date": "2007-03-01 00:00:00",
+    "Author": "ditta M.I.D.A srl Pistoia",
+    "supporto": "",
+    "zone": [
+      "Pavimenti/Solai"
+    ],
+    "materials_used": [
+      "Acqua (generica)"
+    ],
+    "technique_used": [
+      "Pulitura ad umido / lavaggio",
+      "Rimozione di depositi, scialbature o vernici"
+    ],
+    "environmental_issue": [],
+    "working_issue": [],
+    "observations": [
+      "È stato effettuato un intervento di pulitura preliminare mediante applicazione a spruzzo di acqua per rimuovere depositi incoerenti."
+    ]
+  },
+  {
+    "record_id": "207",
+    "Cantiere": "Cantiere di restauro: Pisa - Chiesa di San Pietro in Vinculis, Architettonico",
+    "zone/subject_raw": "Il pavimento comatesco",
+    "Date": "2007-03-01 00:00:00",
+    "Author": "ditta M.I.D.A srl Pistoia",
+    "supporto": "Pavimentale",
+    "zone": [
+      "Pavimenti/Solai"
+    ],
+    "materials_used": [],
+    "technique_used": [
+      "Pulitura meccanica",
+      "Pulitura ad umido / lavaggio"
+    ],
+    "environmental_issue": [],
+    "working_issue": [],
+    "observations": [
+      "È stato eseguito lo scavo per il recupero del piano di calpestio originario."
+    ]
+  }
+]

@@ -1,0 +1,123 @@
+[
+  {
+    "record_id": "711",
+    "Cantiere": "Cantiere di restauro: AQ-L'Aquila-Coppito Chiesa S. Pietro Apostolo- affreschi, Storico artistico",
+    "zone/subject_raw": "",
+    "Date": "1 dicembre 1987 - 24 dicembre 1987",
+    "Author": "Pietro Dalla Nave",
+    "supporto": "Murale affrescato",
+    "zone": [
+      "Murature"
+    ],
+    "materials_used": [
+      "Gesso e stucchi gessosi",
+      "Cemento/calcestruzzo/cementite"
+    ],
+    "technique_used": [
+      "Pulitura meccanica"
+    ],
+    "environmental_issue": [],
+    "working_issue": [],
+    "observations": [
+      "Rimozione meccanica delle stuccature in gesso e cemento.",
+      "Le sbordature di gesso sono state conservate vicino alle lacune per non compromettere la superficie pittorica."
+    ]
+  },
+  {
+    "record_id": "711",
+    "Cantiere": "Cantiere di restauro: AQ-L'Aquila-Coppito Chiesa S. Pietro Apostolo- affreschi, Storico artistico",
+    "zone/subject_raw": "",
+    "Date": "1 dicembre 1987 - 24 dicembre 1987",
+    "Author": "Pietro Dalla Nave",
+    "supporto": "Murale affrescato",
+    "zone": [
+      "Murature"
+    ],
+    "materials_used": [
+      "Resine acriliche (Primal, Plexisol, microemulsioni acriliche)"
+    ],
+    "technique_used": [
+      "Consolidamento per iniezione / impregnazione"
+    ],
+    "environmental_issue": [
+      "presenza di acqua che causa solubilizzazione dei solfati"
+    ],
+    "working_issue": [
+      "Adesione/coesione insufficiente"
+    ],
+    "observations": [
+      "Trattamento di consolidamento per iniezione con resina acrilica per difetti di adesione dell’arriccio e dell’intonaco.",
+      "L’utilizzo di resina pura evita l’apporto di acqua e la conseguente solubilizzazione dei solfati."
+    ]
+  },
+  {
+    "record_id": "711",
+    "Cantiere": "Cantiere di restauro: AQ-L'Aquila-Coppito Chiesa S. Pietro Apostolo- affreschi, Storico artistico",
+    "zone/subject_raw": "",
+    "Date": "1 dicembre 1987 - 24 dicembre 1987",
+    "Author": "Pietro Dalla Nave",
+    "supporto": "Murario",
+    "zone": [
+      "Murature"
+    ],
+    "materials_used": [],
+    "technique_used": [
+      "Riadesione / fissaggio pellicola pittorica"
+    ],
+    "environmental_issue": [],
+    "working_issue": [
+      "Distacco/disancoraggio"
+    ],
+    "observations": [
+      "Riadesione dei frammenti di intonaco su supporto murario.",
+      "I frammenti erano instabili e trattenuti solo da stuccature di gesso."
+    ]
+  },
+  {
+    "record_id": "711",
+    "Cantiere": "Cantiere di restauro: AQ-L'Aquila-Coppito Chiesa S. Pietro Apostolo- affreschi, Storico artistico",
+    "zone/subject_raw": "",
+    "Date": "1 dicembre 1987 - 24 dicembre 1987",
+    "Author": "Pietro Dalla Nave",
+    "supporto": "",
+    "zone": [],
+    "materials_used": [
+      "Calce idraulica / NHL",
+      "Inerti e sabbie"
+    ],
+    "technique_used": [
+      "Stuccatura / integrazione con malte"
+    ],
+    "environmental_issue": [],
+    "working_issue": [
+      "Lacune/perdite di materiale",
+      "Fessure/fenditure/fratture/rotture"
+    ],
+    "observations": [
+      "Sono state usate malta a base di calce idraulica e sabbia per riempire lacune profonde e fessurazioni."
+    ]
+  },
+  {
+    "record_id": "711",
+    "Cantiere": "Cantiere di restauro: AQ-L'Aquila-Coppito Chiesa S. Pietro Apostolo- affreschi, Storico artistico",
+    "zone/subject_raw": "",
+    "Date": "1 dicembre 1987 - 24 dicembre 1987",
+    "Author": "Pietro Dalla Nave",
+    "supporto": "",
+    "zone": [],
+    "materials_used": [
+      "Calce idraulica / NHL",
+      "Inerti e sabbie"
+    ],
+    "technique_used": [
+      "Stuccatura / integrazione con malte"
+    ],
+    "environmental_issue": [],
+    "working_issue": [
+      "Lacune/perdite di materiale"
+    ],
+    "observations": [
+      "Stuccatura delle lacune minori con malta di calce idraulica e sabbia calcarea."
+    ]
+  }
+]

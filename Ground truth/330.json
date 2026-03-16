@@ -1,0 +1,149 @@
+[
+  {
+    "record_id": "330",
+    "Cantiere": "Cantiere di restauro: AQ_Fossa_S.Maria ad Cryptas_affreschi della I e III campata III registro_lato destro, Storico artistico",
+    "zone/subject_raw": "",
+    "Date": "22 novembre 1991 - 5 giugno 1992",
+    "Author": "Pietro dalla Nave",
+    "supporto": "Murale affrescato",
+    "zone": [
+      "Murature"
+    ],
+    "materials_used": [],
+    "technique_used": [
+      "Pulitura meccanica"
+    ],
+    "environmental_issue": [],
+    "working_issue": [],
+    "observations": [
+      "Rimozione meccanica di malte e stuccature in gesso con bisturi, scalpelli e martellina; recupero dei frammenti di intonaco originale sottostante."
+    ]
+  },
+  {
+    "record_id": "330",
+    "Cantiere": "Cantiere di restauro: AQ_Fossa_S.Maria ad Cryptas_affreschi della I e III campata III registro_lato destro, Storico artistico",
+    "zone/subject_raw": "",
+    "Date": "22 novembre 1991 - 5 giugno 1992",
+    "Author": "Pietro dalla Nave",
+    "supporto": "",
+    "zone": [
+      "Murature"
+    ],
+    "materials_used": [
+      "Calce idraulica / NHL",
+      "Inerti e sabbie",
+      "Malte a base calce (premiscelate o tradizionali)"
+    ],
+    "technique_used": [
+      "Stuccatura / integrazione con malte"
+    ],
+    "environmental_issue": [],
+    "working_issue": [
+      "Lacune/perdite di materiale"
+    ],
+    "observations": [
+      "Intervento di risanamento dell’arriccio e dell’intonaco dipinto su murature, con malta a base di calce idraulica e sabbia fine, e stuccatura delle lacune con malta compatibile."
+    ]
+  },
+  {
+    "record_id": "330",
+    "Cantiere": "Cantiere di restauro: AQ_Fossa_S.Maria ad Cryptas_affreschi della I e III campata III registro_lato destro, Storico artistico",
+    "zone/subject_raw": "",
+    "Date": "22 novembre 1991 - 5 giugno 1992",
+    "Author": "Pietro dalla Nave",
+    "supporto": "Murale affrescato",
+    "zone": [
+      "Murature"
+    ],
+    "materials_used": [
+      "Acqua deionizzata/demineralizzata/distillata"
+    ],
+    "technique_used": [
+      "Pulitura con impacchi o gel",
+      "Pulitura meccanica"
+    ],
+    "environmental_issue": [
+      "efflorescenze saline"
+    ],
+    "working_issue": [],
+    "observations": [
+      "Rimozione delle efflorescenze saline con impacchi di carta imbevuti di acqua deionizzata; successiva spazzolatura meccanica controllata."
+    ]
+  },
+  {
+    "record_id": "330",
+    "Cantiere": "Cantiere di restauro: AQ_Fossa_S.Maria ad Cryptas_affreschi della I e III campata III registro_lato destro, Storico artistico",
+    "zone/subject_raw": "",
+    "Date": "22 novembre 1991 - 5 giugno 1992",
+    "Author": "Pietro dalla Nave",
+    "supporto": "Murale affrescato",
+    "zone": [
+      "Decorazioni dipinte"
+    ],
+    "materials_used": [
+      "Acqua deionizzata/demineralizzata/distillata",
+      "Soluzioni acquose (generiche)"
+    ],
+    "technique_used": [
+      "Pulitura meccanica",
+      "Rimozione di depositi, scialbature o vernici"
+    ],
+    "environmental_issue": [],
+    "working_issue": [],
+    "observations": [
+      "Pulitura della superficie pittorica eseguita con spugne naturali e acqua deionizzata.",
+      "Rimozione delle riprese a tempera effettuata con bisturi e solventi leggeri a base acquosa."
+    ]
+  },
+  {
+    "record_id": "330",
+    "Cantiere": "Cantiere di restauro: AQ_Fossa_S.Maria ad Cryptas_affreschi della I e III campata III registro_lato destro, Storico artistico",
+    "zone/subject_raw": "",
+    "Date": "22 novembre 1991 - 5 giugno 1992",
+    "Author": "Pietro dalla Nave",
+    "supporto": "Murale affrescato",
+    "zone": [
+      "Murature",
+      "Decorazioni dipinte"
+    ],
+    "materials_used": [
+      "Resine acriliche (Primal, Plexisol, microemulsioni acriliche)",
+      "Calce (grassello, calce dolce, calce storica)"
+    ],
+    "technique_used": [
+      "Consolidamento per iniezione / impregnazione"
+    ],
+    "environmental_issue": [],
+    "working_issue": [
+      "Adesione/coesione insufficiente"
+    ],
+    "observations": [
+      "Consolidamento della pellicola pittorica mediante infiltrazioni localizzate di resina acrilica o calce liquida.",
+      "Intervento volto a risolvere difetti di coesione della pittura su superfici affrescate."
+    ]
+  },
+  {
+    "record_id": "330",
+    "Cantiere": "Cantiere di restauro: AQ_Fossa_S.Maria ad Cryptas_affreschi della I e III campata III registro_lato destro, Storico artistico",
+    "zone/subject_raw": "",
+    "Date": "22 novembre 1991 - 5 giugno 1992",
+    "Author": "Pietro dalla Nave",
+    "supporto": "",
+    "zone": [
+      "Decorazioni dipinte"
+    ],
+    "materials_used": [
+      "Acqua (generica)",
+      "Pigmenti e terre coloranti"
+    ],
+    "technique_used": [
+      "Integrazione pittorica / reintegrazione cromatica",
+      "Ritocco / velatura / patinatura"
+    ],
+    "environmental_issue": [],
+    "working_issue": [],
+    "observations": [
+      "Reintegrazione pittorica a velatura con colori ad acquerello e pigmenti minerali legati con gomma arabica."
+    ]
+  }
+]

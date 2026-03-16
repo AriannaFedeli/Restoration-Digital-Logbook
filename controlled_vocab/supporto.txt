@@ -1,0 +1,17 @@
+[
+  "Architettonico",
+  "Murario",
+  "Scultoreo",
+  "Decorato",
+  "Archeologico / stratigrafico",
+  "Murale affrescato",
+  "A cupola",
+  "Ad arco",
+  "Pavimentale",
+  "Documentario",
+  "Voltato",
+  "Capitello",
+  "Cartaceo",
+  "Fotografico",
+  "Colonna"
+]

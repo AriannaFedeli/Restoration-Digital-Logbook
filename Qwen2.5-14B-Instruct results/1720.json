@@ -1,0 +1,43 @@
+[
+  {
+    "record_id": "1720",
+    "Cantiere": "Cantiere di restauro: Lapideo classico, Storico artistico",
+    "zone/subject_raw": "Lapideo classico",
+    "Date": "Intervento 2013",
+    "Author": "Elena Cristoferi",
+    "supporto": "",
+    "zone": [],
+    "materials_used": [
+      "Resine poliammidiche/altre sintetiche"
+    ],
+    "technique_used": [
+      "Aspirazione / spolveratura",
+      "Pulitura meccanica"
+    ],
+    "environmental_issue": [],
+    "working_issue": [],
+    "observations": [
+      "La resina sintetica poliestere utilizzata era in eccesso."
+    ]
+  },
+  {
+    "record_id": "1720",
+    "Cantiere": "Cantiere di restauro: Lapideo classico, Storico artistico",
+    "zone/subject_raw": "Lapideo classico",
+    "Date": "Intervento 2013",
+    "Author": "Elena Cristoferi",
+    "supporto": "",
+    "zone": [],
+    "materials_used": [
+      "Acqua (generica)"
+    ],
+    "technique_used": [
+      "Pulitura ad umido / lavaggio"
+    ],
+    "environmental_issue": [],
+    "working_issue": [],
+    "observations": [
+      "Pulitura effettuata con acqua dell'acquedotto e pennelli a setola morbida."
+    ]
+  }
+]

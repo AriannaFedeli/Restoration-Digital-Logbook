@@ -1,0 +1,82 @@
+[
+  {
+    "record_id": "1763",
+    "Cantiere": "1",
+    "zone/subject_raw": "cappella",
+    "Date": "2013",
+    "Author": "Arch. Giovanni Signani",
+    "supporto": "",
+    "zone": [
+      "Cappelle"
+    ],
+    "materials_used": [],
+    "technique_used": [],
+    "environmental_issue": [],
+    "working_issue": [],
+    "observations": [
+      "Ripristino dell'orizzontamento nella cappella."
+    ]
+  },
+  {
+    "record_id": "1763",
+    "Cantiere": "1",
+    "zone/subject_raw": "cappella",
+    "Date": "2013",
+    "Author": "Arch. Giovanni Signani",
+    "supporto": "",
+    "zone": [
+      "Cappelle"
+    ],
+    "materials_used": [
+      "Metalli ferrosi (ferro, acciaio, zincato)"
+    ],
+    "technique_used": [],
+    "environmental_issue": [],
+    "working_issue": [],
+    "observations": [
+      "Costruzione del solaio con travature principali a piatti saldati e secondarie in metallo."
+    ]
+  },
+  {
+    "record_id": "1763",
+    "Cantiere": "1",
+    "zone/subject_raw": "cappella",
+    "Date": "2013",
+    "Author": "Arch. Giovanni Signani",
+    "supporto": "Murario",
+    "zone": [
+      "Volte"
+    ],
+    "materials_used": [
+      "Cemento/calcestruzzo/cementite",
+      "Reti e armature (rete elettrosaldata, reti in fibra, Mapegrid)"
+    ],
+    "technique_used": [],
+    "environmental_issue": [],
+    "working_issue": [],
+    "observations": [
+      "Getto di calcestruzzo con rete elettro saldata di 9 cm sagomato in modo da dare la sensazione che sia una volta a crociera."
+    ]
+  },
+  {
+    "record_id": "1763",
+    "Cantiere": "1",
+    "zone/subject_raw": "cappella",
+    "Date": "2013",
+    "Author": "Arch. Giovanni Signani",
+    "supporto": "",
+    "zone": [
+      "Cappelle",
+      "Pavimenti/Solai"
+    ],
+    "materials_used": [
+      "Laterizio/cotto/mattoni"
+    ],
+    "technique_used": [],
+    "environmental_issue": [],
+    "working_issue": [],
+    "observations": [
+      "Posa di pavimento in cotto sopra al getto."
+    ]
+  }
+]

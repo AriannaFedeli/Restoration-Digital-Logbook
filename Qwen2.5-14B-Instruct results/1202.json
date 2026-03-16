@@ -1,0 +1,490 @@
+[
+  {
+    "record_id": "1202",
+    "Cantiere": "Cantiere di restauro: P. M. Ferrari - \"Guillaume du Tillot\" - Olio su tela - Inv. 292, Storico artistico",
+    "zone/subject_raw": "Cornice lignea",
+    "Date": "2002",
+    "Author": "Dott.ssa Marina Ginanni",
+    "supporto": "",
+    "zone": [],
+    "materials_used": [],
+    "technique_used": [],
+    "environmental_issue": [],
+    "working_issue": [],
+    "observations": [
+      "MODEL_OUTPUT_INVALID: supporto not allowed: Legno (massello, assito, multistrato, compensati)",
+      "RAW: {\"supporto\": \"Legno (massello, assito, multistrato, compensati)\", \"zone\": [], \"materials_used\": [], \"technique_used\": [\"Trattamenti biocidi / disinfestazione\"], \"environmental_issue\": [\"attacco xilofago\"], \"working_issue\": [], \"observations\": [\"Disinfestazione effettuata sulla cornice lignea.\"]}"
+    ]
+  },
+  {
+    "record_id": "1202",
+    "Cantiere": "Cantiere di restauro: P. M. Ferrari - \"Guillaume du Tillot\" - Olio su tela - Inv. 292, Storico artistico",
+    "zone/subject_raw": "Cornice lignea",
+    "Date": "2002",
+    "Author": "Dott.ssa Marina Ginanni",
+    "supporto": "Cartaceo",
+    "zone": [],
+    "materials_used": [],
+    "technique_used": [
+      "Pulitura meccanica"
+    ],
+    "environmental_issue": [],
+    "working_issue": [],
+    "observations": [
+      "Esecuzione di prove di pulitura preliminari."
+    ]
+  },
+  {
+    "record_id": "1202",
+    "Cantiere": "Cantiere di restauro: P. M. Ferrari - \"Guillaume du Tillot\" - Olio su tela - Inv. 292, Storico artistico",
+    "zone/subject_raw": "Cornice lignea",
+    "Date": "2002",
+    "Author": "Dott.ssa Marina Ginanni",
+    "supporto": "",
+    "zone": [],
+    "materials_used": [],
+    "technique_used": [],
+    "environmental_issue": [],
+    "working_issue": [],
+    "observations": [
+      "MODEL_OUTPUT_INVALID: supporto not allowed: Legno (massello, assito, multistrato, compensati)",
+      "RAW: {\"supporto\": \"Legno (massello, assito, multistrato, compensati)\", \"zone\": [], \"materials_used\": [], \"technique_used\": [\"Pulitura meccanica\"], \"environmental_issue\": [], \"working_issue\": [], \"observations\": [\"Rimozione a bisturi dei vecchi stucchi.\"]}"
+    ]
+  },
+  {
+    "record_id": "1202",
+    "Cantiere": "Cantiere di restauro: P. M. Ferrari - \"Guillaume du Tillot\" - Olio su tela - Inv. 292, Storico artistico",
+    "zone/subject_raw": "Cornice lignea",
+    "Date": "2002",
+    "Author": "Dott.ssa Marina Ginanni",
+    "supporto": "Cartaceo",
+    "zone": [],
+    "materials_used": [],
+    "technique_used": [
+      "Pulitura meccanica"
+    ],
+    "environmental_issue": [],
+    "working_issue": [],
+    "observations": [
+      "Pulitura effettuata sul bordo inferiore dell'olio su tela."
+    ]
+  },
+  {
+    "record_id": "1202",
+    "Cantiere": "Cantiere di restauro: P. M. Ferrari - \"Guillaume du Tillot\" - Olio su tela - Inv. 292, Storico artistico",
+    "zone/subject_raw": "Cornice lignea",
+    "Date": "2002",
+    "Author": "Dott.ssa Marina Ginanni",
+    "supporto": "Cartaceo",
+    "zone": [],
+    "materials_used": [],
+    "technique_used": [],
+    "environmental_issue": [],
+    "working_issue": [],
+    "observations": [
+      "Rimozione dei pezzi di decorazione a pastiglia ricollocati erroneamente sul lato inferiore."
+    ]
+  },
+  {
+    "record_id": "1202",
+    "Cantiere": "Cantiere di restauro: P. M. Ferrari - \"Guillaume du Tillot\" - Olio su tela - Inv. 292, Storico artistico",
+    "zone/subject_raw": "Cornice lignea",
+    "Date": "2002",
+    "Author": "Dott.ssa Marina Ginanni",
+    "supporto": "",
+    "zone": [],
+    "materials_used": [],
+    "technique_used": [],
+    "environmental_issue": [],
+    "working_issue": [],
+    "observations": [
+      "MODEL_OUTPUT_INVALID: supporto not allowed: Legno (massello, assito, multistrato, compensati)",
+      "RAW: {\"supporto\": \"Legno (massello, assito, multistrato, compensati)\", \"zone\": [], \"materials_used\": [], \"technique_used\": [], \"environmental_issue\": [], \"working_issue\": [], \"observations\": [\"Ricollocazione dei pezzi di decorazione in posizione corretta.\"]}"
+    ]
+  },
+  {
+    "record_id": "1202",
+    "Cantiere": "Cantiere di restauro: P. M. Ferrari - \"Guillaume du Tillot\" - Olio su tela - Inv. 292, Storico artistico",
+    "zone/subject_raw": "Cornice lignea",
+    "Date": "2002",
+    "Author": "Dott.ssa Marina Ginanni",
+    "supporto": "Cartaceo",
+    "zone": [],
+    "materials_used": [],
+    "technique_used": [],
+    "environmental_issue": [],
+    "working_issue": [],
+    "observations": [
+      "Fermatura del lato superiore."
+    ]
+  },
+  {
+    "record_id": "1202",
+    "Cantiere": "Cantiere di restauro: P. M. Ferrari - \"Guillaume du Tillot\" - Olio su tela - Inv. 292, Storico artistico",
+    "zone/subject_raw": "Cornice lignea",
+    "Date": "2002",
+    "Author": "Dott.ssa Marina Ginanni",
+    "supporto": "Cartaceo",
+    "zone": [],
+    "materials_used": [],
+    "technique_used": [],
+    "environmental_issue": [],
+    "working_issue": [
+      "Sollevamenti della pellicola pittorica"
+    ],
+    "observations": [
+      "Fermatura dei sollevamenti della campitura color ocra della gola."
+    ]
+  },
+  {
+    "record_id": "1202",
+    "Cantiere": "Cantiere di restauro: P. M. Ferrari - \"Guillaume du Tillot\" - Olio su tela - Inv. 292, Storico artistico",
+    "zone/subject_raw": "Cornice lignea",
+    "Date": "2002",
+    "Author": "Dott.ssa Marina Ginanni",
+    "supporto": "Cartaceo",
+    "zone": [],
+    "materials_used": [],
+    "technique_used": [
+      "Pulitura meccanica"
+    ],
+    "environmental_issue": [],
+    "working_issue": [],
+    "observations": [
+      "Pulitura effettuata sul retro del legno."
+    ]
+  },
+  {
+    "record_id": "1202",
+    "Cantiere": "Cantiere di restauro: P. M. Ferrari - \"Guillaume du Tillot\" - Olio su tela - Inv. 292, Storico artistico",
+    "zone/subject_raw": "Cornice lignea",
+    "Date": "2002",
+    "Author": "Dott.ssa Marina Ginanni",
+    "supporto": "",
+    "zone": [],
+    "materials_used": [],
+    "technique_used": [
+      "Stuccatura / integrazione con malte"
+    ],
+    "environmental_issue": [
+      "attacco xilofago"
+    ],
+    "working_issue": [],
+    "observations": [
+      "Intervento di stuccatura sul retro dei fori di sfarfallamento dei tarli."
+    ]
+  },
+  {
+    "record_id": "1202",
+    "Cantiere": "Cantiere di restauro: P. M. Ferrari - \"Guillaume du Tillot\" - Olio su tela - Inv. 292, Storico artistico",
+    "zone/subject_raw": "Cornice lignea",
+    "Date": "2002",
+    "Author": "Dott.ssa Marina Ginanni",
+    "supporto": "Cartaceo",
+    "zone": [],
+    "materials_used": [],
+    "technique_used": [],
+    "environmental_issue": [],
+    "working_issue": [
+      "Fessure/fenditure/fratture/rotture"
+    ],
+    "observations": [
+      "Intervento rivolto alla chiusura di fenditure sul retro del telaio."
+    ]
+  },
+  {
+    "record_id": "1202",
+    "Cantiere": "Cantiere di restauro: P. M. Ferrari - \"Guillaume du Tillot\" - Olio su tela - Inv. 292, Storico artistico",
+    "zone/subject_raw": "Cornice lignea",
+    "Date": "2002",
+    "Author": "Dott.ssa Marina Ginanni",
+    "supporto": "",
+    "zone": [],
+    "materials_used": [],
+    "technique_used": [],
+    "environmental_issue": [],
+    "working_issue": [],
+    "observations": [
+      "MODEL_OUTPUT_INVALID: supporto not allowed: Legno (massello, assito, multistrato, compensati)",
+      "RAW: {\"supporto\": \"Legno (massello, assito, multistrato, compensati)\", \"zone\": [], \"materials_used\": [], \"technique_used\": [\"Stuccatura / integrazione con malte\"], \"environmental_issue\": [], \"working_issue\": [], \"observations\": [\"Intervento di stuccatura delle lacune di preparazione e doratura effettuato.\"]}"
+    ]
+  },
+  {
+    "record_id": "1202",
+    "Cantiere": "Cantiere di restauro: P. M. Ferrari - \"Guillaume du Tillot\" - Olio su tela - Inv. 292, Storico artistico",
+    "zone/subject_raw": "Cornice lignea",
+    "Date": "2002",
+    "Author": "Dott.ssa Marina Ginanni",
+    "supporto": "",
+    "zone": [],
+    "materials_used": [],
+    "technique_used": [],
+    "environmental_issue": [],
+    "working_issue": [],
+    "observations": [
+      "MODEL_OUTPUT_INVALID: supporto not allowed: Legno (massello, assito, multistrato, compensati)",
+      "RAW: {\"supporto\": \"Legno (massello, assito, multistrato, compensati)\", \"zone\": [], \"materials_used\": [], \"technique_used\": [], \"environmental_issue\": [], \"working_issue\": [], \"observations\": [\"Ricostruzione dell’elemento decorativo ad ovuli mancante nel lato inferiore.\"]}"
+    ]
+  },
+  {
+    "record_id": "1202",
+    "Cantiere": "Cantiere di restauro: P. M. Ferrari - \"Guillaume du Tillot\" - Olio su tela - Inv. 292, Storico artistico",
+    "zone/subject_raw": "Cornice lignea",
+    "Date": "2002",
+    "Author": "Dott.ssa Marina Ginanni",
+    "supporto": "Cartaceo",
+    "zone": [],
+    "materials_used": [],
+    "technique_used": [],
+    "environmental_issue": [],
+    "working_issue": [],
+    "observations": [
+      "Completamento dei piccoli spazi di collegamento tra il calco e le parti originali della cornice."
+    ]
+  },
+  {
+    "record_id": "1202",
+    "Cantiere": "Cantiere di restauro: P. M. Ferrari - \"Guillaume du Tillot\" - Olio su tela - Inv. 292, Storico artistico",
+    "zone/subject_raw": "Cornice lignea",
+    "Date": "2002",
+    "Author": "Dott.ssa Marina Ginanni",
+    "supporto": "",
+    "zone": [],
+    "materials_used": [],
+    "technique_used": [
+      "Pulitura meccanica"
+    ],
+    "environmental_issue": [],
+    "working_issue": [],
+    "observations": [
+      "Operazioni di rasatura e rifinitura degli stucchi effettuate."
+    ]
+  },
+  {
+    "record_id": "1202",
+    "Cantiere": "Cantiere di restauro: P. M. Ferrari - \"Guillaume du Tillot\" - Olio su tela - Inv. 292, Storico artistico",
+    "zone/subject_raw": "Cornice lignea",
+    "Date": "2002",
+    "Author": "Dott.ssa Marina Ginanni",
+    "supporto": "",
+    "zone": [],
+    "materials_used": [],
+    "technique_used": [],
+    "environmental_issue": [],
+    "working_issue": [],
+    "observations": [
+      "MODEL_OUTPUT_INVALID: supporto not allowed: Legno (massello, assito, multistrato, compensati)",
+      "RAW: {\"supporto\": \"Legno (massello, assito, multistrato, compensati)\", \"zone\": [], \"materials_used\": [], \"technique_used\": [], \"environmental_issue\": [\"infestazioni biologiche (tarli)\"], \"working_issue\": [\"Lacune/perdite di materiale\"], \"observations\": [\"Intervento per la chiusura dei fori dei tarli e degli angoli nella parte dorata della cornice.\"]}"
+    ]
+  },
+  {
+    "record_id": "1202",
+    "Cantiere": "Cantiere di restauro: P. M. Ferrari - \"Guillaume du Tillot\" - Olio su tela - Inv. 292, Storico artistico",
+    "zone/subject_raw": "Cornice lignea",
+    "Date": "2002",
+    "Author": "Dott.ssa Marina Ginanni",
+    "supporto": "Cartaceo",
+    "zone": [],
+    "materials_used": [],
+    "technique_used": [
+      "Ritocco / velatura / patinatura"
+    ],
+    "environmental_issue": [],
+    "working_issue": [],
+    "observations": [
+      "Ritocco delle stuccature e velatura delle abrasioni."
+    ]
+  },
+  {
+    "record_id": "1202",
+    "Cantiere": "Cantiere di restauro: P. M. Ferrari - \"Guillaume du Tillot\" - Olio su tela - Inv. 292, Storico artistico",
+    "zone/subject_raw": "Cornice lignea",
+    "Date": "2002",
+    "Author": "Dott.ssa Marina Ginanni",
+    "supporto": "Cartaceo",
+    "zone": [],
+    "materials_used": [
+      "Oro/dorature/porporina"
+    ],
+    "technique_used": [
+      "Integrazione pittorica / reintegrazione cromatica"
+    ],
+    "environmental_issue": [],
+    "working_issue": [],
+    "observations": [
+      "Doratura delle nuove parti integrate."
+    ]
+  },
+  {
+    "record_id": "1202",
+    "Cantiere": "Cantiere di restauro: P. M. Ferrari - \"Guillaume du Tillot\" - Olio su tela - Inv. 292, Storico artistico",
+    "zone/subject_raw": "Cornice lignea",
+    "Date": "2002",
+    "Author": "Dott.ssa Marina Ginanni",
+    "supporto": "",
+    "zone": [],
+    "materials_used": [],
+    "technique_used": [],
+    "environmental_issue": [],
+    "working_issue": [],
+    "observations": [
+      "MODEL_OUTPUT_INVALID: supporto not allowed: Legno (massello, assito, multistrato, compensati)",
+      "RAW: {\"supporto\": \"Legno (massello, assito, multistrato, compensati)\", \"zone\": [], \"materials_used\": [], \"technique_used\": [], \"environmental_issue\": [], \"working_issue\": [], \"observations\": [\"Invecchiamento della doratura per armonizzazione cromatica.\"]}"
+    ]
+  },
+  {
+    "record_id": "1202",
+    "Cantiere": "Cantiere di restauro: P. M. Ferrari - \"Guillaume du Tillot\" - Olio su tela - Inv. 292, Storico artistico",
+    "zone/subject_raw": "Cornice lignea",
+    "Date": "2002",
+    "Author": "Dott.ssa Marina Ginanni",
+    "supporto": "Cartaceo",
+    "zone": [],
+    "materials_used": [
+      "Cere (emulsioni cerose, cere ossidate)"
+    ],
+    "technique_used": [
+      "Protezione finale / verniciatura"
+    ],
+    "environmental_issue": [],
+    "working_issue": [],
+    "observations": [
+      "Applicazione di cera protettiva."
+    ]
+  },
+  {
+    "record_id": "1202",
+    "Cantiere": "Cantiere di restauro: P. M. Ferrari - \"Guillaume du Tillot\" - Olio su tela - Inv. 292, Storico artistico",
+    "zone/subject_raw": "Cornice lignea",
+    "Date": "2002",
+    "Author": "Dott.ssa Marina Ginanni",
+    "supporto": "",
+    "zone": [],
+    "materials_used": [],
+    "technique_used": [],
+    "environmental_issue": [],
+    "working_issue": [],
+    "observations": [
+      "MODEL_OUTPUT_INVALID: supporto not allowed: Legno (massello, assito, multistrato, compensati)",
+      "RAW: {\"supporto\": \"Legno (massello, assito, multistrato, compensati)\", \"zone\": [], \"materials_used\": [\"Vernici finali/retoucher (gloss/matt)\"], \"technique_used\": [\"Protezione finale / verniciatura\"], \"environmental_issue\": [], \"working_issue\": [], \"observations\": [\"Applicazione a pennello di vernice protettiva.\"]}"
+    ]
+  },
+  {
+    "record_id": "1202",
+    "Cantiere": "Cantiere di restauro: P. M. Ferrari - \"Guillaume du Tillot\" - Olio su tela - Inv. 292, Storico artistico",
+    "zone/subject_raw": "Cornice lignea",
+    "Date": "2002",
+    "Author": "Dott.ssa Marina Ginanni",
+    "supporto": "Cartaceo",
+    "zone": [],
+    "materials_used": [],
+    "technique_used": [],
+    "environmental_issue": [],
+    "working_issue": [
+      "Infestazioni biologiche (tarli)"
+    ],
+    "observations": [
+      "Ritocco dei fori dei tarli e dell’angolo superiore destro."
+    ]
+  },
+  {
+    "record_id": "1202",
+    "Cantiere": "Cantiere di restauro: P. M. Ferrari - \"Guillaume du Tillot\" - Olio su tela - Inv. 292, Storico artistico",
+    "zone/subject_raw": "Pellicola pittorica",
+    "Date": "2002",
+    "Author": "Dott.ssa Marina Ginanni",
+    "supporto": "Cartaceo",
+    "zone": [],
+    "materials_used": [
+      "Colle animali (coniglio, bue, colletta)"
+    ],
+    "technique_used": [
+      "Riadesione / fissaggio pellicola pittorica"
+    ],
+    "environmental_issue": [],
+    "working_issue": [],
+    "observations": [
+      "La pellicola pittorica è stata fermata con colla di coniglio."
+    ]
+  },
+  {
+    "record_id": "1202",
+    "Cantiere": "Cantiere di restauro: P. M. Ferrari - \"Guillaume du Tillot\" - Olio su tela - Inv. 292, Storico artistico",
+    "zone/subject_raw": "Pellicola pittorica",
+    "Date": "2002",
+    "Author": "Dott.ssa Marina Ginanni",
+    "supporto": "Cartaceo",
+    "zone": [],
+    "materials_used": [],
+    "technique_used": [
+      "Integrazione pittorica / reintegrazione cromatica"
+    ],
+    "environmental_issue": [],
+    "working_issue": [],
+    "observations": [
+      "Si è effettuata una microstuccatura delle mancanze dello strato di colore."
+    ]
+  },
+  {
+    "record_id": "1202",
+    "Cantiere": "Cantiere di restauro: P. M. Ferrari - \"Guillaume du Tillot\" - Olio su tela - Inv. 292, Storico artistico",
+    "zone/subject_raw": "Pellicola pittorica",
+    "Date": "2002",
+    "Author": "Dott.ssa Marina Ginanni",
+    "supporto": "Cartaceo",
+    "zone": [],
+    "materials_used": [],
+    "technique_used": [
+      "Stuccatura / integrazione con malte"
+    ],
+    "environmental_issue": [],
+    "working_issue": [],
+    "observations": [
+      "Stuccatura delle vecchie lacune di colore e preparazione nell’angolo inferiore destro."
+    ]
+  },
+  {
+    "record_id": "1202",
+    "Cantiere": "Cantiere di restauro: P. M. Ferrari - \"Guillaume du Tillot\" - Olio su tela - Inv. 292, Storico artistico",
+    "zone/subject_raw": "Pellicola pittorica",
+    "Date": "2002",
+    "Author": "Dott.ssa Marina Ginanni",
+    "supporto": "Cartaceo",
+    "zone": [],
+    "materials_used": [
+      "Colori (acquerelli, tempere, smalti)",
+      "Vernici (generiche)"
+    ],
+    "technique_used": [
+      "Ritocco / velatura / patinatura",
+      "Integrazione pittorica / reintegrazione cromatica"
+    ],
+    "environmental_issue": [],
+    "working_issue": [],
+    "observations": [
+      "Ritocco effettuato con colori a vernice per la reintegrazione del solo strato di vernice abrasa."
+    ]
+  },
+  {
+    "record_id": "1202",
+    "Cantiere": "Cantiere di restauro: P. M. Ferrari - \"Guillaume du Tillot\" - Olio su tela - Inv. 292, Storico artistico",
+    "zone/subject_raw": "Pellicola pittorica",
+    "Date": "2002",
+    "Author": "Dott.ssa Marina Ginanni",
+    "supporto": "Cartaceo",
+    "zone": [],
+    "materials_used": [
+      "Colori (acquerelli, tempere, smalti)",
+      "Vernici (generiche)"
+    ],
+    "technique_used": [
+      "Integrazione pittorica / reintegrazione cromatica",
+      "Ritocco / velatura / patinatura"
+    ],
+    "environmental_issue": [],
+    "working_issue": [],
+    "observations": [
+      "Correzione dei vecchi ritocchi alterati presenti nella parte destra del tessuto verde di fondo mediante colori a vernice."
+    ]
+  }
+]

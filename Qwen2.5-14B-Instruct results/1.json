@@ -1,0 +1,564 @@
+[
+    {
+  "record_id": "1",
+  "Cantiere": "Cantiere della chiesa della Misericordia -AQ",
+  "zone/subject_raw": "Consolidamento pellicola pittorica sacrestie laterali",
+  "Date": "March 18, 2025",
+  "Author": "Mario Pelliccione",
+  "supporto": "Murale affrescato",
+  "zone": ["Volte"],
+  "materials_used": [
+    "Soluzioni idroalcoliche",
+    "Resine acriliche (Primal, Plexisol, microemulsioni acriliche)",
+    "Malte da iniezione/micronizzate"
+  ],
+  "technique_used": [
+    "Consolidamento per iniezione / impregnazione",
+    "Riadesione / fissaggio pellicola pittorica"
+  ],
+  "environmental_issue": [],
+  "working_issue": [
+    "Distacco/disancoraggio",
+    "Sollevamenti della pellicola pittorica"
+  ],
+  "observations": []
+},
+{
+  "record_id": "1",
+  "Cantiere": "Cantiere della chiesa della Misericordia -AQ",
+  "zone/subject_raw": "Zona più degradata della cappella (area degli angeli)",
+  "Date": "March 19, 2025",
+  "Author": "Mario Pelliccione",
+  "supporto": "Murale affrescato",
+  "zone": ["Cappelle"],
+  "materials_used": [
+    "Attrezzature/utensili (bisturi, spazzolini, ponteggi)",
+    "Calce (grassello, calce dolce, calce storica)",
+    "Malte da iniezione/micronizzate"
+  ],
+  "technique_used": [
+    "Pulitura meccanica",
+    "Consolidamento per iniezione / impregnazione",
+    "Stuccatura / integrazione con malte"
+  ],
+  "environmental_issue": [],
+  "working_issue": [],
+  "observations": []
+},
+{
+  "record_id": "1",
+  "Cantiere": "Cantiere della chiesa della Misericordia -AQ",
+  "zone/subject_raw": "Controllo consolidamenti e chiusura lacune",
+  "Date": "March 20, 2025",
+  "Author": "Mario Pelliccione",
+  "supporto": "Murale affrescato",
+  "zone": ["Cappelle"],
+  "materials_used": [
+    "Cariche minerali (carbonato di calcio, polveri di pietra/marmo/travertino)"
+  ],
+  "technique_used": [
+    "Consolidamento per iniezione / impregnazione",
+    "Stuccatura / integrazione con malte"
+  ],
+  "environmental_issue": [],
+  "working_issue": [
+    "Lacune/perdite di materiale"
+  ],
+  "observations": []
+},
+{
+  "record_id": "1",
+  "Cantiere": "Cantiere della chiesa della Misericordia -AQ",
+  "zone/subject_raw": "Consolidamento angeli lato destro cappella e zona Madonna",
+  "Date": "March 21, 2025",
+  "Author": "Mario Pelliccione",
+  "supporto": "Murale affrescato",
+  "zone": ["Cappelle"],
+  "materials_used": [
+    "Resine acriliche (Primal, Plexisol, microemulsioni acriliche)",
+    "Cariche minerali (carbonato di calcio, polveri di pietra/marmo/travertino)",
+    "Carta e carte tecniche (giapponese, velina, riso, assorbente)"
+  ],
+  "technique_used": [
+    "Consolidamento per iniezione / impregnazione",
+    "Stuccatura / integrazione con malte",
+    "Riadesione / fissaggio pellicola pittorica"
+  ],
+  "environmental_issue": [],
+  "working_issue": [
+    "Lacune/perdite di materiale",
+    "Sollevamenti della pellicola pittorica"
+  ],
+  "observations": []
+},
+{
+  "record_id": "1",
+  "Cantiere": "Cantiere della chiesa della Misericordia -AQ",
+  "zone/subject_raw": "Zona della Madonna con spartito musicale",
+  "Date": "March 24, 2025",
+  "Author": "Mario Pelliccione",
+  "supporto": "Murale affrescato",
+  "zone": [],
+  "materials_used": [
+    "Cariche minerali (carbonato di calcio, polveri di pietra/marmo/travertino)"
+  ],
+  "technique_used": [
+    "Consolidamento per iniezione / impregnazione",
+    "Stuccatura / integrazione con malte"
+  ],
+  "environmental_issue": [],
+  "working_issue": [
+    "Fessure/fenditure/fratture/rotture"
+  ],
+  "observations": []
+},
+{
+  "record_id": "1",
+  "Cantiere": "Cantiere della chiesa della Misericordia -AQ",
+  "zone/subject_raw": "Zona della Madonna con spartito musicale",
+  "Date": "March 25, 2025",
+  "Author": "Mario Pelliccione",
+  "supporto": "Murale affrescato",
+  "zone": ["Cappelle"],
+  "materials_used": [
+    "Inerti e sabbie",
+    "Materiali lapidei (pietra, marmo, ardesia, litotipi)",
+    "Resine acriliche (Primal, Plexisol, microemulsioni acriliche)",
+    "Carta e carte tecniche (giapponese, velina, riso, assorbente)"
+  ],
+  "technique_used": [
+    "Stuccatura / integrazione con malte",
+    "Consolidamento per iniezione / impregnazione",
+    "Rimozione di depositi, scialbature o vernici"
+  ],
+  "environmental_issue": [],
+  "working_issue": [
+    "Fessure/fenditure/fratture/rotture",
+    "Lacune/perdite di materiale",
+    "Distacco/disancoraggio"
+  ],
+  "observations": []
+},
+{
+  "record_id": "1",
+  "Cantiere": "Cantiere della chiesa della Misericordia -AQ",
+  "zone/subject_raw": "Porzione della volta raffigurante la Madonna",
+  "Date": "March 26, 2025",
+  "Author": "Mario Pelliccione",
+  "supporto": "Murale affrescato",
+  "zone": ["Volte"],
+  "materials_used": [
+    "Attrezzature/utensili (bisturi, spazzolini, ponteggi)"
+  ],
+  "technique_used": [
+    "Consolidamento per iniezione / impregnazione",
+    "Stuccatura / integrazione con malte",
+    "Pulitura meccanica"
+  ],
+  "environmental_issue": [],
+  "working_issue": [
+    "Fessure/fenditure/fratture/rotture"
+  ],
+  "observations": []
+},
+{
+  "record_id": "1",
+  "Cantiere": "Cantiere della chiesa della Misericordia -AQ",
+  "zone/subject_raw": "Fratture profonde e manto rosso del Dio Padre",
+  "Date": "March 31, 2025",
+  "Author": "Mario Pelliccione",
+  "supporto": "Murale affrescato",
+  "zone": ["Cappelle"],
+  "materials_used": [
+    "Resine acriliche (Primal, Plexisol, microemulsioni acriliche)",
+    "Materiali lapidei (pietra, marmo, ardesia, litotipi)",
+    "Inerti e sabbie",
+    "Calce (grassello, calce dolce, calce storica)"
+  ],
+  "technique_used": [
+    "Pulitura meccanica",
+    "Consolidamento per iniezione / impregnazione",
+    "Stuccatura / integrazione con malte"
+  ],
+  "environmental_issue": [],
+  "working_issue": [
+    "Fessure/fenditure/fratture/rotture",
+    "Deformazioni/dislocazioni/sconnessioni"
+  ],
+  "observations": []
+},
+{
+  "record_id": "1",
+  "Cantiere": "Cantiere della chiesa della Misericordia -AQ",
+  "zone/subject_raw": "Due angioletti lato sinistro della volta",
+  "Date": "April 8, 2025",
+  "Author": "Mario Pelliccione",
+  "supporto": "Murale affrescato",
+  "zone": ["Volte"],
+  "materials_used": [
+    "Cariche minerali (carbonato di calcio, polveri di pietra/marmo/travertino)"
+  ],
+  "technique_used": [
+    "Consolidamento superficiale",
+    "Pulitura meccanica",
+    "Stuccatura / integrazione con malte"
+  ],
+  "environmental_issue": [],
+  "working_issue": [
+    "Fessure/fenditure/fratture/rotture"
+  ],
+  "observations": []
+},
+{
+  "record_id": "1",
+  "Cantiere": "Cantiere della chiesa della Misericordia -AQ",
+  "zone/subject_raw": "Cappella della Vergine",
+  "Date": "April 9, 2025",
+  "Author": "Mario Pelliccione",
+  "supporto": "Murale affrescato",
+  "zone": ["Cappelle"],
+  "materials_used": [
+    "Malte a base calce (premiscelate o tradizionali)",
+    "Attrezzature/utensili (bisturi, spazzolini, ponteggi)"
+  ],
+  "technique_used": [
+    "Rimozione di depositi, scialbature o vernici",
+    "Stuccatura / integrazione con malte",
+    "Consolidamento per iniezione / impregnazione"
+  ],
+  "environmental_issue": [],
+  "working_issue": [
+    "Lacune/perdite di materiale",
+    "Rischi in movimentazione/sollevamento"
+  ],
+  "observations": []
+},
+{
+  "record_id": "1",
+  "Cantiere": "Cantiere della chiesa della Misericordia -AQ",
+  "zone/subject_raw": "Grandi lacune Cappella della Vergine e angioletti",
+  "Date": "April 15, 2025",
+  "Author": "Mario Pelliccione",
+  "supporto": "Murale affrescato",
+  "zone": ["Cappelle"],
+  "materials_used": [
+    "Materiali lapidei (pietra, marmo, ardesia, litotipi)",
+    "Inerti e sabbie",
+    "Cariche minerali (carbonato di calcio, polveri di pietra/marmo/travertino)",
+    "Solventi organici polari (acetone, etilacetato, MEK, DMF, DMSO)"
+  ],
+  "technique_used": [
+    "Stuccatura / integrazione con malte"
+  ],
+  "environmental_issue": [],
+  "working_issue": [
+    "Lacune/perdite di materiale",
+    "Problemi di superficie (bagnabilità, residui, macchie)"
+  ],
+  "observations": []
+},
+{
+  "record_id": "1",
+  "Cantiere": "Cantiere della chiesa della Misericordia -AQ",
+  "zone/subject_raw": "Prosecuzione stuccature e rimozione messa in sicurezza",
+  "Date": "April 16, 2025",
+  "Author": "Mario Pelliccione",
+  "supporto": "Murale affrescato",
+  "zone": ["Cappelle"],
+  "materials_used": [
+    "Carta e carte tecniche (giapponese, velina, riso, assorbente)",
+    "Resine acriliche (Primal, Plexisol, microemulsioni acriliche)",
+    "Solventi organici polari (acetone, etilacetato, MEK, DMF, DMSO)"
+  ],
+  "technique_used": [
+    "Stuccatura / integrazione con malte",
+    "Pulitura meccanica",
+    "Pulitura chimica"
+  ],
+  "environmental_issue": [],
+  "working_issue": [],
+  "observations": []
+},
+{
+  "record_id": "1",
+  "Cantiere": "Cantiere della chiesa della Misericordia -AQ",
+  "zone/subject_raw": "Fessurazioni e grandi lacune - decorazione perimetrale grottesca",
+  "Date": "April 23, 2025",
+  "Author": "Mario Pelliccione",
+  "supporto": "Murale affrescato",
+  "zone": ["Cappelle"],
+  "materials_used": [
+    "Materiali lapidei (pietra, marmo, ardesia, litotipi)",
+    "Inerti e sabbie",
+    "Cariche minerali (carbonato di calcio, polveri di pietra/marmo/travertino)"
+  ],
+  "technique_used": [
+    "Integrazione pittorica / reintegrazione cromatica"
+  ],
+  "environmental_issue": [],
+  "working_issue": [
+    "Fessure/fenditure/fratture/rotture",
+    "Lacune/perdite di materiale"
+  ],
+  "observations": []
+},
+{
+  "record_id": "1",
+  "Cantiere": "Cantiere della chiesa della Misericordia -AQ",
+  "zone/subject_raw": "Affresco della Vergine (Annunciazione)",
+  "Date": "May 2, 2025",
+  "Author": "Mario Pelliccione",
+  "supporto": "Murale affrescato",
+  "zone": ["Cappelle"],
+  "materials_used": [
+    "Cemento/calcestruzzo/cementite",
+    "Consolidanti organici (generici)",
+    "Malte a base calce (premiscelate o tradizionali)"
+  ],
+  "technique_used": [
+    "Interventi su intonaci (intonacatura / reintonacatura)",
+    "Pulitura meccanica",
+    "Stuccatura / integrazione con malte"
+  ],
+  "environmental_issue": [],
+  "working_issue": [
+    "Decoesione/polverizzazione",
+    "Instabilità strutturale/degli assemblaggi"
+  ],
+  "observations": []
+},
+{
+  "record_id": "1",
+  "Cantiere": "Cantiere della chiesa della Misericordia -AQ",
+  "zone/subject_raw": "Volta della Cappella della Vergine",
+  "Date": "May 8, 2025",
+  "Author": "Mario Pelliccione",
+  "supporto": "Murale affrescato",
+  "zone": ["Volte"],
+  "materials_used": [
+    "Materiali lapidei (pietra, marmo, ardesia, litotipi)",
+    "Pulitura meccanica",
+    "Cariche minerali (carbonato di calcio, polveri di pietra/marmo/travertino)",
+    "Calce idraulica / NHL",
+    "Resine acriliche (Primal, Plexisol, microemulsioni acriliche)"
+  ],
+  "technique_used": [
+    "Stuccatura / integrazione con malte",
+    "Rimozione di depositi, scialbature o vernici"
+  ],
+  "environmental_issue": [],
+  "working_issue": [
+    "Lacune/perdite di materiale"
+  ],
+  "observations": []
+},
+{
+  "record_id": "1",
+  "Cantiere": "Cantiere della chiesa della Misericordia -AQ",
+  "zone/subject_raw": "Volta e dipinti parietali sottostanti",
+  "Date": "May 13, 2025",
+  "Author": "Mario Pelliccione",
+  "supporto": "Murale affrescato",
+  "zone": ["Volte", "Murature"],
+  "materials_used": [
+    "Malte a base calce (premiscelate o tradizionali)"
+  ],
+  "technique_used": [
+    "Stuccatura / integrazione con malte"
+  ],
+  "environmental_issue": [],
+  "working_issue": [
+  ],
+  "observations": []
+},
+{
+  "record_id": "1",
+  "Cantiere": "Cantiere della chiesa della Misericordia -AQ",
+  "zone/subject_raw": "Aree parietali - primo dipinto parietale a livello del terreno",
+  "Date": "May 16, 2025",
+  "Author": "Mario Pelliccione",
+  "supporto": "Murale affrescato",
+  "zone": ["Murature"],
+  "materials_used": [],
+  "technique_used": [
+    "Stuccatura / integrazione con malte"
+  ],
+  "environmental_issue": [],
+  "working_issue": [
+    "Fessure/fenditure/fratture/rotture"
+  ],
+  "observations": []
+},
+{
+  "record_id": "1",
+  "Cantiere": "Cantiere della chiesa della Misericordia -AQ",
+  "zone/subject_raw": "Dipinti parietali",
+  "Date": "May 21, 2025",
+  "Author": "Mario Pelliccione",
+  "supporto": "Murale affrescato",
+  "zone": ["Murature"],
+  "materials_used": [],
+  "technique_used": [
+    "Stuccatura / integrazione con malte"
+  ],
+  "environmental_issue": [],
+  "working_issue": [
+    "Fessure/fenditure/fratture/rotture",
+    "Lacune/perdite di materiale"
+  ],
+  "observations": []
+},
+{
+  "record_id": "1",
+  "Cantiere": "Cantiere della chiesa della Misericordia -AQ",
+  "zone/subject_raw": "Correzione planarit\u00e0 stuccature",
+  "Date": "May 29, 2025",
+  "Author": "Mario Pelliccione",
+  "supporto": "Murale affrescato",
+  "zone": ["Murature"],
+  "materials_used": [],
+  "technique_used": [
+    "Stuccatura / integrazione con malte",
+    "Integrazione pittorica / reintegrazione cromatica"
+  ],
+  "environmental_issue": [],
+  "working_issue": [
+    "Lacune/perdite di materiale",
+    "Deformazioni/dislocazioni/sconnessioni"
+  ],
+  "observations": []
+},
+{
+  "record_id": "1",
+  "Cantiere": "Cantiere della chiesa della Misericordia -AQ",
+  "zone/subject_raw": "Grandi e piccole lacune - avvio reintegrazione pittorica",
+  "Date": "June 7, 2025",
+  "Author": "Mario Pelliccione",
+  "supporto": "Murale affrescato",
+  "zone": ["Volte"],
+  "materials_used": [
+    "Cariche minerali (carbonato di calcio, polveri di pietra/marmo/travertino)"
+  ],
+  "technique_used": [
+    "Stuccatura / integrazione con malte",
+    "Integrazione pittorica / reintegrazione cromatica",
+    "Ritocco / velatura / patinatura"
+  ],
+  "environmental_issue": [],
+  "working_issue": [
+    "Lacune/perdite di materiale"
+  ],
+  "observations": []
+},
+{
+  "record_id": "1",
+  "Cantiere": "Cantiere della chiesa della Misericordia -AQ",
+  "zone/subject_raw": "Microstuccature su pellicola pittorica",
+  "Date": "June 10, 2025",
+  "Author": "Mario Pelliccione",
+  "supporto": "Murale affrescato",
+  "zone": ["Cappelle"],
+  "materials_used": [
+    "Cariche minerali (carbonato di calcio, polveri di pietra/marmo/travertino)"
+  ],
+  "technique_used": [
+    "Stuccatura / integrazione con malte",
+    "Integrazione pittorica / reintegrazione cromatica"
+  ],
+  "environmental_issue": [],
+  "working_issue": [
+    "Lacune/perdite di materiale"
+  ],
+  "observations": []
+},
+{
+  "record_id": "1",
+  "Cantiere": "Cantiere della chiesa della Misericordia -AQ",
+  "zone/subject_raw": "Ritocco pittorico dipinto dell’Annunciazione",
+  "Date": "June 12, 2025",
+  "Author": "Mario Pelliccione",
+  "supporto": "Murale affrescato",
+  "zone": ["Cappelle"],
+  "materials_used": [
+    "Colori (acquerelli, tempere, smalti)"
+  ],
+  "technique_used": [
+    "Integrazione pittorica / reintegrazione cromatica"
+  ],
+  "environmental_issue": [
+    "umidità"
+  ],
+  "working_issue": [],
+  "observations": []
+},
+{
+  "record_id": "1",
+  "Cantiere": "Cantiere della chiesa della Misericordia -AQ",
+  "zone/subject_raw": "Ritocco pittorico volti (dama, Maria, San Giuseppe)",
+  "Date": "June 13, 2025",
+  "Author": "Mario Pelliccione",
+  "supporto": "Murale affrescato",
+  "zone": ["Cappelle"],
+  "materials_used": [],
+  "technique_used": [
+    "Integrazione pittorica / reintegrazione cromatica"
+  ],
+  "environmental_issue": [],
+  "working_issue": [
+    "Lacune/perdite di materiale"
+  ],
+  "observations": []
+},
+{
+  "record_id": "1",
+  "Cantiere": "Cantiere della chiesa della Misericordia -AQ",
+  "zone/subject_raw": "Dipinti parietali - scena a livello del pavimento sotto la finestra",
+  "Date": "June 25, 2025",
+  "Author": "Mario Pelliccione",
+  "supporto": "Murale affrescato",
+  "zone": ["Murature"],
+  "materials_used": [],
+  "technique_used": [
+    "Integrazione pittorica / reintegrazione cromatica"
+  ],
+  "environmental_issue": [],
+  "working_issue": [
+    "Lacune/perdite di materiale"
+  ],
+  "observations": []
+},
+{
+  "record_id": "1",
+  "Cantiere": "Cantiere della chiesa della Misericordia -AQ",
+  "zone/subject_raw": "Reintegrazione pittorica delle stuccature sulla volta",
+  "Date": "July 8, 2025",
+  "Author": "Mario Pelliccione",
+  "supporto": "Murale affrescato",
+  "zone": ["Volte"],
+  "materials_used": [],
+  "technique_used": [
+    "Integrazione pittorica / reintegrazione cromatica"
+  ],
+  "environmental_issue": [],
+  "working_issue": [],
+  "observations": []
+},
+{
+  "record_id": "1",
+  "Cantiere": "Cantiere della chiesa della Misericordia -AQ",
+  "zone/subject_raw": "Madonna e spartito - sezione con figure di angioletti",
+  "Date": "July 15, 2025",
+  "Author": "Mario Pelliccione",
+  "supporto": "Murale affrescato",
+  "zone": ["Volte"],
+  "materials_used": [],
+  "technique_used": [
+    "Integrazione pittorica / reintegrazione cromatica"
+  ],
+  "environmental_issue": [],
+  "working_issue": [
+    "Fessure/fenditure/fratture/rotture"
+  ],
+  "observations": []
+}
+]

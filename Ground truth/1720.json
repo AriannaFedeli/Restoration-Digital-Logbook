@@ -1,0 +1,42 @@
+[
+  {
+    "record_id": "1720",
+    "Cantiere": "Cantiere di restauro: Lapideo classico, Storico artistico",
+    "zone/subject_raw": "Lapideo classico",
+    "Date": "Intervento 2013",
+    "Author": "Elena Cristoferi",
+    "supporto": "",
+    "zone": [],
+    "materials_used": [
+      "Resine poliammidiche/altre sintetiche"
+    ],
+    "technique_used": [
+      "Pulitura meccanica"
+    ],
+    "environmental_issue": [],
+    "working_issue": [],
+    "observations": [
+      "Rimozione meccanica dell'eccesso di resina sintetica poliestere usata per il fissaggio del perno di sostegno."
+    ]
+  },
+  {
+    "record_id": "1720",
+    "Cantiere": "Cantiere di restauro: Lapideo classico, Storico artistico",
+    "zone/subject_raw": "Lapideo classico",
+    "Date": "Intervento 2013",
+    "Author": "Elena Cristoferi",
+    "supporto": "",
+    "zone": [],
+    "materials_used": [
+      "Acqua (generica)"
+    ],
+    "technique_used": [
+      "Pulitura ad umido / lavaggio"
+    ],
+    "environmental_issue": [],
+    "working_issue": [],
+    "observations": [
+      "Pulitura leggera mediante lavaggio con acqua dell’acquedotto e pennelli a setola morbida."
+    ]
+  }
+]

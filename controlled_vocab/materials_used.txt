@@ -1,0 +1,83 @@
+[
+  "Acqua (generica)",
+  "Acqua deionizzata/demineralizzata/distillata",
+  "Soluzioni acquose (generiche)",
+  "Soluzioni idroalcoliche",
+
+  "Solventi organici polari (acetone, etilacetato, MEK, DMF, DMSO)",
+  "Solventi organici apolari (white spirit, ligroina, isoparaffine, petrolio)",
+  "Solventi aromatici/clorurati (toluene, trielina, tricloroetano)",
+  "Miscela solvente / diluenti",
+
+  "Acidi (soluzioni acide)",
+  "Basi (soluzioni basiche/ammoniaca)",
+  "Sali e tamponi (carbonati, bicarbonati, sali inorganici, soluzioni sature)",
+  "Chelanti (EDTA e simili)",
+  "Ossidanti/riducenti (acqua ossigenata e simili)",
+
+  "Tensioattivi e detergenti non ionici",
+  "Tensioattivi e detergenti anionici/cationici",
+  "Gel e addensanti (agar, carbopol, cellulose, mucillagini)",
+
+  "Biocidi/antimuffa/antivegetativi",
+  "Antitarlo/insetticidi/disinfestazione",
+
+  "Consolidanti minerali (silicato di etile, silicati, fluosilicati)",
+  "Consolidanti organici (generici)",
+  "Resine acriliche (Primal, Plexisol, microemulsioni acriliche)",
+  "Resine metacriliche/viniliche",
+  "Resine epossidiche (Araldite, Sikadur, Epox)",
+  "Resine siliconiche/silossaniche",
+  "Resine fluorurate",
+  "Resine poliammidiche/altre sintetiche",
+  "Resine termoplastiche/retoucher",
+
+  "Adesivi vinilici (Vinavil e simili)",
+  "Adesivi acrilici (Beva e simili)",
+  "Adesivi epossidici/bi-componenti",
+  "Colle animali (coniglio, bue, colletta)",
+  "Adesivi/colle (generici)",
+
+  "Calce (grassello, calce dolce, calce storica)",
+  "Calce idraulica / NHL",
+  "Cemento/calcestruzzo/cementite",
+  "Malte a base calce (premiscelate o tradizionali)",
+  "Malte cementizie",
+  "Malte da iniezione/micronizzate",
+  "Malte strutturali/alte prestazioni",
+  "Cocciopesto/pozzolana e leganti storici",
+
+  "Inerti e sabbie",
+  "Cariche minerali (carbonato di calcio, polveri di pietra/marmo/travertino)",
+  "Gesso e stucchi gessosi",
+  "Stucchi (a base calce/resina/cellulosici)",
+
+  "Materiali lapidei (pietra, marmo, ardesia, litotipi)",
+  "Laterizio/cotto/mattoni",
+  "Legno (massello, assito, multistrato, compensati)",
+  "Carta e carte tecniche (giapponese, velina, riso, assorbente)",
+  "Cellulosa e polpe (arbocell, polpa di carta/cellulosa)",
+  "Tessuti e TNT (lino, tela, teli TNT, geotessili, garze)",
+  "Materiali plastici (PVC, polietilene, plexiglas, nylon, velcro)",
+
+  "Metalli ferrosi (ferro, acciaio, zincato)",
+  "Metalli non ferrosi (rame, ottone, bronzo, alluminio, piombo)",
+  "Ferramenta e fissaggi (chiodi, viti, bulloni, tasselli, staffe)",
+  "Reti e armature (rete elettrosaldata, reti in fibra, Mapegrid)",
+  "Fibre e compositi (fibra di vetro, carbonio, vetroresina)",
+  "Elementi di rinforzo (barre filettate, microbarre, piastre, profili)",
+
+  "Oro/dorature/porporina",
+  "Pigmenti e terre coloranti",
+  "Colori (acquerelli, tempere, smalti)",
+
+  "Cere (emulsioni cerose, cere ossidate)",
+  "Protettivi/idrofobizzanti (generici)",
+  "Protettivi silossanici/idrorepellenti a base silicio",
+  "Vernici (generiche)",
+  "Vernici finali/retoucher (gloss/matt)",
+
+  "Materiali per coperture (coppi, tegole, scossaline, membrane)",
+  "Supporti e protezioni temporanee (carta siliconata, fodere, tamponi, spugne)",
+  "Attrezzature/utensili (bisturi, spazzolini, ponteggi)"
+]

@@ -1,0 +1,22 @@
+[
+  "Abside",
+  "Presbiterio",
+  "Cappelle",
+  "Transetto",
+  "Navata",
+  "Cupola",
+  "Volte",
+  "Murature",
+  "Coperture",
+  "Pavimenti/Solai",
+  "Colonne/Capitelli/Trabeazioni",
+  "Portali/Ingressi",
+  "Arredi liturgici",
+  "Decorazioni dipinte",
+  "Opere mobili",
+  "Elementi lapidei/Sculture lapidee",
+  "Torre campanaria",
+  "Impianti",
+  "Documentazione/Analisi",
+  "Archeologica/Numismatica"
+]

@@ -1,0 +1,114 @@
+[
+  {
+    "record_id": "735",
+    "Cantiere": "Cantiere di restauro: AQ - L'Aquila - Museo Nazionale d'Abruzzo - Affresco staccato, Storico artistico",
+    "zone/subject_raw": "",
+    "Date": "1988",
+    "Author": "Pietro Dalla Nave",
+    "supporto": "Murale affrescato",
+    "zone": [],
+    "materials_used": [],
+    "technique_used": [
+      "Pulitura meccanica",
+      "Pulitura ad umido / lavaggio"
+    ],
+    "environmental_issue": [],
+    "working_issue": [],
+    "observations": [
+      "L'asportazione della ridipintura e dello strato di sporco è stata effettuata manualmente utilizzando spugne naturali."
+    ]
+  },
+  {
+    "record_id": "735",
+    "Cantiere": "Cantiere di restauro: AQ - L'Aquila - Museo Nazionale d'Abruzzo - Affresco staccato, Storico artistico",
+    "zone/subject_raw": "",
+    "Date": "1988",
+    "Author": "Pietro Dalla Nave",
+    "supporto": "Murale affrescato",
+    "zone": [
+      "Decorazioni dipinte"
+    ],
+    "materials_used": [
+      "Acqua (generica)"
+    ],
+    "technique_used": [
+      "Pulitura meccanica",
+      "Pulitura ad umido / lavaggio"
+    ],
+    "environmental_issue": [],
+    "working_issue": [],
+    "observations": [
+      "Rimozione delle vecchie stuccature mediante azione solubilizzante dell'acqua e intervento meccanico con bisturi."
+    ]
+  },
+  {
+    "record_id": "735",
+    "Cantiere": "Cantiere di restauro: AQ - L'Aquila - Museo Nazionale d'Abruzzo - Affresco staccato, Storico artistico",
+    "zone/subject_raw": "",
+    "Date": "1988",
+    "Author": "Pietro Dalla Nave",
+    "supporto": "Murale affrescato",
+    "zone": [],
+    "materials_used": [
+      "Resine acriliche (Primal, Plexisol, microemulsioni acriliche)",
+      "Soluzioni acquose (generiche)"
+    ],
+    "technique_used": [
+      "Consolidamento superficiale"
+    ],
+    "environmental_issue": [],
+    "working_issue": [],
+    "observations": [
+      "Il consolidamento è stato effettuato con una resina acrilica al 3% in soluzione acquosa applicata a pennello."
+    ]
+  },
+  {
+    "record_id": "735",
+    "Cantiere": "Cantiere di restauro: AQ - L'Aquila - Museo Nazionale d'Abruzzo - Affresco staccato, Storico artistico",
+    "zone/subject_raw": "",
+    "Date": "1988",
+    "Author": "Pietro Dalla Nave",
+    "supporto": "Murale affrescato",
+    "zone": [
+      "Decorazioni dipinte"
+    ],
+    "materials_used": [
+      "Gesso e stucchi gessosi",
+      "Inerti e sabbie"
+    ],
+    "technique_used": [
+      "Stuccatura / integrazione con malte"
+    ],
+    "environmental_issue": [],
+    "working_issue": [],
+    "observations": [
+      "Intervento di stuccatura effettuato con una miscela specifica di gesso di Bologna, colla di coniglio e sabbia gialla."
+    ]
+  },
+  {
+    "record_id": "735",
+    "Cantiere": "Cantiere di restauro: AQ - L'Aquila - Museo Nazionale d'Abruzzo - Affresco staccato, Storico artistico",
+    "zone/subject_raw": "",
+    "Date": "1988",
+    "Author": "Pietro Dalla Nave",
+    "supporto": "Murale affrescato",
+    "zone": [
+      "Decorazioni dipinte"
+    ],
+    "materials_used": [
+      "Colori (acquerelli, tempere, smalti)",
+      "Pigmenti e terre coloranti"
+    ],
+    "technique_used": [
+      "Integrazione pittorica / reintegrazione cromatica",
+      "Ritocco / velatura / patinatura"
+    ],
+    "environmental_issue": [],
+    "working_issue": [
+      "Lacune/perdite di materiale"
+    ],
+    "observations": [
+      "Reintegrazione pittorica effettuata con tecniche mimetiche."
+    ]
+  }
+]

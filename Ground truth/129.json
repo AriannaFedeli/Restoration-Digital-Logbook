@@ -1,0 +1,153 @@
+[
+  {
+    "record_id": "129.0",
+    "Cantiere": "Cantiere di restauro: Pisa - Certosa di Calci - Facciata della Chiesa, Architettonico",
+    "zone/subject_raw": "",
+    "Date": "agosto 2001 - giugno 2002",
+    "Author": "RestauroItalia Srl",
+    "supporto": "Architettonico",
+    "zone": [],
+    "materials_used": [
+      "Calce idraulica / NHL",
+      "Malte a base calce (premiscelate o tradizionali)"
+    ],
+    "technique_used": [
+      "Consolidamento superficiale"
+    ],
+    "environmental_issue": [],
+    "working_issue": [
+      "Distacco/disancoraggio"
+    ],
+    "observations": [
+      "Rimozione delle lastre di paramento distaccate dal supporto.",
+      "Consolidamento a tergo mediante malta a base di calce idraulica naturale."
+    ]
+  },
+  {
+    "record_id": "",
+    "Cantiere": "Cantiere di restauro: Pisa - Certosa di Calci - Facciata della Chiesa, Architettonico",
+    "zone/subject_raw": "",
+    "Date": "agosto 2001 - giugno 2002",
+    "Author": "RestauroItalia Srl",
+    "supporto": "Architettonico",
+    "zone": [
+      "Murature"
+    ],
+    "materials_used": [
+      "Metalli ferrosi (ferro, acciaio, zincato)",
+      "Sali e tamponi (carbonati, bicarbonati, sali inorganici, soluzioni sature)"
+    ],
+    "technique_used": [
+      "Pulitura meccanica",
+      "Pulitura chimica",
+      "Pulitura con impacchi o gel",
+      "Stuccatura / integrazione con malte"
+    ],
+    "environmental_issue": [],
+    "working_issue": [
+      "Distacco/disancoraggio"
+    ],
+    "observations": [
+      "Rimozione delle parti in ferro ossidato e sostituzione con staffe in acciaio inossidabile.",
+      "Rincollaggio di scaglie e frammenti con resine appropriate dopo pulitura delle interfacce.",
+      "Pulitura delle superfici da depositi e croste nere mediante impacchi di soluzione di carbonato di ammonio e azioni meccaniche.",
+      "Stuccatura delle commettiture per chiudere le lacune risultanti."
+    ]
+  },
+  {
+    "record_id": "",
+    "Cantiere": "Cantiere di restauro: Pisa - Certosa di Calci - Facciata della Chiesa, Architettonico",
+    "zone/subject_raw": "",
+    "Date": "agosto 2001 - giugno 2002",
+    "Author": "RestauroItalia Srl",
+    "supporto": "Architettonico",
+    "zone": [],
+    "materials_used": [],
+    "technique_used": [
+      "Trattamenti biocidi / disinfestazione"
+    ],
+    "environmental_issue": [
+      "attacchi biologici (licheni)"
+    ],
+    "working_issue": [],
+    "observations": [
+      "Trattamento biocida applicato con impacchi e pennello per rimuovere attacchi biologici."
+    ]
+  },
+  {
+    "record_id": "",
+    "Cantiere": "Cantiere di restauro: Pisa - Certosa di Calci - Facciata della Chiesa, Architettonico",
+    "zone/subject_raw": "",
+    "Date": "agosto 2001 - giugno 2002",
+    "Author": "RestauroItalia Srl",
+    "supporto": "Architettonico",
+    "zone": [
+      "Murature"
+    ],
+    "materials_used": [
+      "Calce idraulica / NHL",
+      "Calce (grassello, calce dolce, calce storica)",
+      "Materiali lapidei (pietra, marmo, ardesia, litotipi)",
+      "Pigmenti e terre coloranti",
+      "Cere (emulsioni cerose, cere ossidate)"
+    ],
+    "technique_used": [
+      "Pulitura meccanica",
+      "Stuccatura / integrazione con malte",
+      "Protezione finale / verniciatura"
+    ],
+    "environmental_issue": [],
+    "working_issue": [],
+    "observations": [
+      "Apertura delle fughe del paramento marmoreo e rimozione delle stuccature non idonee con mezzi meccanici.",
+      "Stuccatura delle fughe con malta a base di calce idraulica e polvere di marmo pigmentata.",
+      "Ricostruzione delle lacune con malta a base di grassello di calce e polvere di marmo.",
+      "Applicazione di un protettivo finale a base di cera microcristallina sul paramento."
+    ]
+  },
+  {
+    "record_id": "",
+    "Cantiere": "Cantiere di restauro: Pisa - Certosa di Calci - Facciata della Chiesa, Architettonico",
+    "zone/subject_raw": "",
+    "Date": "agosto 2001 - giugno 2002",
+    "Author": "RestauroItalia Srl",
+    "supporto": "Architettonico",
+    "zone": [
+      "Elementi lapidei/Sculture lapidee"
+    ],
+    "materials_used": [
+      "Biocidi/antimuffa/antivegetativi",
+      "Resine acriliche (Primal, Plexisol, microemulsioni acriliche)",
+      "Pigmenti e terre coloranti",
+      "Protettivi/idrofobizzanti (generici)"
+    ],
+    "technique_used": [
+      "Rimozione di depositi, scialbature o vernici",
+      "Pulitura meccanica",
+      "Stuccatura / integrazione con malte",
+      "Trattamenti biocidi / disinfestazione",
+      "Pulitura chimica",
+      "Consolidamento superficiale",
+      "Riadesione / fissaggio pellicola pittorica",
+      "Ritocco / velatura / patinatura",
+      "Protezione finale / verniciatura"
+    ],
+    "environmental_issue": [
+      "sviluppi biodeteriogeni"
+    ],
+    "working_issue": [
+      "Distacco/disancoraggio",
+      "Fessure/fenditure/fratture/rotture"
+    ],
+    "observations": [
+      "Rimozione meccanica delle stuccature non idonee.",
+      "Stuccatura delle fessure e microfessure con malta.",
+      "Trattamento biocida per attacchi algali.",
+      "Pulitura chimica e meccanica delle croste nere.",
+      "Consolidamento superficiale a base di bario.",
+      "Riadesione di elementi scultorei con resina acrilica.",
+      "Patinatura finale con terre naturali in resina acrilica.",
+      "Applicazione di protettivo finale su componenti metallici."
+    ]
+  }
+]

@@ -1,0 +1,146 @@
+[
+  {
+    "record_id": "7382",
+    "Cantiere": "Cantiere di restauro: Restauro della Statua muliebre restaurata come Nike Vittoria (Inv. 1914 n. 101) della Galleria degli Uffizi di Firenze, Archeologico > Mobile",
+    "zone/subject_raw": "Pulitura",
+    "Date": "27 maggio 2015 - 10 luglio 2015",
+    "Author": "Gilberto Lazzeri, Stefano Palumbo",
+    "supporto": "",
+    "zone": [],
+    "materials_used": [],
+    "technique_used": [
+      "Aspirazione / spolveratura"
+    ],
+    "environmental_issue": [],
+    "working_issue": [],
+    "observations": [
+      "Spolveratura dell'intera superficie con pennelli a setola morbida e aspiratori."
+    ]
+  },
+  {
+    "record_id": "7382",
+    "Cantiere": "Cantiere di restauro: Restauro della Statua muliebre restaurata come Nike Vittoria (Inv. 1914 n. 101) della Galleria degli Uffizi di Firenze, Archeologico > Mobile",
+    "zone/subject_raw": "Pulitura",
+    "Date": "27 maggio 2015 - 10 luglio 2015",
+    "Author": "Gilberto Lazzeri, Stefano Palumbo",
+    "supporto": "Archeologico / stratigrafico",
+    "zone": [
+      "Elementi lapidei/Sculture lapidee"
+    ],
+    "materials_used": [],
+    "technique_used": [
+      "Pulitura meccanica"
+    ],
+    "environmental_issue": [],
+    "working_issue": [],
+    "observations": [
+      "Pulitura meccanica effettuata con bisturi per rimuovere stuccature annerite dalle superfici della statua."
+    ]
+  },
+  {
+    "record_id": "7382",
+    "Cantiere": "Cantiere di restauro: Restauro della Statua muliebre restaurata come Nike Vittoria (Inv. 1914 n. 101) della Galleria degli Uffizi di Firenze, Archeologico > Mobile",
+    "zone/subject_raw": "Pulitura",
+    "Date": "27 maggio 2015 - 10 luglio 2015",
+    "Author": "Gilberto Lazzeri, Stefano Palumbo",
+    "supporto": "Archeologico / stratigrafico",
+    "zone": [],
+    "materials_used": [],
+    "technique_used": [],
+    "environmental_issue": [],
+    "working_issue": [],
+    "observations": [
+      "Eseguite prove di pulitura su porzioni di superficie significative."
+    ]
+  },
+  {
+    "record_id": "7382",
+    "Cantiere": "Cantiere di restauro: Restauro della Statua muliebre restaurata come Nike Vittoria (Inv. 1914 n. 101) della Galleria degli Uffizi di Firenze, Archeologico > Mobile",
+    "zone/subject_raw": "Pulitura",
+    "Date": "27 maggio 2015 - 10 luglio 2015",
+    "Author": "Gilberto Lazzeri, Stefano Palumbo",
+    "supporto": "Archeologico / stratigrafico",
+    "zone": [
+      "Elementi lapidei/Sculture lapidee"
+    ],
+    "materials_used": [
+      "Acqua deionizzata/demineralizzata/distillata",
+      "Solventi organici apolari (white spirit, ligroina, isoparaffine, petrolio)"
+    ],
+    "technique_used": [
+      "Pulitura ad umido / lavaggio",
+      "Pulitura con impacchi o gel"
+    ],
+    "environmental_issue": [],
+    "working_issue": [],
+    "observations": [
+      "Pulitura leggera con tamponcini inumiditi di acqua demineralizzata e White Spirit per rimuovere polvere e particellato."
+    ]
+  },
+  {
+    "record_id": "7382",
+    "Cantiere": "Cantiere di restauro: Restauro della Statua muliebre restaurata come Nike Vittoria (Inv. 1914 n. 101) della Galleria degli Uffizi di Firenze, Archeologico > Mobile",
+    "zone/subject_raw": "Pulitura",
+    "Date": "27 maggio 2015 - 10 luglio 2015",
+    "Author": "Gilberto Lazzeri, Stefano Palumbo",
+    "supporto": "Archeologico / stratigrafico",
+    "zone": [
+      "Elementi lapidei/Sculture lapidee"
+    ],
+    "materials_used": [
+      "Stucchi (a base calce/resina/cellulosici)",
+      "Malte a base calce (premiscelate o tradizionali)"
+    ],
+    "technique_used": [
+      "Stuccatura / integrazione con malte"
+    ],
+    "environmental_issue": [],
+    "working_issue": [],
+    "observations": [
+      "Livellamento delle stuccature e delle tassellature di integrazione sulla statua."
+    ]
+  },
+  {
+    "record_id": "7382",
+    "Cantiere": "Cantiere di restauro: Restauro della Statua muliebre restaurata come Nike Vittoria (Inv. 1914 n. 101) della Galleria degli Uffizi di Firenze, Archeologico > Mobile",
+    "zone/subject_raw": "Pulitura",
+    "Date": "27 maggio 2015 - 10 luglio 2015",
+    "Author": "Gilberto Lazzeri, Stefano Palumbo",
+    "supporto": "Archeologico / stratigrafico",
+    "zone": [
+      "Elementi lapidei/Sculture lapidee"
+    ],
+    "materials_used": [],
+    "technique_used": [
+      "Stuccatura / integrazione con malte"
+    ],
+    "environmental_issue": [],
+    "working_issue": [],
+    "observations": [
+      "Integrazione delle stuccature su scultura lapidea."
+    ]
+  },
+  {
+    "record_id": "7382",
+    "Cantiere": "Cantiere di restauro: Restauro della Statua muliebre restaurata come Nike Vittoria (Inv. 1914 n. 101) della Galleria degli Uffizi di Firenze, Archeologico > Mobile",
+    "zone/subject_raw": "Pulitura",
+    "Date": "27 maggio 2015 - 10 luglio 2015",
+    "Author": "Gilberto Lazzeri, Stefano Palumbo",
+    "supporto": "Archeologico / stratigrafico",
+    "zone": [
+      "Elementi lapidei/Sculture lapidee"
+    ],
+    "materials_used": [
+      "Colori (acquerelli, tempere, smalti)"
+    ],
+    "technique_used": [
+      "Ritocco / velatura / patinatura"
+    ],
+    "environmental_issue": [],
+    "working_issue": [],
+    "observations": [
+      "Ritocco delle stuccature eseguito con colori ad acquerello.",
+      "Utilizzati colori ad acquerello per integrazione pittorica delle superfici stuccate."
+    ]
+  }
+]

@@ -1,0 +1,131 @@
+[
+  {
+    "record_id": "1744",
+    "Cantiere": "Cantiere di restauro: Pistoia Santomato Fattoria Celle Opera contemporanea ambientale Iperuranio Intervento di restauro conservativo, Architettonico",
+    "zone/subject_raw": "",
+    "Date": "luglio 2013",
+    "Author": "Antonio Rava",
+    "supporto": "Architettonico",
+    "zone": [],
+    "materials_used": [],
+    "technique_used": [],
+    "environmental_issue": ["Pulitura meccanica",
+      "Rimozione di depositi, scialbature o vernici"],
+    "working_issue": [],
+    "observations": [
+      "Pulitura e rimozione del deposito superficiale incoerente diffuso eseguita durante l’intervento di restauro conservativo."
+    ]
+  },
+  {
+    "record_id": "1744",
+    "Cantiere": "Cantiere di restauro: Pistoia Santomato Fattoria Celle Opera contemporanea ambientale Iperuranio Intervento di restauro conservativo, Architettonico",
+    "zone/subject_raw": "",
+    "Date": "luglio 2013",
+    "Author": "Antonio Rava",
+    "supporto": "Architettonico",
+    "zone": [],
+    "materials_used": [],
+    "technique_used": [
+      "Pulitura chimica"
+    ],
+    "environmental_issue": [],
+    "working_issue": [],
+    "observations": [
+      "Trattamento di pulitura chimica per rimuovere macchie localizzate."
+    ]
+  },
+  {
+    "record_id": "1744",
+    "Cantiere": "Cantiere di restauro: Pistoia Santomato Fattoria Celle Opera contemporanea ambientale Iperuranio Intervento di restauro conservativo, Architettonico",
+    "zone/subject_raw": "",
+    "Date": "luglio 2013",
+    "Author": "Antonio Rava",
+    "supporto": "Architettonico",
+    "zone": [],
+    "materials_used": [],
+    "technique_used": [
+      "Trattamenti biocidi / disinfestazione"
+    ],
+    "environmental_issue": [
+      "attacchi biologici (licheni)"
+    ],
+    "working_issue": [],
+    "observations": [
+      "È stata effettuata la rimozione di attacchi biologici."
+    ]
+  },
+  {
+    "record_id": "1744",
+    "Cantiere": "Cantiere di restauro: Pistoia Santomato Fattoria Celle Opera contemporanea ambientale Iperuranio Intervento di restauro conservativo, Architettonico",
+    "zone/subject_raw": "",
+    "Date": "luglio 2013",
+    "Author": "Antonio Rava",
+    "supporto": "Architettonico",
+    "zone": [],
+    "materials_used": [],
+    "technique_used": [
+      "Consolidamento superficiale"
+    ],
+    "environmental_issue": [],
+    "working_issue": [],
+    "observations": [
+      "È stato eseguito consolidamento puntuale e diffuso."
+    ]
+  },
+  {
+    "record_id": "1744",
+    "Cantiere": "Cantiere di restauro: Pistoia Santomato Fattoria Celle Opera contemporanea ambientale Iperuranio Intervento di restauro conservativo, Architettonico",
+    "zone/subject_raw": "",
+    "Date": "luglio 2013",
+    "Author": "Antonio Rava",
+    "supporto": "Architettonico",
+    "zone": [],
+    "materials_used": [],
+    "technique_used": [
+      "Riadesione / fissaggio pellicola pittorica",
+      "Stuccatura / integrazione con malte"
+    ],
+    "environmental_issue": [],
+    "working_issue": [],
+    "observations": [
+      "Riadesione di scaglie e frammenti con integrazioni/stuccature localizzate."
+    ]
+  },
+  {
+    "record_id": "1744",
+    "Cantiere": "Cantiere di restauro: Pistoia Santomato Fattoria Celle Opera contemporanea ambientale Iperuranio Intervento di restauro conservativo, Architettonico",
+    "zone/subject_raw": "",
+    "Date": "luglio 2013",
+    "Author": "Antonio Rava",
+    "supporto": "Architettonico",
+    "zone": [],
+    "materials_used": ["Stucchi (a base calce/resina/cellulosici)"],
+    "technique_used": [
+      "Sigillature e stilatura giunti",
+      "Stuccatura / integrazione con malte"
+    ],
+    "environmental_issue": [],
+    "working_issue": [
+      "Lacune/perdite di materiale"
+    ],
+    "observations": [
+      "Stilatura dei giunti e stuccatura di piccole mancanze diffuse sono state eseguite."
+    ]
+  },
+  {
+    "record_id": "1744",
+    "Cantiere": "Cantiere di restauro: Pistoia Santomato Fattoria Celle Opera contemporanea ambientale Iperuranio Intervento di restauro conservativo, Architettonico",
+    "zone/subject_raw": "",
+    "Date": "luglio 2013",
+    "Author": "Antonio Rava",
+    "supporto": "Architettonico",
+    "zone": [],
+    "materials_used": [],
+    "technique_used": [],
+    "environmental_issue": [],
+    "working_issue": [],
+    "observations": [
+      "Il testo fornisce solo la voce 'protezione' senza ulteriori dettagli sul restauro."
+    ]
+  }
+]

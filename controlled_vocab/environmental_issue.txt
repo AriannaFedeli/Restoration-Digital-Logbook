@@ -1,0 +1,13 @@
+[
+  "efflorescenze saline",
+  "sviluppi biodeteriogeni",
+  "presenza di sali solubili",
+  "attacchi biologici (licheni)",
+  "attacco xilofago",
+  "umidità",
+  "infiltrazioni d'acqua",
+  "presenza di sali solubili e non solubili",
+  "presenza di acqua che causa solubilizzazione dei solfati",
+  "presenza insetti"
+]
+

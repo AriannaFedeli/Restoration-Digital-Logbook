@@ -1,0 +1,136 @@
+[
+  {
+    "record_id": "746",
+    "Cantiere": "Cantiere di restauro: AQ-L'Aquila-Museo Nazionale d'Abruzzo-dipinto su tavola-polittico-Madonna col Bambino tra Santi, Storico artistico",
+    "zone/subject_raw": "",
+    "Date": "1991",
+    "Author": "SIRA s.n.c.",
+    "supporto": "Decorato",
+    "zone": [],
+    "materials_used": [
+      "Antitarlo/insetticidi/disinfestazione"
+    ],
+    "technique_used": [
+      "Trattamenti biocidi / disinfestazione"
+    ],
+    "environmental_issue": [],
+    "working_issue": [],
+    "observations": [
+      "Disinfestazione preliminare della struttura lignea."
+    ]
+  },
+  {
+    "record_id": "746",
+    "Cantiere": "Cantiere di restauro: AQ-L'Aquila-Museo Nazionale d'Abruzzo-dipinto su tavola-polittico-Madonna col Bambino tra Santi, Storico artistico",
+    "zone/subject_raw": "",
+    "Date": "1991",
+    "Author": "SIRA s.n.c.",
+    "supporto": "Decorato",
+    "zone": [],
+    "materials_used": [],
+    "technique_used": [],
+    "environmental_issue": [],
+    "working_issue": [],
+    "observations": [
+      "Consolidamento del supporto ligneo."
+    ]
+  },
+  {
+    "record_id": "746",
+    "Cantiere": "Cantiere di restauro: AQ-L'Aquila-Museo Nazionale d'Abruzzo-dipinto su tavola-polittico-Madonna col Bambino tra Santi, Storico artistico",
+    "zone/subject_raw": "",
+    "Date": "1991",
+    "Author": "SIRA s.n.c.",
+    "supporto": "Decorato",
+    "zone": [],
+    "materials_used": [],
+    "technique_used": [
+      "Consolidamento superficiale"
+    ],
+    "environmental_issue": [],
+    "working_issue": [],
+    "observations": [
+      "È stato effettuato un consolidamento della pellicola pittorica."
+    ]
+  },
+  {
+    "record_id": "746",
+    "Cantiere": "Cantiere di restauro: AQ-L'Aquila-Museo Nazionale d'Abruzzo-dipinto su tavola-polittico-Madonna col Bambino tra Santi, Storico artistico",
+    "zone/subject_raw": "",
+    "Date": "1991",
+    "Author": "SIRA s.n.c.",
+    "supporto": "Decorato",
+    "zone": [
+      "Decorazioni dipinte"
+    ],
+    "materials_used": [],
+    "technique_used": [],
+    "environmental_issue": [],
+    "working_issue": [],
+    "observations": [
+      "Pulitura della superficie pittorica eseguita."
+    ]
+  },
+  {
+    "record_id": "746",
+    "Cantiere": "Cantiere di restauro: AQ-L'Aquila-Museo Nazionale d'Abruzzo-dipinto su tavola-polittico-Madonna col Bambino tra Santi, Storico artistico",
+    "zone/subject_raw": "",
+    "Date": "1991",
+    "Author": "SIRA s.n.c.",
+    "supporto": "Decorato",
+    "zone": [  "Decorazioni dipinte"],
+    "materials_used": [
+      "Stucchi (a base calce/resina/cellulosici)"
+    ],
+    "technique_used": [
+      "Stuccatura / integrazione con malte"
+    ],
+    "environmental_issue": [],
+    "working_issue": [
+      "Lacune/perdite di materiale"
+    ],
+    "observations": [
+      "Eseguita stuccatura per colmare le lacune."
+    ]
+  },
+  {
+    "record_id": "746",
+    "Cantiere": "Cantiere di restauro: AQ-L'Aquila-Museo Nazionale d'Abruzzo-dipinto su tavola-polittico-Madonna col Bambino tra Santi, Storico artistico",
+    "zone/subject_raw": "",
+    "Date": "1991",
+    "Author": "SIRA s.n.c.",
+    "supporto": "Decorato",
+    "zone": ["Decorazioni dipinte"],
+    "materials_used": [],
+    "technique_used": [
+      "Integrazione pittorica / reintegrazione cromatica"
+    ],
+    "environmental_issue": [],
+    "working_issue": [],
+    "observations": [
+      "Ripristino estetico e reintegrazione pittorica dell'opera."
+    ]
+  },
+  {
+    "record_id": "746",
+    "Cantiere": "Cantiere di restauro: AQ-L'Aquila-Museo Nazionale d'Abruzzo-dipinto su tavola-polittico-Madonna col Bambino tra Santi, Storico artistico",
+    "zone/subject_raw": "",
+    "Date": "1991",
+    "Author": "SIRA s.n.c.",
+    "supporto": "Decorato",
+    "zone": [
+      "Decorazioni dipinte"
+    ],
+    "materials_used": [
+      "Vernici finali/retoucher (gloss/matt)"
+    ],
+    "technique_used": [
+      "Protezione finale / verniciatura"
+    ],
+    "environmental_issue": [],
+    "working_issue": [],
+    "observations": [
+      "Protezione finale della superficie pittorica con vernice protettiva."
+    ]
+  }
+]
