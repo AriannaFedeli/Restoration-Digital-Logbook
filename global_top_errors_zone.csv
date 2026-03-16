@@ -1,0 +1,36 @@
+error_type,label,count
+FP,Opere mobili,101
+FP,Volte,38
+FP,Decorazioni dipinte,37
+FP,Murature,28
+FP,Torre campanaria,23
+FP,Arredi liturgici,22
+FP,Elementi lapidei/Sculture lapidee,18
+FP,Pavimenti/Solai,12
+FP,Cupola,8
+FP,Colonne/Capitelli/Trabeazioni,8
+FP,Coperture,7
+FP,Cappelle,3
+FP,Presbiterio,3
+FP,Impianti,2
+FP,Abside,1
+FP,Portali/Ingressi,1
+FN,Elementi lapidei/Sculture lapidee,148
+FN,Murature,114
+FN,Opere mobili,84
+FN,Decorazioni dipinte,67
+FN,Abside,35
+FN,Arredi liturgici,29
+FN,Portali/Ingressi,28
+FN,Transetto,24
+FN,Coperture,17
+FN,Pavimenti/Solai,16
+FN,Cupola,11
+FN,Colonne/Capitelli/Trabeazioni,10
+FN,Cappelle,9
+FN,Navata,8
+FN,Volte,4
+FN,Impianti,3
+FN,Torre campanaria,3
+FN,Presbiterio,2
+FN,Documentazione/Analisi,1

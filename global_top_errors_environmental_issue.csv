@@ -1,0 +1,15 @@
+error_type,label,count
+FP,attacco xilofago,8
+FP,presenza insetti,7
+FP,sviluppi biodeteriogeni,6
+FP,presenza di sali solubili,5
+FP,attacchi biologici (licheni),4
+FP,umidità,1
+FP,infiltrazioni d'acqua,1
+FP,presenza di sali solubili e non solubili,1
+FN,sviluppi biodeteriogeni,4
+FN,efflorescenze saline,4
+FN,presenza insetti,3
+FN,"Rimozione di depositi, scialbature o vernici",1
+FN,Pulitura meccanica,1
+FN,presenza di sali solubili e non solubili,1

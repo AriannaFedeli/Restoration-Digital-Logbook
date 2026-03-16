@@ -1,0 +1,26 @@
+error_type,label,count
+FP,Cartaceo,150
+FP,stratigrafico,53
+FP,Archeologico,53
+FP,Murale affrescato,38
+FP,Murario,19
+FP,Scultoreo,15
+FP,Pavimentale,2
+FP,Fotografico,1
+FP,Colonna,1
+FP,Decorato,1
+FN,Murario,182
+FN,Architettonico,99
+FN,Scultoreo,72
+FN,Murale affrescato,32
+FN,Decorato,26
+FN,stratigrafico,19
+FN,Archeologico,19
+FN,Documentario,11
+FN,Pavimentale,9
+FN,Colonna,5
+FN,Capitello,5
+FN,A cupola,3
+FN,Fotografico,2
+FN,Voltato,2
+FN,Cartaceo,1

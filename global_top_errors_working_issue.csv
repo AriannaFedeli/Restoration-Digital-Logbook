@@ -1,0 +1,29 @@
+error_type,label,count
+FP,"Difficoltà operative e accessibilità (quota, posizionamento, intervento diretto)",33
+FP,Lacune/perdite di materiale,21
+FP,Distacco/disancoraggio,15
+FP,Pulitura difficile o non controllabile,11
+FP,Incompatibilità o non idoneità dei materiali,11
+FP,Rischi in movimentazione/sollevamento,11
+FP,Adesione/coesione insufficiente,7
+FP,Sollevamenti della pellicola pittorica,7
+FP,Instabilità strutturale/degli assemblaggi,7
+FP,Fessure/fenditure/fratture/rotture,6
+FP,Deformazioni/dislocazioni/sconnessioni,6
+FP,Decoesione/polverizzazione,4
+FP,Risultati insufficienti/inefficacia del metodo,2
+FP,Infestazioni biologiche (tarli),2
+FP,"Problemi di superficie (bagnabilità, residui, macchie)",1
+FN,Lacune/perdite di materiale,40
+FN,Distacco/disancoraggio,32
+FN,Fessure/fenditure/fratture/rotture,18
+FN,Adesione/coesione insufficiente,9
+FN,Decoesione/polverizzazione,8
+FN,Infestazioni biologiche (tarli),7
+FN,"Problemi di superficie (bagnabilità, residui, macchie)",5
+FN,"Difficoltà operative e accessibilità (quota, posizionamento, intervento diretto)",4
+FN,Instabilità strutturale/degli assemblaggi,1
+FN,Incompatibilità o non idoneità dei materiali,1
+FN,Deformazioni/dislocazioni/sconnessioni,1
+FN,Rischi in movimentazione/sollevamento,1
+FN,Pulitura difficile o non controllabile,1

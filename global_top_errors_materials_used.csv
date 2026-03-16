@@ -1,0 +1,101 @@
+error_type,label,count
+FP,Malte cementizie,34
+FP,Adesivi/colle (generici),29
+FP,"Colori (acquerelli, tempere, smalti)",28
+FP,Soluzioni idroalcoliche,23
+FP,Malte a base calce (premiscelate o tradizionali),21
+FP,"Solventi organici apolari (white spirit, ligroina, isoparaffine, petrolio)",17
+FP,"Solventi organici polari (acetone, etilacetato, MEK, DMF, DMSO)",16
+FP,Soluzioni acquose (generiche),14
+FP,Malte da iniezione/micronizzate,13
+FP,Miscela solvente / diluenti,12
+FP,Tensioattivi e detergenti anionici/cationici,11
+FP,"Cere (emulsioni cerose, cere ossidate)",10
+FP,"Resine epossidiche (Araldite, Sikadur, Epox)",9
+FP,Tensioattivi e detergenti non ionici,9
+FP,Adesivi epossidici/bi-componenti,9
+FP,"Cariche minerali (carbonato di calcio, polveri di pietra/marmo/travertino)",8
+FP,Resine siliconiche/silossaniche,7
+FP,Resine metacriliche/viniliche,7
+FP,Acqua (generica),7
+FP,"Ferramenta e fissaggi (chiodi, viti, bulloni, tasselli, staffe)",7
+FP,Inerti e sabbie,6
+FP,Antitarlo/insetticidi/disinfestazione,6
+FP,Adesivi acrilici (Beva e simili),6
+FP,Pigmenti e terre coloranti,6
+FP,"Supporti e protezioni temporanee (carta siliconata, fodere, tamponi, spugne)",6
+FP,Stucchi (a base calce/resina/cellulosici),6
+FP,"Resine acriliche (Primal, Plexisol, microemulsioni acriliche)",5
+FP,"Legno (massello, assito, multistrato, compensati)",5
+FP,Vernici (generiche),5
+FP,Basi (soluzioni basiche/ammoniaca),5
+FP,"Materiali lapidei (pietra, marmo, ardesia, litotipi)",5
+FP,Vernici finali/retoucher (gloss/matt),5
+FP,Malte strutturali/alte prestazioni,5
+FP,"Gel e addensanti (agar, carbopol, cellulose, mucillagini)",4
+FP,Ossidanti/riducenti (acqua ossigenata e simili),4
+FP,"Elementi di rinforzo (barre filettate, microbarre, piastre, profili)",4
+FP,"Calce (grassello, calce dolce, calce storica)",4
+FP,"Tessuti e TNT (lino, tela, teli TNT, geotessili, garze)",4
+FP,Resine fluorurate,4
+FP,"Carta e carte tecniche (giapponese, velina, riso, assorbente)",3
+FP,"Metalli ferrosi (ferro, acciaio, zincato)",3
+FP,Biocidi/antimuffa/antivegetativi,3
+FP,"Fibre e compositi (fibra di vetro, carbonio, vetroresina)",3
+FP,Laterizio/cotto/mattoni,3
+FP,Protettivi/idrofobizzanti (generici),3
+FP,Adesivi vinilici (Vinavil e simili),2
+FP,"Solventi aromatici/clorurati (toluene, trielina, tricloroetano)",2
+FP,Protettivi silossanici/idrorepellenti a base silicio,2
+FP,"Metalli non ferrosi (rame, ottone, bronzo, alluminio, piombo)",2
+FP,Consolidanti organici (generici),2
+FN,Malte a base calce (premiscelate o tradizionali),44
+FN,Stucchi (a base calce/resina/cellulosici),28
+FN,"Materiali lapidei (pietra, marmo, ardesia, litotipi)",28
+FN,Acqua (generica),27
+FN,"Legno (massello, assito, multistrato, compensati)",25
+FN,"Calce (grassello, calce dolce, calce storica)",24
+FN,Acqua deionizzata/demineralizzata/distillata,23
+FN,"Metalli ferrosi (ferro, acciaio, zincato)",22
+FN,"Consolidanti minerali (silicato di etile, silicati, fluosilicati)",21
+FN,Vernici (generiche),21
+FN,"Carta e carte tecniche (giapponese, velina, riso, assorbente)",18
+FN,Inerti e sabbie,17
+FN,"Sali e tamponi (carbonati, bicarbonati, sali inorganici, soluzioni sature)",17
+FN,"Colori (acquerelli, tempere, smalti)",17
+FN,"Colle animali (coniglio, bue, colletta)",17
+FN,"Solventi organici apolari (white spirit, ligroina, isoparaffine, petrolio)",17
+FN,"Cariche minerali (carbonato di calcio, polveri di pietra/marmo/travertino)",16
+FN,"Resine acriliche (Primal, Plexisol, microemulsioni acriliche)",16
+FN,Calce idraulica / NHL,16
+FN,Biocidi/antimuffa/antivegetativi,16
+FN,Laterizio/cotto/mattoni,14
+FN,"Fibre e compositi (fibra di vetro, carbonio, vetroresina)",13
+FN,"Metalli non ferrosi (rame, ottone, bronzo, alluminio, piombo)",11
+FN,"Resine epossidiche (Araldite, Sikadur, Epox)",11
+FN,"Gel e addensanti (agar, carbopol, cellulose, mucillagini)",11
+FN,"Tessuti e TNT (lino, tela, teli TNT, geotessili, garze)",10
+FN,"Cere (emulsioni cerose, cere ossidate)",9
+FN,"Attrezzature/utensili (bisturi, spazzolini, ponteggi)",9
+FN,"Cellulosa e polpe (arbocell, polpa di carta/cellulosa)",8
+FN,Gesso e stucchi gessosi,8
+FN,Antitarlo/insetticidi/disinfestazione,8
+FN,Tensioattivi e detergenti non ionici,7
+FN,Miscela solvente / diluenti,7
+FN,"Ferramenta e fissaggi (chiodi, viti, bulloni, tasselli, staffe)",6
+FN,Cemento/calcestruzzo/cementite,6
+FN,"Reti e armature (rete elettrosaldata, reti in fibra, Mapegrid)",5
+FN,Adesivi/colle (generici),5
+FN,"Materiali plastici (PVC, polietilene, plexiglas, nylon, velcro)",5
+FN,"Supporti e protezioni temporanee (carta siliconata, fodere, tamponi, spugne)",5
+FN,Cocciopesto/pozzolana e leganti storici,4
+FN,Vernici finali/retoucher (gloss/matt),4
+FN,Oro/dorature/porporina,3
+FN,Soluzioni idroalcoliche,3
+FN,"Materiali per coperture (coppi, tegole, scossaline, membrane)",3
+FN,Resine siliconiche/silossaniche,3
+FN,Acidi (soluzioni acide),3
+FN,Basi (soluzioni basiche/ammoniaca),3
+FN,Pigmenti e terre coloranti,2
+FN,Resine metacriliche/viniliche,2
+FN,Soluzioni acquose (generiche),2

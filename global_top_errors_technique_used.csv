@@ -1,0 +1,42 @@
+error_type,label,count
+FP,Pulitura meccanica,83
+FP,Pulitura chimica,65
+FP,Integrazione pittorica / reintegrazione cromatica,59
+FP,"Rimozione di depositi, scialbature o vernici",45
+FP,Riadesione / fissaggio pellicola pittorica,39
+FP,Interventi su intonaci (intonacatura / reintonacatura),33
+FP,Pulitura ad umido / lavaggio,32
+FP,"Interventi strutturali locali (cuci-scuci, cerchiatura, ancoraggi)",22
+FP,Pulitura con impacchi o gel,19
+FP,Aspirazione / spolveratura,19
+FP,Consolidamento per iniezione / impregnazione,17
+FP,Indagini diagnostiche e analisi preliminari,17
+FP,Preconsolidamento,14
+FP,Ritocco / velatura / patinatura,11
+FP,Sigillature e stilatura giunti,11
+FP,Consolidamento superficiale,8
+FP,Protezione finale / verniciatura,6
+FP,Stuccatura / integrazione con malte,6
+FP,Trattamenti biocidi / disinfestazione,5
+FP,Impermeabilizzazione / idrorepellente,1
+FP,Pulitura laser / tecnologie avanzate,1
+FN,Stuccatura / integrazione con malte,68
+FN,"Rimozione di depositi, scialbature o vernici",46
+FN,Pulitura meccanica,44
+FN,"Interventi strutturali locali (cuci-scuci, cerchiatura, ancoraggi)",37
+FN,Consolidamento superficiale,29
+FN,Protezione finale / verniciatura,27
+FN,Ritocco / velatura / patinatura,26
+FN,Pulitura con impacchi o gel,19
+FN,Pulitura ad umido / lavaggio,18
+FN,Integrazione pittorica / reintegrazione cromatica,14
+FN,Consolidamento per iniezione / impregnazione,12
+FN,Trattamenti biocidi / disinfestazione,11
+FN,Indagini diagnostiche e analisi preliminari,10
+FN,Pulitura chimica,10
+FN,Preconsolidamento,9
+FN,Aspirazione / spolveratura,5
+FN,Sigillature e stilatura giunti,4
+FN,Riadesione / fissaggio pellicola pittorica,3
+FN,Impermeabilizzazione / idrorepellente,2
+FN,Interventi su intonaci (intonacatura / reintonacatura),1

@@ -1,0 +1,13 @@
+label,tp,fp,fn,support_gt,support_pred,precision,recall,f1
+sviluppi biodeteriogeni,13,6,4,17,19,0.6842105263157895,0.7647058823529411,0.7222222222222222
+presenza insetti,4,7,3,7,11,0.36363636363636365,0.5714285714285714,0.4444444444444444
+attacco xilofago,3,8,0,3,11,0.2727272727272727,1.0,0.42857142857142855
+efflorescenze saline,5,0,4,9,5,1.0,0.5555555555555556,0.7142857142857143
+attacchi biologici (licheni),4,4,0,4,8,0.5,1.0,0.6666666666666666
+presenza di sali solubili,3,5,0,3,8,0.375,1.0,0.5454545454545454
+presenza di sali solubili e non solubili,3,1,1,4,4,0.75,0.75,0.75
+umidità,2,1,0,2,3,0.6666666666666666,1.0,0.8
+infiltrazioni d'acqua,1,1,0,1,2,0.5,1.0,0.6666666666666666
+presenza di acqua che causa solubilizzazione dei solfati,1,0,0,1,1,1.0,1.0,1.0
+Pulitura meccanica,0,0,1,1,0,0.0,0.0,0.0
+"Rimozione di depositi, scialbature o vernici",0,0,1,1,0,0.0,0.0,0.0
